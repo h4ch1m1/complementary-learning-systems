@@ -13,6 +13,10 @@ body>aside nav a[aria-current=page]{color:#4599dc;font-weight:600;background:non
 .page-toc button.subheading{padding-left:16px}
 .page-toc button[aria-current=location]{color:#4599dc;font-weight:600}
 .book-toolbar{height:64px;margin-bottom:12px}
+.colab-launch{margin:18px 0 12px;line-height:20px}
+.colab-launch a{display:inline-block;line-height:0;border-radius:3px}
+.book-section .colab-launch img{display:block;width:117px;height:20px;margin:0!important}
+.colab-launch a:focus-visible{outline:2px solid #4599dc;outline-offset:4px}
 .book-section h1{font-size:36px;font-weight:400;line-height:1.15;color:#646464}
 @media(min-width:1600px){.book-main{max-width:1048px;margin-left:calc((100vw - 1600px)/2 + 280px)}body>aside{left:calc((100vw - 1600px)/2)}.page-toc{right:calc((100vw - 1600px)/2)}}
 @media(max-width:1199px){.page-toc{display:none}.book-main{margin-right:0}}
