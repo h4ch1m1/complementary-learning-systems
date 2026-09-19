@@ -1,0 +1,13 @@
+{
+  "seed0_initial_mse": 0.22671744720576112,
+  "seed0_final_mse": 0.009509767385917002,
+  "seed0_positive_recall": 0.7899159663865546,
+  "seed0_nearest_sibling_fraction": 1.0,
+  "seeds": 10,
+  "ordered_hierarchy_runs": 10,
+  "all_siblings_correct_runs": 7,
+  "mse_mean": 0.012192647289740007,
+  "mse_std": 0.0015296409841931882,
+  "gradient_max_absolute_error": 5.710985503948329e-11,
+  "reproduction_level": "qualitative; reconstructed 1994 Figure 4 vocabulary and targets"
+}

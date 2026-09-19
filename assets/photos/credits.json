@@ -1,0 +1,674 @@
+{
+  "oak": {
+    "file": "oak.jpg",
+    "subject": "Quercus robur",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Quercus_robur.jpg/250px-Quercus_robur.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Quercus_robur.jpg",
+    "metadata": {
+      "DateTime": {
+        "value": "2006-05-04 15:48:05",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Quercus robur",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "GFDL|Files with no machine-readable author|Files with no machine-readable source|License migration completed|Media missing infobox template|Quercus robur (fruit)|Quercus robur (leaves)",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "pine": {
+    "file": "pine.jpg",
+    "subject": "Pinus sylvestris",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Skuleskogen_pine.jpg/250px-Skuleskogen_pine.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Skuleskogen_pine.jpg",
+    "metadata": {
+      "DateTime": {
+        "value": "2012-06-18 17:31:56",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Skuleskogen pine",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Pinus sylvestris|Taken with Canon EOS 400D|Skuleskogen National Park|Self-published work|Files with coordinates missing SDC location of creation",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "GPSLatitude": {
+        "value": "63.111667",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "18.532167",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Scots Pine in Tärnättholmarna <i>Presque-isle</i>, Skuleskogen national park.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2012-06-14",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Mickaël Delcey (<a href=\"//commons.wikimedia.org/wiki/User:Silverkey\" title=\"User:Silverkey\">Silverkey</a>)",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "rose": {
+    "file": "rose.jpg",
+    "subject": "Rosa chinensis",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Rosa_chinensis.jpg/250px-Rosa_chinensis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Rosa_chinensis.jpg",
+    "metadata": {
+      "DateTime": {
+        "value": "2006-05-28 07:58:39",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Rosa chinensis",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Rosa chinensis|GFDL|Taken with Fujifilm FinePix F410|License migration completed",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "ロサ　キネンシス　Rosa chinensis",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2006-05-28",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Midori\" title=\"User:Midori\">Sakurai Midori</a>",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "<a href=\"https://en.wikipedia.org/wiki/en:Midori\" class=\"extiw\" title=\"w:en:Midori\">w:en:Midori</a> released on 28. May. 2006 07:56 UTC under the CC-BY-SA-2.0 and GFDL",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "daisy": {
+    "file": "daisy.jpg",
+    "subject": "Bellis perennis",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Bellis_perennis_sl1.jpg/250px-Bellis_perennis_sl1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Bellis_perennis_sl1.jpg",
+    "metadata": {
+      "DateTime": {
+        "value": "2017-10-30 18:24:09",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Bellis perennis sl1",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Bellis perennis|Self-published work|Asterales in Lower Austria|Files with coordinates missing SDC location of creation|Austria photographs taken on 2017-10-26|Pannonian Flora|Teich Michelstetten|Plants of Austria in October",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "GPSLatitude": {
+        "value": "48.594109",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "16.430513",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Habitus<br>\n<p>Taxonym: <i>Bellis perennis</i> ss Fischer et al. EfÖLS 2008 <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/ISBN\" class=\"extiw\" title=\"en:ISBN\"><span lang=\"en\" dir=\"ltr\">ISBN</span></a></span> <a href=\"//commons.wikimedia.org/wiki/Special:BookSources/978-3-85474-187-9\" title=\"Special:BookSources/978-3-85474-187-9\">978-3-85474-187-9</a><br>\nLocation: pond near Michelstetten, district Mistelbach, Lower Austria - ca. 250 m a.s.l.<br>\n</p>\nHabitat: ruderal area",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2017-10-26 13:20:09",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Stefan.lefnaer\" title=\"User:Stefan.lefnaer\">Stefan.lefnaer</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "canary": {
+    "file": "canary.jpg",
+    "subject": "Domestic canary",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/GelbA.JPG/250px-GelbA.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:GelbA.JPG",
+    "metadata": {
+      "DateTime": {
+        "value": "2015-07-02 08:58:40",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "GelbA",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Self-published work|Yellow canaries",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Farbenkanarie aufgehellt gelb intensiv",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2015-07-02",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:NEWSchr\" title=\"User:NEWSchr\">NEWSchr</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "robin": {
+    "file": "robin.jpg",
+    "subject": "American robin",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/American_robin_%2871307%29.jpg/250px-American_robin_%2871307%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:American_robin_(71307).jpg",
+    "metadata": {
+      "DateTime": {
+        "value": "2024-04-16 16:08:14",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "American robin (71307)",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Turdus migratorius|Self-published work|Featured pictures on Wikipedia, English|Files uploaded by Rhododendrites (all)|Birds in Green-Wood Cemetery|Featured pictures by Rhododendrites|Files with coordinates missing SDC location of creation|Featured pictures on English Wikipedia by Rhododendrites|April 2024 in Brooklyn, New York City|Featured pictures of birds in New York City|Photographs taken by Rhododendrites - birds|Photographs taken by Rhododendrites - Green-Wood Cemetery|Files by Rhododendrites - 2024-04|Featured pictures of Turdus migratorius",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "quality|featured",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "GPSLatitude": {
+        "value": "40.652590",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "-73.989218",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "American robin in Green-Wood Cemetery, Brooklyn, NY",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2024-04-07 14:54:04",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Rhododendrites\" title=\"User:Rhododendrites\">Rhododendrites</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "salmon": {
+    "file": "salmon.jpg",
+    "subject": "Sockeye salmon",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Sockeye_salmon_swimming_right.jpg/250px-Sockeye_salmon_swimming_right.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Sockeye_salmon_swimming_right.jpg",
+    "metadata": {
+      "DateTime": {
+        "value": "2020-09-09 01:44:13",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Sockeye salmon swimming right",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Oncorhynchus nerka|PD-author|Images with extracted images",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Two pink sockeye salmon swimming in different directions. Males have a hooked nose and a deep red; within a day of fresh water, they start turning red in salt tasting the brackish water of river.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2016-07-13 23:28:41",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.usgs.gov/media/images/image-sockeye-salmon\">https://www.usgs.gov/media/images/image-sockeye-salmon</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Milton Love, Marine Science Institute, University of California, Santa Barbara, CA 93106",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "sunfish": {
+    "file": "sunfish.jpg",
+    "subject": "Pumpkinseed",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Lepomis_adult.jpg/250px-Lepomis_adult.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Lepomis_adult.jpg",
+    "metadata": {
+      "DateTime": {
+        "value": "2025-10-04 14:10:20",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Lepomis adult",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Lepomis|Self-published work",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Geschlechtsreifer Gemeiner Sonnenbarsch",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2025-10-04",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Lorenz_Seebauer&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Lorenz Seebauer (page does not exist)\">Lorenz Seebauer</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  }
+}

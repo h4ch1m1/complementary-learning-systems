@@ -1,0 +1,19 @@
+/* Layout measurements follow the Neuromatch Jupyter Book tutorial pages. */
+body>aside{width:280px;padding:32px 16px 16px;background:#fff;border-right:1px solid #ccc}
+body>aside nav a{padding:4px 0;margin:0;font-size:14px;line-height:1.65;color:#646464;border:0;background:none}
+body>aside nav a:hover{color:#4599dc;background:none;text-decoration:underline}
+body>aside nav a[aria-current=page]{color:#4599dc;font-weight:600;background:none}
+.nav-caption{margin:24px 0 8px;font-size:14px;font-weight:600;color:#323232}
+.book-title{font-size:16px;line-height:1.5;color:#646464;font-weight:400;margin-bottom:28px}
+.book-main{margin-left:280px;margin-right:272px;max-width:none;padding:0 32px 72px}
+.page-toc{width:272px;padding:12px 16px;border-left:1px solid #eee;font-size:14px;line-height:1.65}
+.page-toc h2{display:flex;align-items:center;gap:8px;font-size:16px;color:#323232;font-weight:400;margin:0 0 12px}
+.page-toc h2:before{content:'☷';font-size:20px}
+.page-toc button{padding:4px 0;color:#646464;font-size:14px;line-height:1.65}
+.page-toc button.subheading{padding-left:16px}
+.page-toc button[aria-current=location]{color:#4599dc;font-weight:600}
+.book-toolbar{height:64px;margin-bottom:12px}
+.book-section h1{font-size:36px;font-weight:400;line-height:1.15;color:#646464}
+@media(min-width:1600px){.book-main{max-width:1048px;margin-left:calc((100vw - 1600px)/2 + 280px)}body>aside{left:calc((100vw - 1600px)/2)}.page-toc{right:calc((100vw - 1600px)/2)}}
+@media(max-width:1199px){.page-toc{display:none}.book-main{margin-right:0}}
+@media(max-width:760px){body>aside{position:relative;width:auto;padding:20px 16px}.book-main{margin:0;padding:0 20px 50px}.book-section h1{font-size:30px}}

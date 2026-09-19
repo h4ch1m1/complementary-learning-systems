@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en"><meta charset="utf-8">
+<style>
+body{margin:16px;font:15px system-ui;color:#222;background:white}header{display:flex;gap:16px;align-items:center;flex-wrap:wrap}button{padding:6px 16px;background:white;border:1px solid #888;cursor:pointer}input{width:100%;margin:16px 0}.plots{display:grid;grid-template-columns:1fr 1fr;gap:24px}svg{width:100%;height:auto}h3{font-size:16px;font-weight:500;margin:12px 0}p{font-size:13px;color:#555}svg text{font:13px Georgia,serif;fill:#222}@media(max-width:600px){.plots{grid-template-columns:1fr}}
+</style>
+<style>
+header{gap:10px;font-size:14px}header button{background:#f5f5f5;border:1px solid #ccc;border-radius:2px;padding:4px 12px}#number{display:inline-block;min-width:42px;padding:3px 6px;border:1px solid #ddd;text-align:right;font-variant-numeric:tabular-nums;background:#fafafa}#loss{color:#666;margin-left:12px}#epoch{appearance:none;-webkit-appearance:none;display:block;width:min(460px,100%);height:5px;margin:20px 0 28px;background:#ddd;border:1px solid #ccc;border-radius:2px;cursor:pointer}#epoch::-webkit-slider-thumb{appearance:none;-webkit-appearance:none;width:15px;height:23px;background:#f7f7f7;border:1px solid #aaa;border-radius:3px;box-shadow:0 1px 2px #0002}#epoch::-moz-range-thumb{width:15px;height:23px;background:#f7f7f7;border:1px solid #aaa;border-radius:3px}#epoch:focus-visible{outline:2px solid #4682b4;outline-offset:5px}
+</style>
+<style>.plots{display:block;max-width:720px;margin:auto}.plots section{margin-bottom:36px}.plots svg{max-width:580px;display:block}#epoch6{accent-color:#888;width:min(460px,100%);height:5px;margin:20px 0 28px}#number6{display:inline-block;min-width:42px;padding:3px 6px;border:1px solid #ddd;text-align:right;background:#fafafa}</style>
+<div class="plots"><section><h3>Representation unit activities</h3>
+<header><button id="play" type="button">Play</button><label for="epoch">Epoch</label><output id="number" for="epoch">0</output><span id="loss"></span></header>
+<input id="epoch" type="range" min="0" max="0" value="0" step="1" aria-label="Epoch">
+<svg id="bars" viewBox="-65 0 485 660" role="img" aria-label="Representation activities for eight concepts"></svg></section>
+<section><h3>Representational similarity</h3>
+<header><button id="play6" type="button">Play</button><label for="epoch6">Epoch</label><output id="number6" for="epoch6">0</output><span id="loss6"></span></header>
+<input id="epoch6" type="range" min="0" max="0" value="0" step="1" aria-label="Representational similarity: Epoch">
+<svg id="tree" viewBox="-65 0 485 430" role="img" aria-label="Dendrogram at the selected epoch"></svg></section></div>
+<script>
+const figureStyle=document.createElement('style');
+figureStyle.textContent='body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Helvetica Neue",Arial,sans-serif;color:#323232;margin:0;padding:8px 0 20px;line-height:1.65}.plots{max-width:650px;margin:0 auto}.plots section{margin-bottom:44px}.plots h3{font-size:20px;font-weight:400;color:#646464;margin:12px 0 18px}.plots svg{max-width:580px;margin:20px auto 12px}svg text{font-family:Arial,"Helvetica Neue",sans-serif;font-size:12px}p,details{max-width:650px;margin:14px auto;font-size:13px;color:#646464}header{font-size:13px}';
+document.head.appendChild(figureStyle);
+new ResizeObserver(()=>{parent.postMessage({type:'cls-figure-height',height:document.documentElement.offsetHeight},'*');}).observe(document.body);
+const controlStyle=document.createElement('style');
+controlStyle.textContent=Array.from(document.querySelectorAll('style')).map(s=>s.textContent).find(s=>s.includes('#epoch::-webkit-slider-thumb')).replaceAll('#epoch','#epoch6').replaceAll('#number','#number6').replaceAll('#loss','#loss6');
+document.head.appendChild(controlStyle);
+const data = __TRAINING_DATA__;
+const slider=document.getElementById('epoch'), number=document.getElementById('number');
+const bars=document.getElementById('bars'), tree=document.getElementById('tree');
+const play=document.getElementById('play');
+const palette={C0:'#64748b',C1:'#2563eb',C2:'#059669',C3:'#d97706',C4:'#9333ea',C5:'#db2777',C6:'#0891b2',C7:'#92400e',C8:'#4d7c0f',C9:'#be123c'};
+let timer=null;
+slider.max=data.frames.length-1;
+const text=(x,y,s,extra='')=>`<text x="${x}" y="${y}" ${extra}>${s}</text>`;
+const line=(x1,y1,x2,y2)=>`<line x1="${x1}" y1="${y1}" x2="${x2}" y2="${y2}" stroke="black" stroke-width="1"/>`;
+function draw(epoch){
+  const frame=data.frames[epoch]; slider.value=epoch; number.value=epoch;
+  document.getElementById('loss').textContent=`MSE ${data.losses[epoch].toFixed(5)}`;
+  let a='';
+  frame.activity.forEach((row,i)=>{
+    const base=92+i*70;
+    a+=`<image href="${data.photos[data.labels[i]]}" x="-62" y="${base-61}" width="60" height="58" preserveAspectRatio="xMidYMid meet"><title>${data.labels[i]}</title></image>`;
+    a+=text(78,base-25,data.labels[i],'text-anchor="end"');
+    a+=`<rect x="90" y="${base-64}" width="304" height="64" fill="none" stroke="black"/>`;
+    row.forEach((v,j)=>{
+      const height=v*64, x=98+j*36;
+      a+=`<rect data-value="${v}" x="${x}" y="${base-height}" width="27" height="${height}" fill="white" stroke="black"><title>${data.labels[i]}, unit ${j+1}: ${v.toFixed(3)}</title></rect>`;
+    });
+  });
+  for(let j=0;j<8;j++)a+=text(111+j*36,609,j+1,'text-anchor="middle"');
+  a+=text(242,638,'Representation unit','text-anchor="middle"'); bars.innerHTML=a;
+}
+function drawTree(epoch){
+  const frame=data.frames[epoch];
+  document.getElementById('epoch6').value=epoch;
+  document.getElementById('number6').value=epoch;
+  document.getElementById('loss6').textContent=`MSE ${data.losses[epoch].toFixed(5)}`;
+  const X=v=>90+v/data.maxDistance*304, Y=v=>30+(80-v)/80*336;
+  let b=line(90,24,394,24);
+  b+=`<line x1="${X(.45)}" x2="${X(.45)}" y1="28" y2="375" stroke="#94a3b8" stroke-dasharray="5 5"/>`;
+  for(let j=0;j<=3;j++){const v=data.maxDistance*j/3;b+=line(X(v),20,X(v),24)+text(X(v),15,v.toFixed(2),'text-anchor="middle"');}
+  frame.order.forEach((leaf,i)=>{
+    b+=`<image href="${data.photos[data.labels[leaf]]}" x="-62" y="${Y(5+i*10)-18}" width="52" height="36" preserveAspectRatio="xMidYMid meet"><title>${data.labels[leaf]}</title></image>`;
+    b+=text(78,Y(5+i*10)+4,data.labels[leaf],`text-anchor="end" style="fill:${palette[frame.leafColors[i]]};font-weight:bold"`);
+  });
+  frame.icoord.forEach((ys,i)=>{const xs=frame.dcoord[i]; b+=`<polyline points="${ys.map((v,j)=>`${X(xs[j])},${Y(v)}`).join(' ')}" fill="none" stroke="${palette[frame.colors[i]]}" stroke-width="3"/>`;});
+  b+=text(242,412,'Euclidean linkage distance','text-anchor="middle"'); tree.innerHTML=b;
+}
+function stop(){clearInterval(timer);timer=null;play.textContent='Play';}
+slider.addEventListener('input',()=>{stop();draw(Number(slider.value));});
+play.addEventListener('click',()=>{
+  if(timer){stop();return;}
+  if(Number(slider.value)>=Number(slider.max))draw(0);
+  play.textContent='Pause';timer=setInterval(()=>{let e=Number(slider.value)+1;if(e>Number(slider.max)){stop();return;}draw(e);},60);
+});
+draw(data.frames.length-1);
+const slider6=document.getElementById('epoch6'),play6=document.getElementById('play6');
+let timer6=null;
+slider6.max=data.frames.length-1;
+function stop6(){clearInterval(timer6);timer6=null;play6.textContent='Play';}
+slider6.addEventListener('input',()=>{stop6();drawTree(Number(slider6.value));});
+play6.addEventListener('click',()=>{
+  if(timer6){stop6();return;}
+  if(Number(slider6.value)>=Number(slider6.max))drawTree(0);
+  play6.textContent='Pause';timer6=setInterval(()=>{const e=Number(slider6.value)+1;if(e>Number(slider6.max)){stop6();return;}drawTree(e);},60);
+});
+drawTree(data.frames.length-1);
+</script></html>

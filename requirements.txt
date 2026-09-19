@@ -1,0 +1,11 @@
+numpy
+scipy
+matplotlib
+pandas
+nbformat
+nbclient
+ipykernel
+nbconvert
+torch
+ipywidgets
+pillow

@@ -1,0 +1,61 @@
+﻿item,relation,positive_targets
+living thing,isa,living thing
+living thing,is,living
+living thing,can,grow
+living thing,has,
+plant,isa,living thing; plant
+plant,is,living
+plant,can,grow
+plant,has,
+animal,isa,living thing; animal
+animal,is,living
+animal,can,grow; move
+animal,has,
+tree,isa,living thing; plant; tree
+tree,is,living; big
+tree,can,grow
+tree,has,bark
+flower,isa,living thing; plant; flower
+flower,is,living; pretty
+flower,can,grow
+flower,has,petals
+bird,isa,living thing; animal; bird
+bird,is,living
+bird,can,grow; move; fly
+bird,has,feathers
+fish,isa,living thing; animal; fish
+fish,is,living
+fish,can,grow; move; swim
+fish,has,scales
+pine,isa,living thing; plant; tree; pine
+pine,is,living; green; big
+pine,can,grow
+pine,has,bark
+oak,isa,living thing; plant; tree; oak
+oak,is,living; big; tall
+oak,can,grow
+oak,has,bark
+rose,isa,living thing; plant; flower; rose
+rose,is,living; pretty; red
+rose,can,grow
+rose,has,petals
+daisy,isa,living thing; plant; flower; daisy
+daisy,is,living; pretty; yellow
+daisy,can,grow
+daisy,has,petals
+robin,isa,living thing; animal; bird; robin
+robin,is,living; red
+robin,can,grow; move; fly
+robin,has,feathers
+canary,isa,living thing; animal; bird; canary
+canary,is,living; yellow
+canary,can,grow; move; fly; sing
+canary,has,feathers
+sunfish,isa,living thing; animal; fish; sunfish
+sunfish,is,living; yellow
+sunfish,can,grow; move; swim
+sunfish,has,scales
+salmon,isa,living thing; animal; fish; salmon
+salmon,is,living; red
+salmon,can,grow; move; swim
+salmon,has,scales
