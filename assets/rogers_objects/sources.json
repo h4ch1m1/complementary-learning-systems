@@ -1,0 +1,3400 @@
+{
+  "bird": {
+    "src": "../assets/rogers_objects/bird.jpg",
+    "title": "House sparrow",
+    "source": "https://commons.wikimedia.org/wiki/File:House_sparrow_male_in_Prospect_Park_%2853532%29.jpg",
+    "article": "https://en.wikipedia.org/wiki/House_sparrow",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/House_sparrow_male_in_Prospect_Park_%2853532%29.jpg/330px-House_sparrow_male_in_Prospect_Park_%2853532%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "metadata": {
+      "DateTime": {
+        "value": "2022-11-14 21:56:41",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "House sparrow male in Prospect Park (53532)",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Passer domesticus (male)|New York City photographs taken on 2022-11-05|Self-published work|Featured pictures on Wikipedia, English|Files uploaded by Rhododendrites (all)|Aves in right lateral aspect|Featured pictures by Rhododendrites|Files with coordinates missing SDC location of creation|Featured pictures on English Wikipedia by Rhododendrites|Prospect Park in 2022|Birds in November 2022|Birds on green background|November 2022 in Brooklyn, New York City|Featured pictures of birds in New York City|Photographs taken by Rhododendrites - birds|Photographs taken by Rhododendrites - Prospect Park|Files by Rhododendrites - 2022-11|Featured pictures of Passer domesticus",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "quality|featured|valued",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "GPSLatitude": {
+        "value": "40.662094",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "-73.969178",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Male house sparrow in Prospect Park",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2022-11-05 14:49:23",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Rhododendrites\" title=\"User:Rhododendrites\">Rhododendrites</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "bytes": 16843
+  },
+  "mammal": {
+    "src": "../assets/rogers_objects/mammal.jpg",
+    "title": "Red fox",
+    "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_a_red_fox_in_Rautas_fj%C3%A4llurskog_%28cropped%29.jpg",
+    "article": "https://en.wikipedia.org/wiki/Red_fox",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Portrait_of_a_red_fox_in_Rautas_fj%C3%A4llurskog_%28cropped%29.jpg/330px-Portrait_of_a_red_fox_in_Rautas_fj%C3%A4llurskog_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "metadata": {
+      "DateTime": {
+        "value": "2025-12-16 13:25:24",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Portrait of a red fox in Rautas fjällurskog (cropped)",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Rautas fjällurskog|Self-published work|Extracted images|Vulpes vulpes in Sweden|Images from Wiki Loves Earth 2023 in Sweden|Images from Wiki Loves Earth 2023|Uploaded via Campaign:wle-se|Images from Wiki Loves Earth missing SDC source of file|Images from Wiki Loves Earth missing SDC creator|Images from Wiki Loves Earth missing SDC inception|Images from Wiki Loves Earth missing SDC participant in|Vulpes vulpes in snow|Side views of Vulpes vulpes",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Portrait of a red fox in <a href=\"https://sv.wikipedia.org/wiki/Rautas_fj%C3%A4llurskog\" class=\"extiw\" title=\"sv:Rautas fjällurskog\">Rautas fjällurskog</a> nature reserve, Sweden.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2022-11-26 12:37:00",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:ClaudiaTen&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:ClaudiaTen (page does not exist)\">ClaudiaTen</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "bytes": 20969
+  },
+  "vehicle": {
+    "src": "../assets/rogers_objects/vehicle.jpg",
+    "title": "Bus",
+    "source": "https://commons.wikimedia.org/wiki/File:LTZ1328-19-20241030-160332.jpg",
+    "article": "https://en.wikipedia.org/wiki/Bus",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/LTZ1328-19-20241030-160332.jpg/330px-LTZ1328-19-20241030-160332.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "metadata": {
+      "DateTime": {
+        "value": "2024-10-30 22:02:11",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "LTZ1328-19-20241030-160332",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Battersea|Self-published work|Images with extracted images|Buses in the London Borough of Wandsworth|2024 in the London Borough of Wandsworth|Buses in London photographed in 2024|LT class London buses in Arriva Mk5 TfL roundel hybrid cleaner air mark livery|Buses in the United Kingdom photographed in October 2024|London photographs taken on 2024-10-30|LT class London buses on route 19",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Arriva London North New Routemaster (LTZ1328/LT328) on Route 19 to Finsbury Park at Battersea",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2024-10-30 16:03:32",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:SIA321\" title=\"User:SIA321\">SIA321</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "bytes": 34804
+  },
+  "tool": {
+    "src": "../assets/rogers_objects/tool.jpg",
+    "title": "Pliers",
+    "source": "https://commons.wikimedia.org/wiki/File:Tool-pliers.jpg",
+    "article": "https://en.wikipedia.org/wiki/Pliers",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Tool-pliers.jpg/330px-Tool-pliers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "metadata": {
+      "DateTime": {
+        "value": "2010-09-01 23:17:24",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Tool-pliers",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Taken with Sony DSLR-A700|Self-published work|PD-self|Evan Amos|Slip-joint pliers",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Flat-nosed pliers.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2010-08-31",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Evan-Amos\" title=\"User:Evan-Amos\">Evan-Amos</a>",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td></tr></tbody></table>\n<table style=\"width: 100%; clear: both; margin: 0.5em auto; background-color: var(--background-color-progressive-subtle, #f7f8ff); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #8888aa); border-spacing: 8px; padding: 0px;\" dir=\"ltr\" class=\"layouttemplate\" lang=\"en\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span title=\"Public domain\"><img alt=\"Public domain\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"196\" data-file-height=\"196\"></span></span>\n</td>\n<td>I, the copyright holder of this work, release this work into the <b><a href=\"https://en.wikipedia.org/wiki/en:public_domain\" class=\"extiw\" title=\"w:en:public domain\">public domain</a></b>. This applies worldwide.<br><small>In some countries this may not be legally possible; if so:</small><br><i>I grant anyone the right to use this work <b>for any purpose</b>, without any conditions, unless such conditions are required by law.</i>\n</td></tr></tbody></table>",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "bytes": 8053
+  },
+  "chicken": {
+    "src": "../assets/rogers_objects/chicken.jpg",
+    "title": "Chicken",
+    "source": "https://commons.wikimedia.org/wiki/File:Male_and_female_chicken_sitting_together.jpg",
+    "article": "https://en.wikipedia.org/wiki/Chicken",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Male_and_female_chicken_sitting_together.jpg/330px-Male_and_female_chicken_sitting_together.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "metadata": {
+      "DateTime": {
+        "value": "2023-06-10 07:48:22",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Male and female chicken sitting together",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Rhode Island Red|Flickr images reviewed by FlickreviewR|Chicken couples",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "A rooster and a hen roosting together.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2007-12-23 11:46",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/29465285@N00/2137186793/\">Friends</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/29465285@N00\">Andrei Niemimäki</a> from Turku, Finland",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 2.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 2.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-2.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "bytes": 48761
+  },
+  "raven": {
+    "title": "Common raven",
+    "src": "../assets/rogers_objects/raven.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Corvus_corax_clarionensis%2C_Point_Reyes_National_Seashore.jpg/330px-Corvus_corax_clarionensis%2C_Point_Reyes_National_Seashore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "article": "https://en.wikipedia.org/wiki/Common_raven",
+    "bytes": 25899,
+    "source": "https://commons.wikimedia.org/wiki/File:Corvus_corax_clarionensis%2C_Point_Reyes_National_Seashore.jpg",
+    "metadata": {
+      "DateTime": {
+        "value": "2018-03-30 16:22:19",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Corvus corax clarionensis, Point Reyes National Seashore",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Taken with Canon EOS 5D Mark IV|Featured pictures of California|Self-published work|Featured pictures by Frank Schulenburg|Information field template with formatting|Aves in right lateral aspect|United States photographs taken on 2018-03-25|Beaks (open)|Files with coordinates missing SDC location of creation|Corvus corax in the United States|Passeriformes of Point Reyes National Seashore|Featured pictures of Corvus corax",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "quality|featured",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "GPSLatitude": {
+        "value": "38.183747",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "-122.953600",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "American Raven (<i>Corvus corax clarionensis</i>) calling at Point Reyes National Seashore, Marin County, California",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2018-03-25 11:00:22",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q57175365\" class=\"extiw\" title=\"d:Q57175365\"><span title=\"German-American photographer, Wikipedian, and Executive Director of the Wiki Education Foundation\">Frank Schulenburg</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "Attribution": {
+        "value": "© Frank Schulenburg",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "swan": {
+    "title": "Mute swan",
+    "src": "../assets/rogers_objects/swan.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/CygneVaires.jpg/330px-CygneVaires.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "article": "https://en.wikipedia.org/wiki/Mute_swan",
+    "bytes": 21293,
+    "source": "https://commons.wikimedia.org/wiki/File:CygneVaires.jpg",
+    "metadata": {
+      "DateTime": {
+        "value": "2018-08-24 10:29:25",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "CygneVaires",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "GFDL|Taken with Canon EOS 400D|Location possible|License migration redundant|Self-published work|Featured pictures of Cygnus olor|Featured pictures on Wikipedia, Azeri|Cygnus olor (swimming in November)",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "quality|featured|potd",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "A mute swan. (<i>Cygnus olor</i>)",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2007-11-04",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Sanchezn\" title=\"User:Sanchezn\">Sanchezn</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "ostrich": {
+    "title": "Common ostrich",
+    "src": "../assets/rogers_objects/ostrich.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Struthio_camelus_-_Etosha_2014_%283%29.jpg/330px-Struthio_camelus_-_Etosha_2014_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "article": "https://en.wikipedia.org/wiki/Common_ostrich",
+    "bytes": 25907,
+    "source": "https://commons.wikimedia.org/wiki/File:Struthio_camelus_-_Etosha_2014_%283%29.jpg",
+    "metadata": {
+      "DateTime": {
+        "value": "2015-05-09 22:39:44",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Struthio camelus - Etosha 2014 (3)",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Self-published work|3 birds|Struthio camelus australis of Etosha National Park|Struthio camelus (mixed pairs)",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Common ostrich male and females in Etosha National Park",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2014-03-13 16:45:40",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Yathin_sk\" title=\"User:Yathin sk\">Yathin S Krishnappa</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "penguin": {
+    "title": "Emperor penguin",
+    "src": "../assets/rogers_objects/penguin.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Aptenodytes_forsteri_-Snow_Hill_Island%2C_Antarctica_-adults_and_juvenile-8.jpg/330px-Aptenodytes_forsteri_-Snow_Hill_Island%2C_Antarctica_-adults_and_juvenile-8.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "article": "https://en.wikipedia.org/wiki/Emperor_penguin",
+    "bytes": 35787,
+    "source": "https://commons.wikimedia.org/wiki/File:Aptenodytes_forsteri_-Snow_Hill_Island%2C_Antarctica_-adults_and_juvenile-8.jpg",
+    "metadata": {
+      "DateTime": {
+        "value": "2023-07-26 21:25:03",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Aptenodytes forsteri -Snow Hill Island, Antarctica -adults and juvenile-8",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Aptenodytes forsteri (juvenile)|Files from Flickr with changed licenses|Flickr images reviewed by File Upload Bot (Magnus Manske)|Birds of Snow Hill Island",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Two adult <a href=\"https://en.wikipedia.org/wiki/Emperor_Penguins\" class=\"extiw\" title=\"en:Emperor Penguins\">Emperor Penguins</a> with a juvenile on <a href=\"https://en.wikipedia.org/wiki/Snow_Hill_Island\" class=\"extiw\" title=\"en:Snow Hill Island\">Snow Hill Island</a>, Antarctica.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2009-11-17 14:34",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<p><a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/38323841@N00/4322964957/\">Animal Portraits</a>\n</p>\n<ul><li>Uploaded by <a href=\"//commons.wikimedia.org/wiki/User:Snowmanradio\" title=\"User:Snowmanradio\">Snowmanradio</a></li></ul>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/38323841@N00\">Ian Duffy</a> from UK",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY 2.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 2.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/2.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-2.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "cat": {
+    "title": "Cat",
+    "src": "../assets/rogers_objects/cat.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Siam_lilacpoint.jpg/330px-Siam_lilacpoint.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "article": "https://en.wikipedia.org/wiki/Cat",
+    "bytes": 34961,
+    "source": "https://commons.wikimedia.org/wiki/File:Siam_lilacpoint.jpg",
+    "metadata": {
+      "DateTime": {
+        "value": "2007-11-04 20:12:32",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Siam lilacpoint",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "GFDL|License migration completed|Sitting cats|Lilac point cats|Lilac point Siamese cats|Cats facing right",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "8 month old <a href=\"https://en.wikipedia.org/wiki/Siamese_cat\" class=\"extiw\" title=\"en:Siamese cat\">Siamese cat</a>, with lilac points, facing right",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "Aufnahme August 2007",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Kam%C3%A9e\" title=\"User:Kamée\">Karin Langner-Bahmann</a>, upload von <a href=\"//commons.wikimedia.org/wiki/User:Martin_Bahmann\" title=\"User:Martin Bahmann\">Martin Bahmann</a>",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "Erlaubnis für Upload und Lizenzierung durch die Fotografin erteilt.",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "dog": {
+    "title": "Dog",
+    "src": "../assets/rogers_objects/dog.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Huskiesatrest.jpg/330px-Huskiesatrest.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "article": "https://en.wikipedia.org/wiki/Dog",
+    "bytes": 32110,
+    "source": "https://commons.wikimedia.org/wiki/File:Huskiesatrest.jpg",
+    "metadata": {
+      "DateTime": {
+        "value": "2017-03-24 22:00:31",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Huskiesatrest",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Flickr images reviewed by FlickreviewR|Dogsleds in Canada|Unidentified locations in Ottawa|Husky in snow",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Dogsled huskies at rest after racing.  Governor General's winter party, Ottawa, Canada.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2011-01",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/quoimedia/5403502096/\">https://www.flickr.com/photos/quoimedia/5403502096/</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "M. Rehemtulla",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY 2.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 2.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/2.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-2.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "mouse": {
+    "title": "House mouse",
+    "src": "../assets/rogers_objects/mouse.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Mouse_white_background.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "article": "https://en.wikipedia.org/wiki/House_mouse",
+    "bytes": 10591,
+    "source": "https://commons.wikimedia.org/wiki/File:Mouse_white_background.jpg",
+    "metadata": {
+      "DateTime": {
+        "value": "2006-05-14 11:33:26",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Mouse white background",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "PD-user|National Institutes of Health images|Retouched pictures|PD US NIH|Unknown date|Template Unknown (author)|CC-PD-Mark|Mammals on white background|Mus musculus (illustrations)",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Common <a href=\"//commons.wikimedia.org/wiki/Mus_musculus\" title=\"Mus musculus\">house mouse</a> (<i>Mus musculus</i>), wild type.  Edited to change the background color.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "Unknown date (original) / 14 May 2006 (retouched version)",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "Based on <a href=\"//commons.wikimedia.org/wiki/File:House_mouse.jpg\" title=\"File:House mouse.jpg\">File:House mouse.jpg</a> from <a rel=\"nofollow\" class=\"external free\" href=\"http://www.nigms.nih.gov/NR/rdonlyres/89908011-CCC4-4A12-BC08-BC64FCA62DF8/0/mouse.jpg\">http://www.nigms.nih.gov/NR/rdonlyres/89908011-CCC4-4A12-BC08-BC64FCA62DF8/0/mouse.jpg</a> at <a rel=\"nofollow\" class=\"external free\" href=\"http://www.nigms.nih.gov/Initiatives/Models/\">http://www.nigms.nih.gov/Initiatives/Models/</a> (formerly at <a rel=\"nofollow\" class=\"external free\" href=\"http://www.nigms.nih.gov/research/modelorganisms.html\">http://www.nigms.nih.gov/research/modelorganisms.html</a>)",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Unknown author<span style=\"display: none;\">Unknown author</span> (original) / <a href=\"//commons.wikimedia.org/wiki/User:Ilmari_Karonen\" title=\"User:Ilmari Karonen\">Ilmari Karonen</a> (editing)",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "As a US government publication, the original picture is in the public domain.  The retouched version has been released into the public domain by its author.",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "goat": {
+    "title": "Goat",
+    "src": "../assets/rogers_objects/goat.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Hausziege_04.jpg/330px-Hausziege_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "article": "https://en.wikipedia.org/wiki/Goat",
+    "bytes": 27334,
+    "source": "https://commons.wikimedia.org/wiki/File:Hausziege_04.jpg",
+    "metadata": {
+      "DateTime": {
+        "value": "2010-07-22 09:04:15",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Hausziege 04",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Capra aegagrus hircus|Taken with Canon EOS 5D Mark II|Fiesch|Files with broken file links|Self-published work|Images with extracted images|Files with coordinates missing SDC location of creation|Goats in the canton of Valais",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "GPSLatitude": {
+        "value": "46.409110",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "8.138155",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Goat, located in Fiesch, Valais (Switzerland).",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2010-07-13",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Kuebi\" title=\"User:Kuebi\">Kuebi</a> = Armin Kübelbeck",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "pig": {
+    "title": "Pig",
+    "src": "../assets/rogers_objects/pig.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Pig_farm_Vampula_1.jpg/330px-Pig_farm_Vampula_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "article": "https://en.wikipedia.org/wiki/Pig",
+    "bytes": 28351,
+    "source": "https://commons.wikimedia.org/wiki/File:Pig_farm_Vampula_1.jpg",
+    "metadata": {
+      "DateTime": {
+        "value": "2021-09-23 15:58:39",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Pig farm Vampula 1",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Self-published work|Pigs in Finland|Pig husbandry in Finland",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "quality",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Pig farm in Vampula, Finland.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2021-07-31 19:54:45",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Kallerna\" title=\"User:Kallerna\">kallerna</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "car": {
+    "src": "../assets/rogers_objects/car.jpg",
+    "title": "Car",
+    "source": "https://commons.wikimedia.org/wiki/File:1925_Ford_Model_T_touring.jpg",
+    "article": "https://en.wikipedia.org/wiki/Car",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/1925_Ford_Model_T_touring.jpg/330px-1925_Ford_Model_T_touring.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "metadata": {
+      "DateTime": {
+        "value": "2018-06-01 04:59:11",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "1925 Ford Model T touring",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Self-published work|PD-old-60-expired|Ford Model T (1924–1925) Touring",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "1925 Ford Model T touring, built at Henry Ford’s Highland Park Plant in Dearborn, Michigan. This example now resides in Australia, owned by the founder of FordModelT.net",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2018-01-25 16:12:25",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:ModelTMitch\" title=\"User:ModelTMitch\">ModelTMitch</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "bytes": 43523
+  },
+  "lorry": {
+    "title": "Truck",
+    "src": "../assets/rogers_objects/lorry.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/2001_Ford_F-250_Super_Duty_XL_regular_cab_flatbed%2C_front_left%2C_05-17-2025.jpg/330px-2001_Ford_F-250_Super_Duty_XL_regular_cab_flatbed%2C_front_left%2C_05-17-2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "article": "https://en.wikipedia.org/wiki/Truck",
+    "bytes": 37251,
+    "source": "https://commons.wikimedia.org/wiki/File:2001_Ford_F-250_Super_Duty_XL_regular_cab_flatbed%2C_front_left%2C_05-17-2025.jpg",
+    "metadata": {
+      "DateTime": {
+        "value": "2025-05-17 19:58:58",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "2001 Ford F-250 Super Duty XL regular cab flatbed, front left, 05-17-2025",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Self-published work|2001 Ford trucks|Ford F-250 Super Duty (PHN131)|Red Ford trucks",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "2001 Ford F-250 Super Duty XL regular cab flatbed photographed in Portersville, Pennsylvania. Finished in Toreador Red Clearcoat Metallic.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2025-05-17 14:32:23",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:MercurySable99\" title=\"User:MercurySable99\">MercurySable99</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "boat": {
+    "title": "Boat",
+    "src": "../assets/rogers_objects/boat.JPG",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Motorboat_at_Kankaria_lake.JPG/330px-Motorboat_at_Kankaria_lake.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "article": "https://en.wikipedia.org/wiki/Boat",
+    "bytes": 16236,
+    "source": "https://commons.wikimedia.org/wiki/File:Motorboat_at_Kankaria_lake.JPG",
+    "metadata": {
+      "DateTime": {
+        "value": "2012-12-21 14:20:35",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Motorboat at Kankaria lake",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Taken with Nikon D70|Motorboats|Kankaria Lake|Self-published work",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Motorboat being docked at Kankaria lake, Ahmedabad.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2012-04-08 11:01:54",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Kondicherry\" title=\"User:Kondicherry\">Kondicherry</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "sledge": {
+    "title": "Sled",
+    "src": "../assets/rogers_objects/sledge.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Volunteer_Mushing_on_Wonder_Lake_%287065286379%29.jpg/330px-Volunteer_Mushing_on_Wonder_Lake_%287065286379%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "article": "https://en.wikipedia.org/wiki/Sled",
+    "bytes": 27126,
+    "source": "https://commons.wikimedia.org/wiki/File:Volunteer_Mushing_on_Wonder_Lake_%287065286379%29.jpg",
+    "metadata": {
+      "DateTime": {
+        "value": "2013-11-14 04:56:09",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Volunteer Mushing on Wonder Lake (7065286379)",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "2012 in Alaska|Taken with Canon EOS 7D|Dogsleds|Wonder Lake|PD US NPS|Flickr images reviewed by File Upload Bot (Magnus Manske)|Files from DenaliNPS Flickr stream",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "(NPS PHOTO / JACOB W. FRANK)",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2012-03-17 12:42",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<p><a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/denalinps/7065286379/\">Volunteer Mushing on Wonder Lake</a>\n</p>\n<ul><li>Uploaded by <a href=\"//commons.wikimedia.org/wiki/User:AlbertHerring\" class=\"mw-redirect\" title=\"User:AlbertHerring\">AlbertHerring</a></li></ul>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/57557144@N06\">Denali National Park and Preserve</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "train": {
+    "title": "Train",
+    "src": "../assets/rogers_objects/train.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/%D0%9F%D0%BE%D0%B5%D0%B7%D0%B4_%D0%BD%D0%B0_%D1%84%D0%BE%D0%BD%D0%B5_%D0%B3%D0%BE%D1%80%D1%8B_%D0%A8%D0%B0%D1%82%D1%80%D0%B8%D1%89%D0%B5._%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C.jpg/330px-%D0%9F%D0%BE%D0%B5%D0%B7%D0%B4_%D0%BD%D0%B0_%D1%84%D0%BE%D0%BD%D0%B5_%D0%B3%D0%BE%D1%80%D1%8B_%D0%A8%D0%B0%D1%82%D1%80%D0%B8%D1%89%D0%B5._%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "article": "https://en.wikipedia.org/wiki/Train",
+    "bytes": 35421,
+    "source": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%BE%D0%B5%D0%B7%D0%B4_%D0%BD%D0%B0_%D1%84%D0%BE%D0%BD%D0%B5_%D0%B3%D0%BE%D1%80%D1%8B_%D0%A8%D0%B0%D1%82%D1%80%D0%B8%D1%89%D0%B5._%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C.jpg",
+    "metadata": {
+      "DateTime": {
+        "value": "2017-05-30 13:58:43",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Поезд на фоне горы Шатрище. Воронежская область",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Shatrische|Self-published work|Featured pictures of rail vehicles|Featured pictures on Wikipedia, Persian|Featured pictures of Voronezh Oblast|Trains in motion|Uploaded via Campaign:wle-ru|Trains in Voronezh Oblast|Files with coordinates missing SDC location of creation|Russia photographs taken on 2011-08-08|Images from Wiki Loves Earth 2017|Images from Wiki Loves Earth 2017 in Russia|Winners of Wiki Loves Earth 2017 in Russia|Featured pictures from Wiki Loves Earth 2017 in Russia|Rail tracks in Voronezh Oblast|Trains facing left|East European Forest Steppe Ecoregion|Images from Wiki Loves Earth missing SDC location of creation|Protected areas of Russia with known IDs|Red trains|Trains next to mountains|Protected areas of Russia/3610328|Photos by Aleksei Zadonskii|Shortlisted images of Wiki Loves Earth 2017 in Russia|ChS4t by fleet number|ChS4t in maroon livery",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "quality|featured",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "GPSLatitude": {
+        "value": "50.968443",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "39.424086",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Shatrishche Hill and <a href=\"//commons.wikimedia.org/wiki/Category:ChS4t\" title=\"Category:ChS4t\">ChS4T</a> locomotive, <a href=\"https://en.wikipedia.org/wiki/Voronezh_Oblast\" class=\"extiw\" title=\"en:Voronezh Oblast\">Voronezh Oblast</a>, Russia",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "Taken on 8 August 2011, 15:54:12",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%97%D0%B0%D0%B4%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9\" title=\"User:Алексей Задонский\">Алексей Задонский</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "fridge": {
+    "title": "Refrigerator",
+    "src": "../assets/rogers_objects/fridge.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Open_refrigerator_with_food_at_night.jpg/330px-Open_refrigerator_with_food_at_night.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "article": "https://en.wikipedia.org/wiki/Refrigerator",
+    "bytes": 28605,
+    "source": "https://commons.wikimedia.org/wiki/File:Open_refrigerator_with_food_at_night.jpg",
+    "metadata": {
+      "DateTime": {
+        "value": "2016-10-16 22:43:23",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Open refrigerator with food at night",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Tomatoes|Taken with Panasonic Lumix DMC-FZ1000|Canned food|Oranges|Carrots|Lemons as food|Self-published work|Green grapes|Sweden photographs taken on 2016-10-12|Beverage bottles|Images by W.carter|Long exposure photographs of Sweden|October 2016 in Västra Götaland County|Files with coordinates missing SDC location of creation|Domestic refrigerators with doors opened|Featured pictures of Lysekil Municipality|Featured pictures of machines|Featured pictures of objects in Sweden|Pickled gherkins|Featured pictures taken with compact digital camera|Images by W.carter, my own favorites|Night in Brastad|Quality night photography in Sweden|Reused images by W.carter|Featured pictures by W.carter",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "quality|featured",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "GPSLatitude": {
+        "value": "58.379299",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "11.483617",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "An open domestic refrigerator with food and drink at night.<br>The photo is <a href=\"https://en.wikipedia.org/wiki/Focus_stacking\" class=\"extiw\" title=\"en:Focus stacking\">stacked</a> for focus and light from five photos.<br>The only light source used is the normal lamp in the fridge.\n<br>The fridge in an Electrolux, model ERB34253W with a net volume of 188 litres (6.6 cu ft).<br>The fridge contains four eggs, a green bell pepper, a jar of chili, three bottles of grapefruit soda, three cans of coconut milk, three bottles of pear cider, a bottle of carbonated water, a bottle of soy sauce, a plate of sliced ham, a container with butter, a round cheese, a jar of sliced, pickled cucumber, a pitcher with crushed, roasted cacao beans, two lemons, some tomatoes, a box with grapes, carrots, yellow onions and oranges. The fridge is in Brastad, <a href=\"https://en.wikipedia.org/wiki/Lysekil_Municipality\" class=\"extiw\" title=\"en:Lysekil Municipality\">Lysekil Municipality</a>, Sweden.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2016-10-12 19:26:56",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:W.carter\" title=\"User:W.carter\">W.carter</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "iron": {
+    "src": "../assets/rogers_objects/iron.jpg",
+    "title": "Clothes iron",
+    "source": "https://commons.wikimedia.org/wiki/File:Teal_and_white_electric_steam_iron_-_side_view.jpg",
+    "article": "https://en.wikipedia.org/wiki/Clothes_iron",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Teal_and_white_electric_steam_iron_-_side_view.jpg/330px-Teal_and_white_electric_steam_iron_-_side_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "metadata": {
+      "DateTime": {
+        "value": "2026-07-18 13:21:08",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Teal and white electric steam iron - side view",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|All media needing categories as of 2026|Media needing categories as of 18 July 2026",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "GPSLatitude": {
+        "value": "55.146117",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "61.428803",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Вид сбоку на бытовой электрический паровой утюг в бирюзово-белом корпусе. Видны колесо регулировки температуры и кнопки управления паром.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2026-07-18",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Sokolikmawwer0\" title=\"User:Sokolikmawwer0\">Sokolikmawwer0</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "bytes": 16594
+  },
+  "kettle": {
+    "src": "../assets/rogers_objects/kettle.jpg",
+    "title": "Kettle",
+    "source": "https://commons.wikimedia.org/wiki/File:Bernadotte_Wasserkessel.jpg",
+    "article": "https://en.wikipedia.org/wiki/Kettle",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Bernadotte_Wasserkessel.jpg/330px-Bernadotte_Wasserkessel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "metadata": {
+      "DateTime": {
+        "value": "2018-07-06 13:33:19",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Bernadotte Wasserkessel",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "GFDL|CC-BY-SA-2.5,2.0,1.0|License migration redundant|Acton Bjørn|Self-published work|Photographs by Holger Ellgaard|Stovetop kettles|Sigvard Bernadotte Design",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Rostfri vattenkittel för Modernum, 1954.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2007-06-22",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Bernadotte_Wasserkessel.jpg#P7482\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"https://www.wikidata.org/wiki/Q44371417\" class=\"extiw\" title=\"d:Q44371417\"><span title=\"German-Swedish architect and photographer (1943–2023)\">Holger Ellgaard</span></a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Bernadotte_Wasserkessel.jpg#P170\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Attribution": {
+        "value": "I, <a href=\"//commons.wikimedia.org/wiki/User:Holger.Ellgaard\" title=\"User:Holger.Ellgaard\">Holger.Ellgaard</a>",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "bytes": 13750
+  },
+  "cup": {
+    "src": "../assets/rogers_objects/cup.jpg",
+    "title": "Cup",
+    "source": "https://commons.wikimedia.org/wiki/File:Cup_and_Saucer_LACMA_47.35.6a-b_%281_of_3%29.jpg",
+    "article": "https://en.wikipedia.org/wiki/Cup",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Cup_and_Saucer_LACMA_47.35.6a-b_%281_of_3%29.jpg/330px-Cup_and_Saucer_LACMA_47.35.6a-b_%281_of_3%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "metadata": {
+      "DateTime": {
+        "value": "2013-07-19 13:42:14",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "<div class=\"fn\">\nCup and Saucer (image 1 of 3)</div>",
+        "source": "commons-desc-page"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Tea cups|1753 works|Vincennes porcelain|Artworks without Wikidata item|Artworks with known accession number|Images from LACMA uploaded by Fæ|Public domain images from the Los Angeles County Museum of Art|Images from LACMA uploaded by Fæ (check needed)|Serviceware in the Los Angeles County Museum of Art|Tea accessories from France|Decorative Arts from France in the Los Angeles County Museum of Art|Illustrations used in Salute, Jonathan!",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Artist": {
+        "value": "<div class=\"fn value\">\nVincennes Porcelain (France, circa 1739–1756), Francois Binet (France, active 1750-1775, born 1731)</div>",
+        "source": "commons-desc-page"
+      },
+      "ImageDescription": {
+        "value": "<br>\n<dl><dd>France, circa 1753</dd>\n<dd>Furnishings; Serviceware</dd>\n<dd>Soft-paste porcelain with glaze and enamel</dd>\n<dd>William Randolph Hearst Collection (47.35.6a-b)</dd>\n<dd><a rel=\"nofollow\" class=\"external text\" href=\"http://www.lacma.org/art/collection/decorative-arts-and-design\">Decorative Arts and Design</a></dd>\n<dd>Currently on public view: Hammer Building, floor 3</dd></dl>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "circa 1753<div style=\"display: none;\">date QS:P571,+1753-00-00T00:00:00Z/9,P1480,Q5727902</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<ul><li>Image: <a rel=\"nofollow\" class=\"external free\" href=\"http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31852871-O3.jpg\">http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31852871-O3.jpg</a></li>\n<li>Gallery: <a rel=\"nofollow\" class=\"external free\" href=\"http://collections.lacma.org/node/229367\">http://collections.lacma.org/node/229367</a> <bdi lang=\"en\" dir=\"ltr\" title=\"archived on 21 September 2017 at the Wayback Machine\"><a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20170921115511/http%3A//collections.lacma.org/node/229367\">archive copy</a> at the <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Wayback_Machine\" class=\"extiw\" title=\"en:Wayback Machine\"><span lang=\"en\" dir=\"ltr\">Wayback Machine</span></a></span></bdi></li></ul>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "bytes": 20997
+  },
+  "suitcase": {
+    "title": "Suitcase",
+    "src": "../assets/rogers_objects/suitcase.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Suitcase1.jpg/330px-Suitcase1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "article": "https://en.wikipedia.org/wiki/Suitcase",
+    "bytes": 26478,
+    "source": "https://commons.wikimedia.org/wiki/File:Suitcase1.jpg",
+    "metadata": {
+      "DateTime": {
+        "value": "2008-05-10 13:18:50",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Suitcase1",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Taken with Canon PowerShot S2 IS|Trolley suitcases",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "<a href=\"https://en.wikipedia.org/wiki/Suitcase\" class=\"extiw\" title=\"en:Suitcase\">Suitcase</a>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2008-05-10",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:JEXP\" title=\"User:JEXP\">JEXP</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "brush": {
+    "title": "Hairbrush",
+    "src": "../assets/rogers_objects/brush.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Hairbrush_flat.JPG/330px-Hairbrush_flat.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "article": "https://en.wikipedia.org/wiki/Hairbrush",
+    "bytes": 13896,
+    "source": "https://commons.wikimedia.org/wiki/File:Hairbrush%20flat.JPG",
+    "metadata": {
+      "DateTime": {
+        "value": "2014-07-28 19:27:38",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Hairbrush flat",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "GFDL|Taken with Fujifilm FinePix A203|Hairbrushes|License migration completed|Black brushes",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Flat hairbrush",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2006-07",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "Transwikied from English Wikipedia; originally uploaded there by <a href=\"https://en.wikipedia.org/wiki/User:Musical_Linguist\" class=\"extiw\" title=\"en:User:Musical Linguist\">en:User:Musical Linguist</a> as <a href=\"https://en.wikipedia.org/wiki/en:Image:Hairbrush.JPG\" class=\"extiw\" title=\"w:en:Image:Hairbrush.JPG\">Image:Hairbrush.JPG</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"https://en.wikipedia.org/wiki/User:Musical_Linguist\" class=\"extiw\" title=\"en:User:Musical Linguist\">en:User:Musical Linguist</a>",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "<table style=\"width:100%; clear:both; margin:0.5em auto; background-color: var(--background-color-neutral-subtle, #f9f9f9); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #e0e0e0); border-spacing: 8px; box-sizing: border-box; padding: 0;\" dir=\"ltr\" lang=\"en\" class=\"layouttemplate licensetpl\">\n<tbody><tr>\n<td><span class=\"noviewer\" typeof=\"mw:File\"><span title=\"GNU head\"><img alt=\"GNU head\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Heckert_GNU_white.svg/120px-Heckert_GNU_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"63\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Heckert_GNU_white.svg/250px-Heckert_GNU_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"535\" data-file-height=\"523\"></span></span>\n</td>\n<td>Permission is granted to copy, distribute and/or modify this document under the terms of the <b><a href=\"https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License\" class=\"extiw\" title=\"w:en:GNU Free Documentation License\">GNU Free Documentation License</a></b>, Version 1.2 or any later version published by the <a href=\"https://en.wikipedia.org/wiki/en:Free_Software_Foundation\" class=\"extiw\" title=\"w:en:Free Software Foundation\">Free Software Foundation</a>; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled <i><a href=\"//commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License,_version_1.2\" title=\"Commons:GNU Free Documentation License, version 1.2\">GNU Free Documentation License</a></i>.<span class=\"licensetpl_link\" style=\"display:none;\">http://www.gnu.org/copyleft/fdl.html</span><span class=\"licensetpl_short\" style=\"display:none;\">GFDL</span><span class=\"licensetpl_long\" style=\"display:none;\">GNU Free Documentation License</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span>\n</td></tr></tbody></table>\n<table style=\"width:100%; clear:both; text-align:center; margin:0.5em auto; background-color:var(--background-color-neutral-subtle, #f8f9fa); border:var(--border-subtle, 2px solid #c8ccd1); padding: 0; border-spacing: 8px; color:var(--color-base, #202122);\" dir=\"ltr\" class=\"layouttemplate licensetpl\" lang=\"en\">\n<tbody><tr>\n<td style=\"width:90px;\" rowspan=\"4\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Cc-sa.svg/40px-Cc-sa.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Cc-sa.svg/60px-Cc-sa.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span>\n</td>\n<td>This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.\n</td>\n<td style=\"width:90px;\" rowspan=\"4\">\n</td></tr>\n<tr style=\"text-align:center;\">\n<td>\n</td></tr>\n<tr style=\"text-align:left;\">\n<td>\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl>\n</td></tr>\n<tr style=\"text-align:center;\">\n<td><span style=\"font-size:90%;\">This licensing tag was added to this file as part of the GFDL <a href=\"https://meta.wikimedia.org/wiki/Licensing_update\" class=\"extiw\" title=\"meta:Licensing update\">licensing update</a>.</span><span class=\"licensetpl_link\" style=\"display:none;\">http://creativecommons.org/licenses/by-sa/3.0/</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 3.0</span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 3.0</span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span>\n</td></tr></tbody></table>",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "blanket": {
+    "src": "../assets/rogers_objects/blanket.jpg",
+    "title": "Blanket",
+    "source": "https://commons.wikimedia.org/wiki/File:Grey%20knitted%20blanket.jpg",
+    "article": "https://en.wikipedia.org/wiki/Blanket",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Grey_knitted_blanket.jpg/330px-Grey_knitted_blanket.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "metadata": {
+      "DateTime": {
+        "value": "2021-10-01 00:33:02",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Grey knitted blanket",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Self-published work|Blankets (bedding)|Knitted objects|Photographs by Hannah Clover",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "A folded grey knitted blanket alternating between garter and stockinette.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2021-09-30 20:26:54",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Clovermoss\" title=\"User:Clovermoss\">Hannah Clover</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "bytes": 29891
+  },
+  "hose": {
+    "title": "Garden hose",
+    "src": "../assets/rogers_objects/hose.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Garden_hose.jpg/330px-Garden_hose.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "article": "https://en.wikipedia.org/wiki/Garden_hose",
+    "bytes": 48398,
+    "source": "https://commons.wikimedia.org/wiki/File:Garden_hose.jpg",
+    "metadata": {
+      "DateTime": {
+        "value": "2006-04-08 19:40:10",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Garden hose",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "GFDL|CC-BY-SA-2.5,2.0,1.0|Spirals|Hose connectors|Garden hoses|License migration redundant|Self-published work|Photographs taken on 2006-04-05|Green tools",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "A <a href=\"https://en.wikipedia.org/wiki/Garden_hose\" class=\"extiw\" title=\"w:Garden hose\">Garden hose</a>.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "5 April 2006 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>; Self-published work by <a href=\"//commons.wikimedia.org/wiki/User:Nandhp\" title=\"User:Nandhp\">Nandhp</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Nandhp\" title=\"User:Nandhp\">Nandhp</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "hammer": {
+    "title": "Hammer",
+    "src": "../assets/rogers_objects/hammer.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/OHM_-_Streithammer.jpg/330px-OHM_-_Streithammer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "article": "https://en.wikipedia.org/wiki/Hammer",
+    "bytes": 27918,
+    "source": "https://commons.wikimedia.org/wiki/File:OHM_-_Streithammer.jpg",
+    "metadata": {
+      "DateTime": {
+        "value": "2011-01-05 23:18:47",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "OHM - Streithammer",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "GFDL|Taken with Panasonic Lumix DMC-FZ30|CC-BY-SA-3.0,2.5,2.0,1.0|License migration redundant|War hammers|Self-published work|Oberhausmuseum - Castle life",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Oberhausmuseum ( Passau ). War hammer ( 16th century ).",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2010-12-29",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Wolfgang Sauber",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "screwdriver": {
+    "title": "Screwdriver",
+    "src": "../assets/rogers_objects/screwdriver.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Screw_Driver_display.jpg/330px-Screw_Driver_display.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "article": "https://en.wikipedia.org/wiki/Screwdriver",
+    "bytes": 7078,
+    "source": "https://commons.wikimedia.org/wiki/File:Screw_Driver_display.jpg",
+    "metadata": {
+      "DateTime": {
+        "value": "2008-10-08 12:36:44",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Screw Driver display",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "GFDL|Taken with Nikon D40|Screwdrivers|License migration completed|Self-published work",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Created by <a href=\"https://en.wikipedia.org/wiki/User:Fcb981\" class=\"extiw\" title=\"en:User:Fcb981\">en:User:Fcb981</a>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "14 June 2007 (original upload date)",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<bdi lang=\"en\" dir=\"ltr\">Transferred from <span class=\"plainlinks\"><a class=\"external text\" data-mw-original-href=\"//en.wikipedia.org\" href=\"https://en.wikipedia.org\">en.wikipedia</a></span> to Commons.</bdi>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"https://en.wikipedia.org/wiki/User:Fcb981\" class=\"extiw\" title=\"wikipedia:User:Fcb981\">Fcb981</a> at <a href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\">English Wikipedia</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY 2.5",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 2.5",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Attribution": {
+        "value": "<a href=\"https://en.wikipedia.org/wiki/User:Fcb981\" class=\"extiw\" title=\"wikipedia:User:Fcb981\">Fcb981</a> at <a href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\">English Wikipedia</a>",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/2.5",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-2.5",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "wrench": {
+    "title": "Wrench",
+    "src": "../assets/rogers_objects/wrench.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Gedore_No._7_combination_wrenches_6%E2%80%9319_mm.jpg/330px-Gedore_No._7_combination_wrenches_6%E2%80%9319_mm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "article": "https://en.wikipedia.org/wiki/Wrench",
+    "bytes": 35279,
+    "source": "https://commons.wikimedia.org/wiki/File:Gedore_No._7_combination_wrenches_6%E2%80%9319_mm.jpg",
+    "metadata": {
+      "DateTime": {
+        "value": "2017-01-20 13:49:31",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Gedore No. 7 combination wrenches 6–19 mm",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Taken with Canon EOS 6D|Taken with Canon TS-E 90mm F2.8|Retouched pictures|Gedore|Combination wrenches|Self-published work|Featured pictures of objects|Featured pictures by Lucasbosch|Studio photographs by Lucasbosch|Quality photo composites and montages|Created with Helicon Focus|Montages of objects|Tools on black background|Focus stacking images of tools",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "quality|featured|potd",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Set of Gedore No. 7 combination wrenches in 6 to 19 mm sizes.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2017-01-15 11:31:24",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Lucasbosch\" title=\"User:Lucasbosch\">Lucasbosch</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "saw": {
+    "src": "../assets/rogers_objects/saw.jpg",
+    "title": "Hand saw",
+    "source": "https://commons.wikimedia.org/wiki/File:Pily_platnice.jpg",
+    "article": "https://en.wikipedia.org/wiki/Hand_saw",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Pily_platnice.jpg/330px-Pily_platnice.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "metadata": {
+      "DateTime": {
+        "value": "2009-02-12 20:54:33",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Pily platnice",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Crosscut saws|Self-published work|PD-self|Files with derivative versions",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Saws",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mnemosine\" title=\"User:Mnemosine\">Mnemosine</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "bytes": 65090
+  },
+  "drill": {
+    "title": "Drill",
+    "src": "../assets/rogers_objects/drill.png",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Drill_scheme.svg/330px-Drill_scheme.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "article": "https://en.wikipedia.org/wiki/Drill",
+    "bytes": 23776,
+    "source": "https://commons.wikimedia.org/wiki/File:Drill_scheme.svg",
+    "metadata": {
+      "DateTime": {
+        "value": "2022-09-13 12:07:53",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Drill scheme",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "GFDL|FAL|License migration redundant|Self-published work|SVG tools|Invalid SVG created with Inkscape:Tools|Drilling machines in Poland|Drills in art|Corded electric drills",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "valued|quality",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Operating a pistol-grip drill - scheme.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2008-08-19",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:W%C5%82odzimierz_Wysocki\" title=\"User:Włodzimierz Wysocki\">Włodzimierz Wysocki</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "apple": {
+    "src": "../assets/rogers_objects/apple.jpg",
+    "title": "Apple",
+    "source": "https://commons.wikimedia.org/wiki/File:Pink_lady_and_cross_section.jpg",
+    "article": "https://en.wikipedia.org/wiki/Apple",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Pink_lady_and_cross_section.jpg/330px-Pink_lady_and_cross_section.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "metadata": {
+      "DateTime": {
+        "value": "2009-01-22 01:07:00",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Pink lady and cross section",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Taken with Canon EOS 20D|GFDL-1.2|Cripps Pink (apple)|CC-BY-NC-3.0|License migration opt-out|Taken with Sigma 150mm F2.8 EX DG APO Macro HSM|Featured pictures on Wikipedia, English|Featured pictures on Wikipedia, Persian|Cross sections of apples|Files with Assessments template missing SDC Commons no value quality assessment|Apples on white background",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Pink Lady apple and its cross section isolated on a white background",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<p><br style=\"clear:both\">\n</p>\n<table align=\"CENTER\" style=\"width:80%; background-color:#f7f8ff; border:2px solid #8888aa; padding:5px;\">\n\n<tbody><tr>\n<td><table border=\"0\" width=\"100%\" style=\"background-color:#f7f8ff;\">\n\t<tbody><tr style=\"font-family: Segoe UI, Trebuchet MS, serif;\">\n\t\t<td align=\"center\" valign=\"top\">\n\t\t<div style=\"padding-bottom:25px;\"><span style=\"font-size:large\"><b><a href=\"https://en.wikipedia.org/wiki/User:Fir0002\" class=\"extiw\" title=\"en:User:Fir0002\">fir0002</a> <br> flagstaffotos [at] gmail.com</b></span></div>\n\t\t<div style=\"font-size:11pt\">Canon 20D + Sigma 150mm f/2.8</div>\n</td>\n\t\t<td valign=\"top\" align=\"left\">\n                    <table border=\"0\" width=\"240\" style=\"background-color:#f7f8ff;\">\n                         <tbody><tr>\n                         <td valign=\"top\"><figure class=\"mw-halign-left\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Sigma_150_macro.jpg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Sigma_150_macro.jpg/120px-Sigma_150_macro.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"120\" height=\"80\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Sigma_150_macro.jpg/250px-Sigma_150_macro.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1600\" data-file-height=\"1067\"></a><figcaption></figcaption></figure></td>\n                         <td valign=\"top\"><figure class=\"mw-halign-left\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Sigma_150_macro02.jpg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Sigma_150_macro02.jpg/120px-Sigma_150_macro02.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"120\" height=\"80\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Sigma_150_macro02.jpg/250px-Sigma_150_macro02.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1600\" data-file-height=\"1067\"></a><figcaption></figcaption></figure></td>\n                         <td valign=\"top\"><figure class=\"mw-halign-left\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Sigma_150_macro03.jpg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Sigma_150_macro03.jpg/120px-Sigma_150_macro03.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"120\" height=\"80\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Sigma_150_macro03.jpg/250px-Sigma_150_macro03.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1600\" data-file-height=\"1067\"></a><figcaption></figcaption></figure></td>\n                         </tr>\n                         </tbody></table>\n\t\t</td>\n\t</tr>\n</tbody></table>\n</td></tr></tbody></table>",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "<p><br style=\"clear:both\">\n</p>\n<table align=\"CENTER\" style=\"width:80%; background-color:var(--background-color-neutral-subtle, #f7f8ff); color: inherit; border:2px solid #8888aa; padding:5px;\">\n<tbody><tr>\n<td><table border=\"0\" width=\"100%\" style=\"background-color:var(--background-color-neutral-subtle, #f7f8ff); color: inherit;\">\n\t<tbody><tr style=\"font-family: Segoe UI, Trebuchet MS, serif;\">\n\t\t<td colspan=\"2\" align=\"center\"><span style=\"font-size:x-large;\">Using this image: licensing/copyright information</span></td></tr>\n\t<tr style=\"font-family: Segoe UI, Trebuchet MS, serif;\">\n\t\t<td colspan=\"2\" align=\"center\"><span style=\"font-size:large;\"><p>Note: this image is <u><b>not in the Public Domain.</b></u></p></span></td></tr>\n\t<tr style=\"font-family: Segoe UI, Trebuchet MS, serif;\">\n\t\t<td valign=\"top\" width=\"180\"><figure class=\"mw-halign-left\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Non-Commercial_Users.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Non-Commercial_Users.svg/250px-Non-Commercial_Users.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"180\" height=\"123\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Non-Commercial_Users.svg/500px-Non-Commercial_Users.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"550\" data-file-height=\"376\"></a><figcaption></figcaption></figure></td>\n\t\t<td><div style=\"font-size:medium;\"><p><b>Under the CC BY-NC:</b> you are free to copy, distribute, transmit and adapt this work provided that correct attribution is provided. Attribution must be provided in a prominent location to \"<span class=\"licensetpl_attr\">Fir0002/Flagstaffotos</span>\".</p>\n<b>Under the GFDL 1.2:</b> please note details below</div></td></tr>\n\t<tr style=\"font-family: Segoe UI, Trebuchet MS, serif;\">\n\t\t<td valign=\"top\" width=\"180\"><figure class=\"mw-halign-left\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Commercial_Users.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Commercial_Users.svg/250px-Commercial_Users.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"180\" height=\"123\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Commercial_Users.svg/500px-Commercial_Users.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"550\" data-file-height=\"376\"></a><figcaption></figcaption></figure></td>\n\t\t<td><div style=\"font-size:medium;\"><b>Under the GFDL v1.2 (only option):</b> any reproduction of this image, in any medium, must appear with a copy of, or full (hyperlinked) URL of the GFDL license. In addition, attribution of this image to \"Fir0002/Flagstaffotos\" is required and you are required to release the image (or any subsequent derivatives of it) under the GFDL v1.2. No other conditions may be added to, or removed from this license without the permission of the author and copyright holder.<br>\n<u>If you require a less restrictive commercial license please <b>email \"flagstaffotos [at] gmail.com\"</b> to negotiate terms.</u></div>\n</td> </tr>\n\t</tbody></table>\n</td></tr></tbody></table>",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "GFDL 1.2",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "GNU Free Documentation License 1.2",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      }
+    },
+    "bytes": 8503
+  },
+  "banana": {
+    "title": "Banana",
+    "src": "../assets/rogers_objects/banana.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Bananavarieties.jpg/330px-Bananavarieties.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "article": "https://en.wikipedia.org/wiki/Banana",
+    "bytes": 20948,
+    "source": "https://commons.wikimedia.org/wiki/File:Bananavarieties.jpg",
+    "metadata": {
+      "DateTime": {
+        "value": "2006-08-27 20:17:44",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Bananavarieties",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "GFDL|Taken with Olympus C-2 / D-230|Plantains|Bananas|Jain vegetarianism|License migration completed",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Photo of four varieties of bananas. From left to right: plantain, red banana, apple banana, and Cavendish banana.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2004-07-23",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"https://en.wikipedia.org/wiki/User:TimothyPilgrim\" class=\"extiw\" title=\"en:User:TimothyPilgrim\">TimothyPilgrim</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "pear": {
+    "title": "Pear",
+    "src": "../assets/rogers_objects/pear.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Pears.jpg/330px-Pears.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "article": "https://en.wikipedia.org/wiki/Pear",
+    "bytes": 49492,
+    "source": "https://commons.wikimedia.org/wiki/File:Pears.jpg",
+    "metadata": {
+      "DateTime": {
+        "value": "2005-03-24 09:51:48",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Pears",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Pyrus communis cultivars|PD USDA|Images with extracted images|Unknown date|Pears on trees",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Though the pears pictured do not have a texture suitable for good eating, scientists at the ARS Appalachian Fruit Research Station in Kearneysville, West Virginia, will combine their fire blight-resistant qualities with other lines possessing traits sought in commercial pear varieties.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "Unknown date",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a href=\"https://en.wikipedia.org/wiki/United_States_Department_of_Agriculture\" class=\"extiw\" title=\"en:United States Department of Agriculture\">USDA</a>, <a rel=\"nofollow\" class=\"external text\" data-mw-original-href=\"http://www.ars.usda.gov/is/graphics/photos/k5299-1.htm\" href=\"https://www.ars.usda.gov/is/graphics/photos/k5299-1.htm\">Image Number K5299-1</a>.",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Keith Weller",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "peach": {
+    "title": "Peach",
+    "src": "../assets/rogers_objects/peach.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Illustration_Prunus_persica_clean_no_descr.jpg/330px-Illustration_Prunus_persica_clean_no_descr.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "article": "https://en.wikipedia.org/wiki/Peach",
+    "bytes": 62495,
+    "source": "https://commons.wikimedia.org/wiki/File:Illustration_Prunus_persica_clean_no_descr.jpg",
+    "metadata": {
+      "DateTime": {
+        "value": "2024-02-08 13:11:42",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Illustration Prunus persica clean no descr",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Retouched pictures|Thomé, Flora von Deutschland|PD Old|PD Old auto: no death date|Self-published work|PD-scan (PD-old-70)|Files with invalid parameter in Self template|PD US expired|Self-published work missing SDC copyright license|Derivative versions|CC-PD-Mark|Uploaded with derivativeFX|Prunus persica - botanical illustrations",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "<dl><dt>Name</dt>\n<dd><a href=\"//commons.wikimedia.org/wiki/Prunus_persica\" title=\"Prunus persica\">Prunus persica</a>  ;Family:Rosaceae  Original book source: Prof. Dr. Otto Wilhelm Thomé <i>Flora von Deutschland, Österreich und der Schweiz</i> 1885, Gera, Germany  Permission granted to use under GFDL by Kurt Stueber  Source: <a rel=\"nofollow\" class=\"external text\" href=\"http://www.biolib.de\">www.biolib.de</a></dd></dl>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2024-02-08 13:10",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "This file was derived from:  <a href=\"//commons.wikimedia.org/wiki/File:Illustration_Prunus_persica0.jpg\" title=\"File:Illustration Prunus persica0.jpg\">Illustration Prunus persica0.jpg</a>: <span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Illustration_Prunus_persica0.jpg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Illustration_Prunus_persica0.jpg/60px-Illustration_Prunus_persica0.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"81\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Illustration_Prunus_persica0.jpg/120px-Illustration_Prunus_persica0.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1510\" data-file-height=\"2443\"></a></span><br>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<ul><li><a href=\"//commons.wikimedia.org/wiki/File:Illustration_Prunus_persica0.jpg\" title=\"File:Illustration Prunus persica0.jpg\">File:Illustration Prunus persica0.jpg</a>: <b>PLEASE COMPLETE AUTHOR INFORMATION</b></li>\n<li>derivative work: <a href=\"//commons.wikimedia.org/wiki/User:Kenraiz\" title=\"User:Kenraiz\">Kenraiz</a></li></ul>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "pineapple": {
+    "src": "../assets/rogers_objects/pineapple.jpg",
+    "title": "Pineapple",
+    "source": "https://commons.wikimedia.org/wiki/File:%E0%B4%95%E0%B5%88%E0%B4%A4%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B4%95%E0%B5%8D%E0%B4%95.jpg",
+    "article": "https://en.wikipedia.org/wiki/Pineapple",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/%E0%B4%95%E0%B5%88%E0%B4%A4%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B4%95%E0%B5%8D%E0%B4%95.jpg/330px-%E0%B4%95%E0%B5%88%E0%B4%A4%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B4%95%E0%B5%8D%E0%B4%95.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "metadata": {
+      "DateTime": {
+        "value": "2011-02-08 16:07:38",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "കൈതച്ചക്ക",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Taken with Sony DSLR-A200|Pineapples|Self-published work|Featured pictures on Wikipedia, Malayalam|Malayalam Wikipedian's Upload|Files with Assessments template missing SDC Commons no value quality assessment",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Unripe pineapple",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2011-02-08",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<bdi lang=\"en\" dir=\"ltr\">Transferred from <span class=\"plainlinks\"><a class=\"external text\" data-mw-original-href=\"//ml.wikipedia.org\" href=\"https://ml.wikipedia.org\">ml.wikipedia</a></span> to Commons by <a href=\"//commons.wikimedia.org/wiki/User:Sreejithk2000\" title=\"User:Sreejithk2000\">sreejithk2000</a>.</bdi>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"https://en.wikipedia.org/wiki/ml:User:Suniltg\" class=\"extiw\" title=\"w:ml:User:Suniltg\">Suniltg</a> at <a href=\"https://en.wikipedia.org/wiki/ml:\" class=\"extiw\" title=\"w:ml:\">Malayalam Wikipedia</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "bytes": 30409
+  },
+  "strawberry": {
+    "title": "Strawberry",
+    "src": "../assets/rogers_objects/strawberry.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Garden_strawberry_%28Fragaria_%C3%97_ananassa%29_single2.jpg/330px-Garden_strawberry_%28Fragaria_%C3%97_ananassa%29_single2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "article": "https://en.wikipedia.org/wiki/Strawberry",
+    "bytes": 25225,
+    "source": "https://commons.wikimedia.org/wiki/File:Garden_strawberry_%28Fragaria_%C3%97_ananassa%29_single2.jpg",
+    "metadata": {
+      "DateTime": {
+        "value": "2022-01-26 17:01:06",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Garden strawberry (Fragaria × ananassa) single2",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Self-published work|Featured pictures on Wikipedia, English|Featured pictures on Wikipedia, Persian|Featured pictures by iifar|Fruits on gray background|Photographs taken on 2022-01-26|Single strawberries|Focus stacking images of fruits|Uploads by iifar|Focus stacked image",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "quality|featured",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Artist": {
+        "value": "<div class=\"fn value\">\n<a href=\"//commons.wikimedia.org/wiki/User:Iifar\" title=\"User:Iifar\">Ivar Leidus</a></div>",
+        "source": "commons-desc-page"
+      },
+      "ImageDescription": {
+        "value": "Garden <a href=\"https://en.wikipedia.org/wiki/Strawberry\" class=\"extiw\" title=\"en:Strawberry\">Strawberry</a>. Grown in Spain",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "26 January 2022",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "I, the copyright holder of this work, hereby publish it under the following license:",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "lemon": {
+    "title": "Lemon",
+    "src": "../assets/rogers_objects/lemon.JPG",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/P1030323.JPG/330px-P1030323.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "article": "https://en.wikipedia.org/wiki/Lemon",
+    "bytes": 34655,
+    "source": "https://commons.wikimedia.org/wiki/File:P1030323.JPG",
+    "metadata": {
+      "DateTime": {
+        "value": "2007-11-25 17:01:30",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "P1030323",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "GFDL|Taken with Panasonic Lumix DMC-TZ1|License migration redundant|CC-BY-SA-4.0,3.0,2.5,2.0,1.0|Self-published work|Citrus (flowers)",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Lemon - fleur et fruit",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2007-11-25",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Eola\" title=\"User:Eola\">Elena Chochkova</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "kiwi": {
+    "title": "Kiwifruit",
+    "src": "../assets/rogers_objects/kiwi.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Actinidia_fruits.jpg/330px-Actinidia_fruits.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "article": "https://en.wikipedia.org/wiki/Kiwifruit",
+    "bytes": 56149,
+    "source": "https://commons.wikimedia.org/wiki/File:Actinidia_fruits.jpg",
+    "metadata": {
+      "DateTime": {
+        "value": "2013-11-18 10:03:26",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Actinidia fruits",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Actinidia eriantha|Cross sections of kiwifruits|Kiwifruit",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Fruits of different species af <i>Actinidia</i>.<br>A = <i>A. arguta</i>, C = <i>A. chinensis</i>, D = <i>A. delicios</i>a, E = <i>A. eriantha</i>, I = <i>A. indochinensis</i>, P = <i>A. polygama</i>, S = <i>A. setosa</i>.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2008",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.biomedcentral.com/1471-2164/9/351\">BMC Genomics 2008 9: 351</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Crowhurst  et al.",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  }
+}

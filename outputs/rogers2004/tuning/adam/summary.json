@@ -1,0 +1,3072 @@
+{
+  "0.0": {
+    "settle_residual": {
+      "mean": 7.510185241699219e-06,
+      "sem": 0.0,
+      "n": 1
+    },
+    "settle_ticks": {
+      "mean": 388.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "nonconvergent_inputs": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "nonconvergent_visual": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "nonconvergent_unique_names": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "naming/all/correct": {
+      "mean": 1.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "naming/all/superordinate": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "naming/all/semantic": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "naming/all/cross_domain": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "naming/all/omission": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "naming/animal/correct": {
+      "mean": 1.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "naming/animal/superordinate": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "naming/animal/semantic": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "naming/animal/cross_domain": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "naming/animal/omission": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "naming/artifact/correct": {
+      "mean": 1.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "naming/artifact/superordinate": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "naming/artifact/semantic": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "naming/artifact/cross_domain": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "naming/artifact/omission": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "sorting/word/animal_artifact/general": {
+      "mean": 1.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "sorting/word/animal_artifact/specific": {
+      "mean": 1.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "sorting/word/fruit/general": {
+      "mean": 1.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "sorting/word/fruit/specific": {
+      "mean": 1.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "sorting/picture/animal_artifact/general": {
+      "mean": 1.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "sorting/picture/animal_artifact/specific": {
+      "mean": 1.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "sorting/picture/fruit/general": {
+      "mean": 1.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "sorting/picture/fruit/specific": {
+      "mean": 1.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "matching/close": {
+      "mean": 1.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "matching/distant": {
+      "mean": 1.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "matching/unrelated": {
+      "mean": 1.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "drawing/all/omission": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "drawing/all/intrusion": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "drawing/all/total_errors": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "drawing/animal/omission": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "drawing/animal/intrusion": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "drawing/animal/total_errors": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "drawing/artifact/omission": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "drawing/artifact/intrusion": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "drawing/artifact/total_errors": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "drawing/shared_domain/omission": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "drawing/shared_domain/intrusion": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "drawing/shared_category/omission": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "drawing/shared_category/intrusion": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "drawing/distinctive/omission": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "drawing/distinctive/intrusion": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "delayed_copy/all/omission": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "delayed_copy/all/intrusion": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "delayed_copy/all/total_errors": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "delayed_copy/animal/omission": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "delayed_copy/animal/intrusion": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "delayed_copy/animal/total_errors": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "delayed_copy/artifact/omission": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "delayed_copy/artifact/intrusion": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "delayed_copy/artifact/total_errors": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "delayed_copy/shared_domain/omission": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "delayed_copy/shared_domain/intrusion": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "delayed_copy/shared_category/omission": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "delayed_copy/shared_category/intrusion": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "delayed_copy/distinctive/omission": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 1
+    },
+    "delayed_copy/distinctive/intrusion": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 1
+    }
+  },
+  "0.05": {
+    "settle_residual": {
+      "mean": 2.003788948059082e-05,
+      "sem": 1.1129867011088296e-05,
+      "n": 50
+    },
+    "settle_ticks": {
+      "mean": 561.32,
+      "sem": 48.36233515065716,
+      "n": 50
+    },
+    "nonconvergent_inputs": {
+      "mean": 0.06,
+      "sem": 0.06,
+      "n": 50
+    },
+    "nonconvergent_visual": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 50
+    },
+    "nonconvergent_unique_names": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 50
+    },
+    "naming/all/correct": {
+      "mean": 0.9992857142857143,
+      "sem": 0.0007142857142857141,
+      "n": 50
+    },
+    "naming/all/superordinate": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 50
+    },
+    "naming/all/semantic": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 50
+    },
+    "naming/all/cross_domain": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 50
+    },
+    "naming/all/omission": {
+      "mean": 0.0007142857142857143,
+      "sem": 0.0007142857142857143,
+      "n": 50
+    },
+    "naming/animal/correct": {
+      "mean": 1.0,
+      "sem": 0.0,
+      "n": 50
+    },
+    "naming/animal/superordinate": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 50
+    },
+    "naming/animal/semantic": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 50
+    },
+    "naming/animal/cross_domain": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 50
+    },
+    "naming/animal/omission": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 50
+    },
+    "naming/artifact/correct": {
+      "mean": 0.9988888888888888,
+      "sem": 0.0011111111111111115,
+      "n": 50
+    },
+    "naming/artifact/superordinate": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 50
+    },
+    "naming/artifact/semantic": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 50
+    },
+    "naming/artifact/cross_domain": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 50
+    },
+    "naming/artifact/omission": {
+      "mean": 0.0011111111111111111,
+      "sem": 0.0011111111111111107,
+      "n": 50
+    },
+    "sorting/word/animal_artifact/general": {
+      "mean": 1.0,
+      "sem": 0.0,
+      "n": 50
+    },
+    "sorting/word/animal_artifact/specific": {
+      "mean": 0.9309999999999998,
+      "sem": 0.007678488371643823,
+      "n": 50
+    },
+    "sorting/word/fruit/general": {
+      "mean": 1.0,
+      "sem": 0.0,
+      "n": 50
+    },
+    "sorting/word/fruit/specific": {
+      "mean": 1.0,
+      "sem": 0.0,
+      "n": 50
+    },
+    "sorting/picture/animal_artifact/general": {
+      "mean": 1.0,
+      "sem": 0.0,
+      "n": 50
+    },
+    "sorting/picture/animal_artifact/specific": {
+      "mean": 0.9990000000000001,
+      "sem": 0.0006998542122237657,
+      "n": 50
+    },
+    "sorting/picture/fruit/general": {
+      "mean": 1.0,
+      "sem": 0.0,
+      "n": 50
+    },
+    "sorting/picture/fruit/specific": {
+      "mean": 1.0,
+      "sem": 0.0,
+      "n": 50
+    },
+    "matching/close": {
+      "mean": 0.9998958333333333,
+      "sem": 0.00010416666666666517,
+      "n": 50
+    },
+    "matching/distant": {
+      "mean": 0.9998571428571428,
+      "sem": 0.00014285714285714235,
+      "n": 50
+    },
+    "matching/unrelated": {
+      "mean": 1.0,
+      "sem": 0.0,
+      "n": 50
+    },
+    "drawing/all/omission": {
+      "mean": 0.005007333236324834,
+      "sem": 0.0009619966136307933,
+      "n": 50
+    },
+    "drawing/all/intrusion": {
+      "mean": 0.0008656849659284586,
+      "sem": 0.0001297997824979082,
+      "n": 50
+    },
+    "drawing/all/total_errors": {
+      "mean": 0.09357142857142856,
+      "sem": 0.014061283729622552,
+      "n": 50
+    },
+    "drawing/animal/omission": {
+      "mean": 0.00022875816993464052,
+      "sem": 0.00016016542295432717,
+      "n": 50
+    },
+    "drawing/animal/intrusion": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 50
+    },
+    "drawing/animal/total_errors": {
+      "mean": 0.004,
+      "sem": 0.0027994168488950605,
+      "n": 50
+    },
+    "drawing/artifact/omission": {
+      "mean": 0.007662097162097163,
+      "sem": 0.0014985687033182682,
+      "n": 50
+    },
+    "drawing/artifact/intrusion": {
+      "mean": 0.0013466210581109352,
+      "sem": 0.00020191077277452384,
+      "n": 50
+    },
+    "drawing/artifact/total_errors": {
+      "mean": 0.1433333333333333,
+      "sem": 0.0217112454940289,
+      "n": 50
+    },
+    "drawing/shared_domain/omission": {
+      "mean": 0.0018518518518518517,
+      "sem": 0.0015197255678672033,
+      "n": 50
+    },
+    "drawing/shared_domain/intrusion": {
+      "mean": 0.007142857142857142,
+      "sem": 0.0030612244897959178,
+      "n": 50
+    },
+    "drawing/shared_category/omission": {
+      "mean": 0.005033333333333334,
+      "sem": 0.0015739445947369262,
+      "n": 50
+    },
+    "drawing/shared_category/intrusion": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 50
+    },
+    "drawing/distinctive/omission": {
+      "mean": 0.005426303854875283,
+      "sem": 0.0010852674196495154,
+      "n": 50
+    },
+    "drawing/distinctive/intrusion": {
+      "mean": 0.0008131330465497166,
+      "sem": 0.00012098085994510369,
+      "n": 50
+    },
+    "delayed_copy/all/omission": {
+      "mean": 0.005618594803888921,
+      "sem": 0.0008166105426497246,
+      "n": 50
+    },
+    "delayed_copy/all/intrusion": {
+      "mean": 0.0009586823663385872,
+      "sem": 0.00013128715552885318,
+      "n": 50
+    },
+    "delayed_copy/all/total_errors": {
+      "mean": 0.10749999999999998,
+      "sem": 0.012479575149754391,
+      "n": 50
+    },
+    "delayed_copy/animal/omission": {
+      "mean": 0.00032246103569632986,
+      "sem": 0.000198154137426483,
+      "n": 50
+    },
+    "delayed_copy/animal/intrusion": {
+      "mean": 7.985803016858916e-05,
+      "sem": 5.8784383318544805e-05,
+      "n": 50
+    },
+    "delayed_copy/animal/total_errors": {
+      "mean": 0.00875,
+      "sem": 0.003996969515285605,
+      "n": 50
+    },
+    "delayed_copy/artifact/omission": {
+      "mean": 0.00914935064935065,
+      "sem": 0.0013701321686484626,
+      "n": 50
+    },
+    "delayed_copy/artifact/intrusion": {
+      "mean": 0.0015445652571185855,
+      "sem": 0.0002163888330377989,
+      "n": 50
+    },
+    "delayed_copy/artifact/total_errors": {
+      "mean": 0.17333333333333337,
+      "sem": 0.020320560279382734,
+      "n": 50
+    },
+    "delayed_copy/shared_domain/omission": {
+      "mean": 0.002393162393162393,
+      "sem": 0.0013550363271311434,
+      "n": 50
+    },
+    "delayed_copy/shared_domain/intrusion": {
+      "mean": 0.007619047619047619,
+      "sem": 0.002493918745554198,
+      "n": 50
+    },
+    "delayed_copy/shared_category/omission": {
+      "mean": 0.004239583333333333,
+      "sem": 0.0011237838680611643,
+      "n": 50
+    },
+    "delayed_copy/shared_category/intrusion": {
+      "mean": 0.0030303030303030303,
+      "sem": 0.001560844707993069,
+      "n": 50
+    },
+    "delayed_copy/distinctive/omission": {
+      "mean": 0.007131150793650794,
+      "sem": 0.0010985946522254677,
+      "n": 50
+    },
+    "delayed_copy/distinctive/intrusion": {
+      "mean": 0.0008670933289119179,
+      "sem": 0.00012615356283647848,
+      "n": 50
+    }
+  },
+  "0.1": {
+    "settle_residual": {
+      "mean": 8.936882019042968e-05,
+      "sem": 5.810843817248857e-05,
+      "n": 50
+    },
+    "settle_ticks": {
+      "mean": 898.54,
+      "sem": 68.36975229274587,
+      "n": 50
+    },
+    "nonconvergent_inputs": {
+      "mean": 0.18,
+      "sem": 0.09341590128155322,
+      "n": 50
+    },
+    "nonconvergent_visual": {
+      "mean": 0.04,
+      "sem": 0.027994168488950606,
+      "n": 50
+    },
+    "nonconvergent_unique_names": {
+      "mean": 0.04,
+      "sem": 0.027994168488950606,
+      "n": 50
+    },
+    "naming/all/correct": {
+      "mean": 0.9750000000000001,
+      "sem": 0.0035714285714285696,
+      "n": 50
+    },
+    "naming/all/superordinate": {
+      "mean": 0.0007142857142857143,
+      "sem": 0.0007142857142857143,
+      "n": 50
+    },
+    "naming/all/semantic": {
+      "mean": 0.010714285714285714,
+      "sem": 0.0029308993094581772,
+      "n": 50
+    },
+    "naming/all/cross_domain": {
+      "mean": 0.0014285714285714286,
+      "sem": 0.0009997917317482359,
+      "n": 50
+    },
+    "naming/all/omission": {
+      "mean": 0.012142857142857143,
+      "sem": 0.0028149212702313717,
+      "n": 50
+    },
+    "naming/animal/correct": {
+      "mean": 1.0,
+      "sem": 0.0,
+      "n": 50
+    },
+    "naming/animal/superordinate": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 50
+    },
+    "naming/animal/semantic": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 50
+    },
+    "naming/animal/cross_domain": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 50
+    },
+    "naming/animal/omission": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 50
+    },
+    "naming/artifact/correct": {
+      "mean": 0.9611111111111111,
+      "sem": 0.0055555555555555575,
+      "n": 50
+    },
+    "naming/artifact/superordinate": {
+      "mean": 0.0011111111111111111,
+      "sem": 0.001111111111111111,
+      "n": 50
+    },
+    "naming/artifact/semantic": {
+      "mean": 0.016666666666666666,
+      "sem": 0.00455917670360161,
+      "n": 50
+    },
+    "naming/artifact/cross_domain": {
+      "mean": 0.0022222222222222222,
+      "sem": 0.0015552315827194782,
+      "n": 50
+    },
+    "naming/artifact/omission": {
+      "mean": 0.01888888888888889,
+      "sem": 0.004378766420359912,
+      "n": 50
+    },
+    "sorting/word/animal_artifact/general": {
+      "mean": 0.998,
+      "sem": 0.0012037356818823382,
+      "n": 50
+    },
+    "sorting/word/animal_artifact/specific": {
+      "mean": 0.9165000000000001,
+      "sem": 0.010040987430100116,
+      "n": 50
+    },
+    "sorting/word/fruit/general": {
+      "mean": 1.0,
+      "sem": 0.0,
+      "n": 50
+    },
+    "sorting/word/fruit/specific": {
+      "mean": 1.0,
+      "sem": 0.0,
+      "n": 50
+    },
+    "sorting/picture/animal_artifact/general": {
+      "mean": 0.9984999999999999,
+      "sem": 0.0008481672919312805,
+      "n": 50
+    },
+    "sorting/picture/animal_artifact/specific": {
+      "mean": 0.9845,
+      "sem": 0.0037039691892754773,
+      "n": 50
+    },
+    "sorting/picture/fruit/general": {
+      "mean": 1.0,
+      "sem": 0.0,
+      "n": 50
+    },
+    "sorting/picture/fruit/specific": {
+      "mean": 1.0,
+      "sem": 0.0,
+      "n": 50
+    },
+    "matching/close": {
+      "mean": 0.9940729166666666,
+      "sem": 0.0013068907850127523,
+      "n": 50
+    },
+    "matching/distant": {
+      "mean": 0.9971904761904763,
+      "sem": 0.0008542495168455548,
+      "n": 50
+    },
+    "matching/unrelated": {
+      "mean": 0.9997777777777778,
+      "sem": 0.000174603174603174,
+      "n": 50
+    },
+    "drawing/all/omission": {
+      "mean": 0.034297375127207055,
+      "sem": 0.0029330199571313475,
+      "n": 50
+    },
+    "drawing/all/intrusion": {
+      "mean": 0.005372341101528707,
+      "sem": 0.0005512198578095123,
+      "n": 50
+    },
+    "drawing/all/total_errors": {
+      "mean": 0.6207142857142857,
+      "sem": 0.05185932739216428,
+      "n": 50
+    },
+    "drawing/animal/omission": {
+      "mean": 0.006516921640451052,
+      "sem": 0.0011928983082671906,
+      "n": 50
+    },
+    "drawing/animal/intrusion": {
+      "mean": 0.0011557408173544805,
+      "sem": 0.00020520917604463856,
+      "n": 50
+    },
+    "drawing/animal/total_errors": {
+      "mean": 0.16,
+      "sem": 0.024243661069253058,
+      "n": 50
+    },
+    "drawing/artifact/omission": {
+      "mean": 0.04973096039762707,
+      "sem": 0.004573243791925309,
+      "n": 50
+    },
+    "drawing/artifact/intrusion": {
+      "mean": 0.007714896814958833,
+      "sem": 0.000846091702188895,
+      "n": 50
+    },
+    "drawing/artifact/total_errors": {
+      "mean": 0.8766666666666666,
+      "sem": 0.08146878551539534,
+      "n": 50
+    },
+    "drawing/shared_domain/omission": {
+      "mean": 0.009933862433862434,
+      "sem": 0.00304394085502137,
+      "n": 50
+    },
+    "drawing/shared_domain/intrusion": {
+      "mean": 0.03285714285714285,
+      "sem": 0.007057802639098196,
+      "n": 50
+    },
+    "drawing/shared_category/omission": {
+      "mean": 0.01788333333333333,
+      "sem": 0.003103031397661854,
+      "n": 50
+    },
+    "drawing/shared_category/intrusion": {
+      "mean": 0.012857142857142855,
+      "sem": 0.004300266837899076,
+      "n": 50
+    },
+    "drawing/distinctive/omission": {
+      "mean": 0.04863463718820861,
+      "sem": 0.004662148218450506,
+      "n": 50
+    },
+    "drawing/distinctive/intrusion": {
+      "mean": 0.004860547481640115,
+      "sem": 0.000520020415101385,
+      "n": 50
+    },
+    "delayed_copy/all/omission": {
+      "mean": 0.039325018649651,
+      "sem": 0.00278866917402522,
+      "n": 50
+    },
+    "delayed_copy/all/intrusion": {
+      "mean": 0.005649819874160936,
+      "sem": 0.0004766892993874487,
+      "n": 50
+    },
+    "delayed_copy/all/total_errors": {
+      "mean": 0.71,
+      "sem": 0.04779847149806174,
+      "n": 50
+    },
+    "delayed_copy/animal/omission": {
+      "mean": 0.007557870744451627,
+      "sem": 0.0011065648150804998,
+      "n": 50
+    },
+    "delayed_copy/animal/intrusion": {
+      "mean": 0.0016750516506502976,
+      "sem": 0.00031853476439829914,
+      "n": 50
+    },
+    "delayed_copy/animal/total_errors": {
+      "mean": 0.2,
+      "sem": 0.025567537612993487,
+      "n": 50
+    },
+    "delayed_copy/artifact/omission": {
+      "mean": 0.06050311725311726,
+      "sem": 0.004558936010414179,
+      "n": 50
+    },
+    "delayed_copy/artifact/intrusion": {
+      "mean": 0.008299665356501361,
+      "sem": 0.0007468246916486727,
+      "n": 50
+    },
+    "delayed_copy/artifact/total_errors": {
+      "mean": 1.05,
+      "sem": 0.0778829868276006,
+      "n": 50
+    },
+    "delayed_copy/shared_domain/omission": {
+      "mean": 0.011755189255189253,
+      "sem": 0.003089114406438124,
+      "n": 50
+    },
+    "delayed_copy/shared_domain/intrusion": {
+      "mean": 0.03619047619047619,
+      "sem": 0.005701313425784208,
+      "n": 50
+    },
+    "delayed_copy/shared_category/omission": {
+      "mean": 0.03259375,
+      "sem": 0.0034821139218374508,
+      "n": 50
+    },
+    "delayed_copy/shared_category/intrusion": {
+      "mean": 0.029090909090909087,
+      "sem": 0.005541125541125541,
+      "n": 50
+    },
+    "delayed_copy/distinctive/omission": {
+      "mean": 0.05582261904761904,
+      "sem": 0.00450688100553809,
+      "n": 50
+    },
+    "delayed_copy/distinctive/intrusion": {
+      "mean": 0.004899591647228319,
+      "sem": 0.00044835472507096343,
+      "n": 50
+    }
+  },
+  "0.15": {
+    "settle_residual": {
+      "mean": 0.000565439760684967,
+      "sem": 0.0003467044182554329,
+      "n": 50
+    },
+    "settle_ticks": {
+      "mean": 1078.96,
+      "sem": 61.428471494935316,
+      "n": 50
+    },
+    "nonconvergent_inputs": {
+      "mean": 0.26,
+      "sem": 0.11714285714285715,
+      "n": 50
+    },
+    "nonconvergent_visual": {
+      "mean": 0.1,
+      "sem": 0.051507875363771265,
+      "n": 50
+    },
+    "nonconvergent_unique_names": {
+      "mean": 0.06,
+      "sem": 0.033926691677251195,
+      "n": 50
+    },
+    "naming/all/correct": {
+      "mean": 0.8735714285714287,
+      "sem": 0.009308113822025479,
+      "n": 50
+    },
+    "naming/all/superordinate": {
+      "mean": 0.01,
+      "sem": 0.0035406839944688716,
+      "n": 50
+    },
+    "naming/all/semantic": {
+      "mean": 0.0657142857142857,
+      "sem": 0.0075233912617007175,
+      "n": 50
+    },
+    "naming/all/cross_domain": {
+      "mean": 0.003571428571428571,
+      "sem": 0.0015306122448979589,
+      "n": 50
+    },
+    "naming/all/omission": {
+      "mean": 0.04714285714285713,
+      "sem": 0.004499062792867061,
+      "n": 50
+    },
+    "naming/animal/correct": {
+      "mean": 0.96,
+      "sem": 0.007559289460184542,
+      "n": 50
+    },
+    "naming/animal/superordinate": {
+      "mean": 0.01,
+      "sem": 0.005150787536377128,
+      "n": 50
+    },
+    "naming/animal/semantic": {
+      "mean": 0.014000000000000002,
+      "sem": 0.004956957592256421,
+      "n": 50
+    },
+    "naming/animal/cross_domain": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 50
+    },
+    "naming/animal/omission": {
+      "mean": 0.016,
+      "sem": 0.005237229365663817,
+      "n": 50
+    },
+    "naming/artifact/correct": {
+      "mean": 0.8255555555555556,
+      "sem": 0.013747351379158489,
+      "n": 50
+    },
+    "naming/artifact/superordinate": {
+      "mean": 0.01,
+      "sem": 0.003786304902183035,
+      "n": 50
+    },
+    "naming/artifact/semantic": {
+      "mean": 0.09444444444444444,
+      "sem": 0.011582951999465414,
+      "n": 50
+    },
+    "naming/artifact/cross_domain": {
+      "mean": 0.005555555555555556,
+      "sem": 0.0023809523809523807,
+      "n": 50
+    },
+    "naming/artifact/omission": {
+      "mean": 0.06444444444444444,
+      "sem": 0.006801360408136047,
+      "n": 50
+    },
+    "sorting/word/animal_artifact/general": {
+      "mean": 0.9875,
+      "sem": 0.003728680896039482,
+      "n": 50
+    },
+    "sorting/word/animal_artifact/specific": {
+      "mean": 0.8525,
+      "sem": 0.0114564392373896,
+      "n": 50
+    },
+    "sorting/word/fruit/general": {
+      "mean": 0.98,
+      "sem": 0.007457361792078965,
+      "n": 50
+    },
+    "sorting/word/fruit/specific": {
+      "mean": 0.995,
+      "sem": 0.0034992710611188257,
+      "n": 50
+    },
+    "sorting/picture/animal_artifact/general": {
+      "mean": 0.9965,
+      "sem": 0.0012392393980641063,
+      "n": 50
+    },
+    "sorting/picture/animal_artifact/specific": {
+      "mean": 0.9329999999999999,
+      "sem": 0.00559883369779012,
+      "n": 50
+    },
+    "sorting/picture/fruit/general": {
+      "mean": 0.995,
+      "sem": 0.0034992710611188257,
+      "n": 50
+    },
+    "sorting/picture/fruit/specific": {
+      "mean": 1.0,
+      "sem": 0.0,
+      "n": 50
+    },
+    "matching/close": {
+      "mean": 0.9679479166666666,
+      "sem": 0.0031581718010358895,
+      "n": 50
+    },
+    "matching/distant": {
+      "mean": 0.979452380952381,
+      "sem": 0.003021183711793801,
+      "n": 50
+    },
+    "matching/unrelated": {
+      "mean": 0.9996666666666667,
+      "sem": 0.00023328473740792086,
+      "n": 50
+    },
+    "drawing/all/omission": {
+      "mean": 0.10543443647855416,
+      "sem": 0.004984058751366098,
+      "n": 50
+    },
+    "drawing/all/intrusion": {
+      "mean": 0.017204164854652565,
+      "sem": 0.001267330953302991,
+      "n": 50
+    },
+    "drawing/all/total_errors": {
+      "mean": 1.9828571428571424,
+      "sem": 0.10487016228226949,
+      "n": 50
+    },
+    "drawing/animal/omission": {
+      "mean": 0.02707443079796021,
+      "sem": 0.0038155451519074073,
+      "n": 50
+    },
+    "drawing/animal/intrusion": {
+      "mean": 0.006590467663903247,
+      "sem": 0.0010089552470772217,
+      "n": 50
+    },
+    "drawing/animal/total_errors": {
+      "mean": 0.7560000000000001,
+      "sem": 0.10222663896600394,
+      "n": 50
+    },
+    "drawing/artifact/omission": {
+      "mean": 0.14896777296777297,
+      "sem": 0.00787026155980012,
+      "n": 50
+    },
+    "drawing/artifact/intrusion": {
+      "mean": 0.023100663293957737,
+      "sem": 0.0017626058330799204,
+      "n": 50
+    },
+    "drawing/artifact/total_errors": {
+      "mean": 2.6644444444444444,
+      "sem": 0.15296646768764544,
+      "n": 50
+    },
+    "drawing/shared_domain/omission": {
+      "mean": 0.024519400352733683,
+      "sem": 0.004553326301934195,
+      "n": 50
+    },
+    "drawing/shared_domain/intrusion": {
+      "mean": 0.10285714285714284,
+      "sem": 0.012771010487479195,
+      "n": 50
+    },
+    "drawing/shared_category/omission": {
+      "mean": 0.07981666666666666,
+      "sem": 0.006855955998477617,
+      "n": 50
+    },
+    "drawing/shared_category/intrusion": {
+      "mean": 0.0757142857142857,
+      "sem": 0.009661061533505816,
+      "n": 50
+    },
+    "drawing/distinctive/omission": {
+      "mean": 0.14527947845804987,
+      "sem": 0.006219825165277758,
+      "n": 50
+    },
+    "drawing/distinctive/intrusion": {
+      "mean": 0.015414510844497124,
+      "sem": 0.00115762293585919,
+      "n": 50
+    },
+    "delayed_copy/all/omission": {
+      "mean": 0.11775993402022814,
+      "sem": 0.003819939588463379,
+      "n": 50
+    },
+    "delayed_copy/all/intrusion": {
+      "mean": 0.018565075324955584,
+      "sem": 0.0009273197353257448,
+      "n": 50
+    },
+    "delayed_copy/all/total_errors": {
+      "mean": 2.241,
+      "sem": 0.07627073154097788,
+      "n": 50
+    },
+    "delayed_copy/animal/omission": {
+      "mean": 0.03210928185376715,
+      "sem": 0.00234258747680919,
+      "n": 50
+    },
+    "delayed_copy/animal/intrusion": {
+      "mean": 0.007302009352182487,
+      "sem": 0.0007592851725186429,
+      "n": 50
+    },
+    "delayed_copy/animal/total_errors": {
+      "mean": 0.86875,
+      "sem": 0.06429191438355246,
+      "n": 50
+    },
+    "delayed_copy/artifact/omission": {
+      "mean": 0.17486036879786881,
+      "sem": 0.006422078068687004,
+      "n": 50
+    },
+    "delayed_copy/artifact/intrusion": {
+      "mean": 0.026073785973470983,
+      "sem": 0.0013520760756818486,
+      "n": 50
+    },
+    "delayed_copy/artifact/total_errors": {
+      "mean": 3.1558333333333337,
+      "sem": 0.11718065834147888,
+      "n": 50
+    },
+    "delayed_copy/shared_domain/omission": {
+      "mean": 0.027512210012210006,
+      "sem": 0.003924297448452741,
+      "n": 50
+    },
+    "delayed_copy/shared_domain/intrusion": {
+      "mean": 0.1357142857142857,
+      "sem": 0.010974330479524952,
+      "n": 50
+    },
+    "delayed_copy/shared_category/omission": {
+      "mean": 0.10138541666666667,
+      "sem": 0.0069256983552292185,
+      "n": 50
+    },
+    "delayed_copy/shared_category/intrusion": {
+      "mean": 0.09803030303030302,
+      "sem": 0.008200607162544333,
+      "n": 50
+    },
+    "delayed_copy/distinctive/omission": {
+      "mean": 0.17177837301587298,
+      "sem": 0.00635412433797759,
+      "n": 50
+    },
+    "delayed_copy/distinctive/intrusion": {
+      "mean": 0.01599297996188455,
+      "sem": 0.0008360328998557034,
+      "n": 50
+    }
+  },
+  "0.2": {
+    "settle_residual": {
+      "mean": 0.0010508564114570618,
+      "sem": 0.0004316440078493064,
+      "n": 50
+    },
+    "settle_ticks": {
+      "mean": 1420.22,
+      "sem": 62.756252083041126,
+      "n": 50
+    },
+    "nonconvergent_inputs": {
+      "mean": 1.42,
+      "sem": 0.5151500672976125,
+      "n": 50
+    },
+    "nonconvergent_visual": {
+      "mean": 0.46,
+      "sem": 0.17890825376518021,
+      "n": 50
+    },
+    "nonconvergent_unique_names": {
+      "mean": 0.36,
+      "sem": 0.15053645568365134,
+      "n": 50
+    },
+    "naming/all/correct": {
+      "mean": 0.7214285714285715,
+      "sem": 0.013147039517066455,
+      "n": 50
+    },
+    "naming/all/superordinate": {
+      "mean": 0.03214285714285715,
+      "sem": 0.005971785668734503,
+      "n": 50
+    },
+    "naming/all/semantic": {
+      "mean": 0.1407142857142857,
+      "sem": 0.011517963081755662,
+      "n": 50
+    },
+    "naming/all/cross_domain": {
+      "mean": 0.01857142857142857,
+      "sem": 0.005517757483508479,
+      "n": 50
+    },
+    "naming/all/omission": {
+      "mean": 0.08714285714285713,
+      "sem": 0.009526481646517395,
+      "n": 50
+    },
+    "naming/animal/correct": {
+      "mean": 0.87,
+      "sem": 0.015185922589620928,
+      "n": 50
+    },
+    "naming/animal/superordinate": {
+      "mean": 0.027999999999999997,
+      "sem": 0.008101398216433043,
+      "n": 50
+    },
+    "naming/animal/semantic": {
+      "mean": 0.06000000000000001,
+      "sem": 0.010301575072754256,
+      "n": 50
+    },
+    "naming/animal/cross_domain": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 50
+    },
+    "naming/animal/omission": {
+      "mean": 0.042,
+      "sem": 0.010724756788070548,
+      "n": 50
+    },
+    "naming/artifact/correct": {
+      "mean": 0.6388888888888888,
+      "sem": 0.01879796711480478,
+      "n": 50
+    },
+    "naming/artifact/superordinate": {
+      "mean": 0.034444444444444444,
+      "sem": 0.00759420553263853,
+      "n": 50
+    },
+    "naming/artifact/semantic": {
+      "mean": 0.18555555555555553,
+      "sem": 0.016465911097448736,
+      "n": 50
+    },
+    "naming/artifact/cross_domain": {
+      "mean": 0.028888888888888888,
+      "sem": 0.008583178307679856,
+      "n": 50
+    },
+    "naming/artifact/omission": {
+      "mean": 0.11222222222222221,
+      "sem": 0.012845379686466785,
+      "n": 50
+    },
+    "sorting/word/animal_artifact/general": {
+      "mean": 0.9665,
+      "sem": 0.009599372853664632,
+      "n": 50
+    },
+    "sorting/word/animal_artifact/specific": {
+      "mean": 0.7809999999999999,
+      "sem": 0.012217418144700171,
+      "n": 50
+    },
+    "sorting/word/fruit/general": {
+      "mean": 0.9425,
+      "sem": 0.016447969913813504,
+      "n": 50
+    },
+    "sorting/word/fruit/specific": {
+      "mean": 0.9775,
+      "sem": 0.007734431367038469,
+      "n": 50
+    },
+    "sorting/picture/animal_artifact/general": {
+      "mean": 0.98,
+      "sem": 0.005758755534498965,
+      "n": 50
+    },
+    "sorting/picture/animal_artifact/specific": {
+      "mean": 0.8675,
+      "sem": 0.008549078002561302,
+      "n": 50
+    },
+    "sorting/picture/fruit/general": {
+      "mean": 0.945,
+      "sem": 0.013905658809951274,
+      "n": 50
+    },
+    "sorting/picture/fruit/specific": {
+      "mean": 0.9725,
+      "sem": 0.008214285714285714,
+      "n": 50
+    },
+    "matching/close": {
+      "mean": 0.9142395833333334,
+      "sem": 0.007108153076135168,
+      "n": 50
+    },
+    "matching/distant": {
+      "mean": 0.9406904761904761,
+      "sem": 0.005727140747780987,
+      "n": 50
+    },
+    "matching/unrelated": {
+      "mean": 0.9981111111111112,
+      "sem": 0.0007206069500200716,
+      "n": 50
+    },
+    "drawing/all/omission": {
+      "mean": 0.2150706850339203,
+      "sem": 0.008200104273773753,
+      "n": 50
+    },
+    "drawing/all/intrusion": {
+      "mean": 0.03589883506071982,
+      "sem": 0.001867236901673692,
+      "n": 50
+    },
+    "drawing/all/total_errors": {
+      "mean": 4.1207142857142856,
+      "sem": 0.1635644262445068,
+      "n": 50
+    },
+    "drawing/animal/omission": {
+      "mean": 0.08181357466063348,
+      "sem": 0.007768744482366913,
+      "n": 50
+    },
+    "drawing/animal/intrusion": {
+      "mean": 0.019202284940447397,
+      "sem": 0.0021684702566646605,
+      "n": 50
+    },
+    "drawing/animal/total_errors": {
+      "mean": 2.234,
+      "sem": 0.2050308090338162,
+      "n": 50
+    },
+    "drawing/artifact/omission": {
+      "mean": 0.2891024130190797,
+      "sem": 0.011757890552963658,
+      "n": 50
+    },
+    "drawing/artifact/intrusion": {
+      "mean": 0.04517469623864895,
+      "sem": 0.002693381199876803,
+      "n": 50
+    },
+    "drawing/artifact/total_errors": {
+      "mean": 5.1688888888888895,
+      "sem": 0.22554745693267786,
+      "n": 50
+    },
+    "drawing/shared_domain/omission": {
+      "mean": 0.09513227513227512,
+      "sem": 0.012356249491832947,
+      "n": 50
+    },
+    "drawing/shared_domain/intrusion": {
+      "mean": 0.18285714285714286,
+      "sem": 0.017530243991285534,
+      "n": 50
+    },
+    "drawing/shared_category/omission": {
+      "mean": 0.16855,
+      "sem": 0.011191408522458346,
+      "n": 50
+    },
+    "drawing/shared_category/intrusion": {
+      "mean": 0.1507142857142857,
+      "sem": 0.014620351758685169,
+      "n": 50
+    },
+    "drawing/distinctive/omission": {
+      "mean": 0.28621626984126985,
+      "sem": 0.012174890497753872,
+      "n": 50
+    },
+    "drawing/distinctive/intrusion": {
+      "mean": 0.03236969047277117,
+      "sem": 0.0017305472052427102,
+      "n": 50
+    },
+    "delayed_copy/all/omission": {
+      "mean": 0.21425387423034484,
+      "sem": 0.0062303924544308345,
+      "n": 50
+    },
+    "delayed_copy/all/intrusion": {
+      "mean": 0.034838962422638016,
+      "sem": 0.0014027755836881362,
+      "n": 50
+    },
+    "delayed_copy/all/total_errors": {
+      "mean": 4.1475,
+      "sem": 0.11496727573442765,
+      "n": 50
+    },
+    "delayed_copy/animal/omission": {
+      "mean": 0.07957994864612511,
+      "sem": 0.0063508541287034485,
+      "n": 50
+    },
+    "delayed_copy/animal/intrusion": {
+      "mean": 0.019684043212389205,
+      "sem": 0.0018651610460217267,
+      "n": 50
+    },
+    "delayed_copy/animal/total_errors": {
+      "mean": 2.22625,
+      "sem": 0.1704014056004593,
+      "n": 50
+    },
+    "delayed_copy/artifact/omission": {
+      "mean": 0.30403649128649124,
+      "sem": 0.010037857133575004,
+      "n": 50
+    },
+    "delayed_copy/artifact/intrusion": {
+      "mean": 0.04494224189613724,
+      "sem": 0.002025755741483763,
+      "n": 50
+    },
+    "delayed_copy/artifact/total_errors": {
+      "mean": 5.428333333333334,
+      "sem": 0.16919443657997302,
+      "n": 50
+    },
+    "delayed_copy/shared_domain/omission": {
+      "mean": 0.10203601953601953,
+      "sem": 0.01221937265018206,
+      "n": 50
+    },
+    "delayed_copy/shared_domain/intrusion": {
+      "mean": 0.19904761904761903,
+      "sem": 0.012731451997379956,
+      "n": 50
+    },
+    "delayed_copy/shared_category/omission": {
+      "mean": 0.18176041666666662,
+      "sem": 0.00935985277178219,
+      "n": 50
+    },
+    "delayed_copy/shared_category/intrusion": {
+      "mean": 0.16651515151515148,
+      "sem": 0.014512644013624358,
+      "n": 50
+    },
+    "delayed_copy/distinctive/omission": {
+      "mean": 0.29364424603174605,
+      "sem": 0.010065492092924882,
+      "n": 50
+    },
+    "delayed_copy/distinctive/intrusion": {
+      "mean": 0.030668012172393788,
+      "sem": 0.0012498915672101327,
+      "n": 50
+    }
+  },
+  "0.25": {
+    "settle_residual": {
+      "mean": 0.0009234964847564698,
+      "sem": 0.00042520016521687537,
+      "n": 50
+    },
+    "settle_ticks": {
+      "mean": 1575.68,
+      "sem": 59.81708472075345,
+      "n": 50
+    },
+    "nonconvergent_inputs": {
+      "mean": 2.08,
+      "sem": 0.6991773591813715,
+      "n": 50
+    },
+    "nonconvergent_visual": {
+      "mean": 0.78,
+      "sem": 0.26846502451484267,
+      "n": 50
+    },
+    "nonconvergent_unique_names": {
+      "mean": 0.42,
+      "sem": 0.16185153186592624,
+      "n": 50
+    },
+    "naming/all/correct": {
+      "mean": 0.4842857142857142,
+      "sem": 0.014255069171510466,
+      "n": 50
+    },
+    "naming/all/superordinate": {
+      "mean": 0.04285714285714286,
+      "sem": 0.007567549476628226,
+      "n": 50
+    },
+    "naming/all/semantic": {
+      "mean": 0.24928571428571428,
+      "sem": 0.018409532054635098,
+      "n": 50
+    },
+    "naming/all/cross_domain": {
+      "mean": 0.042857142857142844,
+      "sem": 0.011178011377656451,
+      "n": 50
+    },
+    "naming/all/omission": {
+      "mean": 0.18071428571428572,
+      "sem": 0.019823513272558557,
+      "n": 50
+    },
+    "naming/animal/correct": {
+      "mean": 0.7040000000000001,
+      "sem": 0.020987848768236523,
+      "n": 50
+    },
+    "naming/animal/superordinate": {
+      "mean": 0.055999999999999994,
+      "sem": 0.011835608672690274,
+      "n": 50
+    },
+    "naming/animal/semantic": {
+      "mean": 0.13,
+      "sem": 0.017670452681218547,
+      "n": 50
+    },
+    "naming/animal/cross_domain": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 50
+    },
+    "naming/animal/omission": {
+      "mean": 0.11,
+      "sem": 0.01857142857142857,
+      "n": 50
+    },
+    "naming/artifact/correct": {
+      "mean": 0.36222222222222217,
+      "sem": 0.018184131417929756,
+      "n": 50
+    },
+    "naming/artifact/superordinate": {
+      "mean": 0.035555555555555556,
+      "sem": 0.009492010404905429,
+      "n": 50
+    },
+    "naming/artifact/semantic": {
+      "mean": 0.31555555555555553,
+      "sem": 0.02600656931950501,
+      "n": 50
+    },
+    "naming/artifact/cross_domain": {
+      "mean": 0.06666666666666667,
+      "sem": 0.017388017698576702,
+      "n": 50
+    },
+    "naming/artifact/omission": {
+      "mean": 0.22,
+      "sem": 0.02922359739140332,
+      "n": 50
+    },
+    "sorting/word/animal_artifact/general": {
+      "mean": 0.9144999999999999,
+      "sem": 0.01673762107301015,
+      "n": 50
+    },
+    "sorting/word/animal_artifact/specific": {
+      "mean": 0.6819999999999999,
+      "sem": 0.014124808107780886,
+      "n": 50
+    },
+    "sorting/word/fruit/general": {
+      "mean": 0.87,
+      "sem": 0.026234810960295656,
+      "n": 50
+    },
+    "sorting/word/fruit/specific": {
+      "mean": 0.9525,
+      "sem": 0.015105918558969,
+      "n": 50
+    },
+    "sorting/picture/animal_artifact/general": {
+      "mean": 0.9534999999999999,
+      "sem": 0.011339159166897908,
+      "n": 50
+    },
+    "sorting/picture/animal_artifact/specific": {
+      "mean": 0.7525,
+      "sem": 0.011523047003501201,
+      "n": 50
+    },
+    "sorting/picture/fruit/general": {
+      "mean": 0.88,
+      "sem": 0.025243710067246128,
+      "n": 50
+    },
+    "sorting/picture/fruit/specific": {
+      "mean": 0.945,
+      "sem": 0.016428571428571428,
+      "n": 50
+    },
+    "matching/close": {
+      "mean": 0.8471875,
+      "sem": 0.00763759716454369,
+      "n": 50
+    },
+    "matching/distant": {
+      "mean": 0.8811714285714287,
+      "sem": 0.0071225394220716205,
+      "n": 50
+    },
+    "matching/unrelated": {
+      "mean": 0.9904166666666667,
+      "sem": 0.0027579365079365083,
+      "n": 50
+    },
+    "drawing/all/omission": {
+      "mean": 0.34922077257476425,
+      "sem": 0.009267006969431382,
+      "n": 50
+    },
+    "drawing/all/intrusion": {
+      "mean": 0.06156085456568091,
+      "sem": 0.002217909617129476,
+      "n": 50
+    },
+    "drawing/all/total_errors": {
+      "mean": 6.852142857142858,
+      "sem": 0.1831170995199786,
+      "n": 50
+    },
+    "drawing/animal/omission": {
+      "mean": 0.16372155426273072,
+      "sem": 0.009305266859290904,
+      "n": 50
+    },
+    "drawing/animal/intrusion": {
+      "mean": 0.044638067077396676,
+      "sem": 0.0029920702503253172,
+      "n": 50
+    },
+    "drawing/animal/total_errors": {
+      "mean": 4.744000000000001,
+      "sem": 0.2708137397412713,
+      "n": 50
+    },
+    "drawing/artifact/omission": {
+      "mean": 0.4522758938592271,
+      "sem": 0.013193119837164336,
+      "n": 50
+    },
+    "drawing/artifact/intrusion": {
+      "mean": 0.07096240317028325,
+      "sem": 0.002925319364036218,
+      "n": 50
+    },
+    "drawing/artifact/total_errors": {
+      "mean": 8.023333333333333,
+      "sem": 0.23371144183554127,
+      "n": 50
+    },
+    "drawing/shared_domain/omission": {
+      "mean": 0.15438712522045855,
+      "sem": 0.017171029722736795,
+      "n": 50
+    },
+    "drawing/shared_domain/intrusion": {
+      "mean": 0.3539285714285715,
+      "sem": 0.018771697150520794,
+      "n": 50
+    },
+    "drawing/shared_category/omission": {
+      "mean": 0.29296666666666665,
+      "sem": 0.013147841532413267,
+      "n": 50
+    },
+    "drawing/shared_category/intrusion": {
+      "mean": 0.2392857142857143,
+      "sem": 0.01633450060569604,
+      "n": 50
+    },
+    "drawing/distinctive/omission": {
+      "mean": 0.4587797619047619,
+      "sem": 0.011453665659115798,
+      "n": 50
+    },
+    "drawing/distinctive/intrusion": {
+      "mean": 0.055383133209144404,
+      "sem": 0.00215843838972671,
+      "n": 50
+    },
+    "delayed_copy/all/omission": {
+      "mean": 0.33658188425136953,
+      "sem": 0.0071229273912898185,
+      "n": 50
+    },
+    "delayed_copy/all/intrusion": {
+      "mean": 0.057886159796406204,
+      "sem": 0.0017629410647374629,
+      "n": 50
+    },
+    "delayed_copy/all/total_errors": {
+      "mean": 6.695,
+      "sem": 0.13547158750235477,
+      "n": 50
+    },
+    "delayed_copy/animal/omission": {
+      "mean": 0.15995063137434462,
+      "sem": 0.00637483684521867,
+      "n": 50
+    },
+    "delayed_copy/animal/intrusion": {
+      "mean": 0.04313293792949472,
+      "sem": 0.0023810284697517747,
+      "n": 50
+    },
+    "delayed_copy/animal/total_errors": {
+      "mean": 4.63625,
+      "sem": 0.186491249042382,
+      "n": 50
+    },
+    "delayed_copy/artifact/omission": {
+      "mean": 0.45433605283605283,
+      "sem": 0.011468214710182573,
+      "n": 50
+    },
+    "delayed_copy/artifact/intrusion": {
+      "mean": 0.06772164104101386,
+      "sem": 0.002583434701366032,
+      "n": 50
+    },
+    "delayed_copy/artifact/total_errors": {
+      "mean": 8.0675,
+      "sem": 0.19427714295985513,
+      "n": 50
+    },
+    "delayed_copy/shared_domain/omission": {
+      "mean": 0.14571733821733823,
+      "sem": 0.014289681649350213,
+      "n": 50
+    },
+    "delayed_copy/shared_domain/intrusion": {
+      "mean": 0.3723809523809523,
+      "sem": 0.015979300785352982,
+      "n": 50
+    },
+    "delayed_copy/shared_category/omission": {
+      "mean": 0.28953124999999996,
+      "sem": 0.011324006332550459,
+      "n": 50
+    },
+    "delayed_copy/shared_category/intrusion": {
+      "mean": 0.2531818181818181,
+      "sem": 0.01354170748076935,
+      "n": 50
+    },
+    "delayed_copy/distinctive/omission": {
+      "mean": 0.46636051587301586,
+      "sem": 0.009603238215375136,
+      "n": 50
+    },
+    "delayed_copy/distinctive/intrusion": {
+      "mean": 0.0503591611499074,
+      "sem": 0.0016627307418248644,
+      "n": 50
+    }
+  },
+  "0.3": {
+    "settle_residual": {
+      "mean": 0.003541656732559204,
+      "sem": 0.0010617287295592354,
+      "n": 50
+    },
+    "settle_ticks": {
+      "mean": 1506.7,
+      "sem": 62.731831258629974,
+      "n": 50
+    },
+    "nonconvergent_inputs": {
+      "mean": 3.56,
+      "sem": 1.1058877678598498,
+      "n": 50
+    },
+    "nonconvergent_visual": {
+      "mean": 1.24,
+      "sem": 0.38071897611691247,
+      "n": 50
+    },
+    "nonconvergent_unique_names": {
+      "mean": 1.0,
+      "sem": 0.32324881425670743,
+      "n": 50
+    },
+    "naming/all/correct": {
+      "mean": 0.2978571428571429,
+      "sem": 0.010386632391916768,
+      "n": 50
+    },
+    "naming/all/superordinate": {
+      "mean": 0.07357142857142857,
+      "sem": 0.009862127442103867,
+      "n": 50
+    },
+    "naming/all/semantic": {
+      "mean": 0.28500000000000003,
+      "sem": 0.02345807180612481,
+      "n": 50
+    },
+    "naming/all/cross_domain": {
+      "mean": 0.05142857142857142,
+      "sem": 0.014897959183673468,
+      "n": 50
+    },
+    "naming/all/omission": {
+      "mean": 0.29214285714285715,
+      "sem": 0.023595270211277306,
+      "n": 50
+    },
+    "naming/animal/correct": {
+      "mean": 0.4479999999999999,
+      "sem": 0.024783141076801646,
+      "n": 50
+    },
+    "naming/animal/superordinate": {
+      "mean": 0.13399999999999998,
+      "sem": 0.022607566008226682,
+      "n": 50
+    },
+    "naming/animal/semantic": {
+      "mean": 0.22399999999999998,
+      "sem": 0.023134037119996755,
+      "n": 50
+    },
+    "naming/animal/cross_domain": {
+      "mean": 0.0,
+      "sem": 0.0,
+      "n": 50
+    },
+    "naming/animal/omission": {
+      "mean": 0.19400000000000003,
+      "sem": 0.025620463759762548,
+      "n": 50
+    },
+    "naming/artifact/correct": {
+      "mean": 0.21444444444444447,
+      "sem": 0.012599815633311832,
+      "n": 50
+    },
+    "naming/artifact/superordinate": {
+      "mean": 0.039999999999999994,
+      "sem": 0.010291787350760207,
+      "n": 50
+    },
+    "naming/artifact/semantic": {
+      "mean": 0.31888888888888883,
+      "sem": 0.03217214029617998,
+      "n": 50
+    },
+    "naming/artifact/cross_domain": {
+      "mean": 0.07999999999999999,
+      "sem": 0.023174603174603178,
+      "n": 50
+    },
+    "naming/artifact/omission": {
+      "mean": 0.34666666666666673,
+      "sem": 0.03494083110065551,
+      "n": 50
+    },
+    "sorting/word/animal_artifact/general": {
+      "mean": 0.898,
+      "sem": 0.02068766762679483,
+      "n": 50
+    },
+    "sorting/word/animal_artifact/specific": {
+      "mean": 0.5980000000000001,
+      "sem": 0.012814214046622334,
+      "n": 50
+    },
+    "sorting/word/fruit/general": {
+      "mean": 0.6875,
+      "sem": 0.04900150976432944,
+      "n": 50
+    },
+    "sorting/word/fruit/specific": {
+      "mean": 0.8325,
+      "sem": 0.03546520283665241,
+      "n": 50
+    },
+    "sorting/picture/animal_artifact/general": {
+      "mean": 0.9355,
+      "sem": 0.01616386117743113,
+      "n": 50
+    },
+    "sorting/picture/animal_artifact/specific": {
+      "mean": 0.669,
+      "sem": 0.012424465660090797,
+      "n": 50
+    },
+    "sorting/picture/fruit/general": {
+      "mean": 0.73,
+      "sem": 0.044228073086893485,
+      "n": 50
+    },
+    "sorting/picture/fruit/specific": {
+      "mean": 0.8675,
+      "sem": 0.033198921177456035,
+      "n": 50
+    },
+    "matching/close": {
+      "mean": 0.7786875000000001,
+      "sem": 0.010054292543001192,
+      "n": 50
+    },
+    "matching/distant": {
+      "mean": 0.8274142857142857,
+      "sem": 0.009854468846655853,
+      "n": 50
+    },
+    "matching/unrelated": {
+      "mean": 0.9849444444444444,
+      "sem": 0.00577627858624136,
+      "n": 50
+    },
+    "drawing/all/omission": {
+      "mean": 0.44569435501473315,
+      "sem": 0.009443448182822313,
+      "n": 50
+    },
+    "drawing/all/intrusion": {
+      "mean": 0.07426122946243999,
+      "sem": 0.002246394273236973,
+      "n": 50
+    },
+    "drawing/all/total_errors": {
+      "mean": 8.667857142857143,
+      "sem": 0.16964957022163313,
+      "n": 50
+    },
+    "drawing/animal/omission": {
+      "mean": 0.2725741363211951,
+      "sem": 0.014456604923445235,
+      "n": 50
+    },
+    "drawing/animal/intrusion": {
+      "mean": 0.0610541729518962,
+      "sem": 0.0036422170629585647,
+      "n": 50
+    },
+    "drawing/animal/total_errors": {
+      "mean": 7.284,
+      "sem": 0.3566323208079968,
+      "n": 50
+    },
+    "drawing/artifact/omission": {
+      "mean": 0.5418722542889209,
+      "sem": 0.011918023047674564,
+      "n": 50
+    },
+    "drawing/artifact/intrusion": {
+      "mean": 0.08159848307940873,
+      "sem": 0.0031578390083405513,
+      "n": 50
+    },
+    "drawing/artifact/total_errors": {
+      "mean": 9.436666666666667,
+      "sem": 0.2039852997633073,
+      "n": 50
+    },
+    "drawing/shared_domain/omission": {
+      "mean": 0.2592416225749559,
+      "sem": 0.022850791953363328,
+      "n": 50
+    },
+    "drawing/shared_domain/intrusion": {
+      "mean": 0.40428571428571436,
+      "sem": 0.0229634916593239,
+      "n": 50
+    },
+    "drawing/shared_category/omission": {
+      "mean": 0.38963333333333333,
+      "sem": 0.015566133510658818,
+      "n": 50
+    },
+    "drawing/shared_category/intrusion": {
+      "mean": 0.2528571428571429,
+      "sem": 0.018334437637913585,
+      "n": 50
+    },
+    "drawing/distinctive/omission": {
+      "mean": 0.5624719387755102,
+      "sem": 0.009899612952558404,
+      "n": 50
+    },
+    "drawing/distinctive/intrusion": {
+      "mean": 0.06719498120903597,
+      "sem": 0.0022409449608207436,
+      "n": 50
+    },
+    "delayed_copy/all/omission": {
+      "mean": 0.427062238619224,
+      "sem": 0.007226222861283196,
+      "n": 50
+    },
+    "delayed_copy/all/intrusion": {
+      "mean": 0.07068562626732185,
+      "sem": 0.0022474639596280536,
+      "n": 50
+    },
+    "delayed_copy/all/total_errors": {
+      "mean": 8.482499999999998,
+      "sem": 0.1403898544214994,
+      "n": 50
+    },
+    "delayed_copy/animal/omission": {
+      "mean": 0.26616045280291606,
+      "sem": 0.011526835013267822,
+      "n": 50
+    },
+    "delayed_copy/animal/intrusion": {
+      "mean": 0.05846106831537495,
+      "sem": 0.00322403898413718,
+      "n": 50
+    },
+    "delayed_copy/animal/total_errors": {
+      "mean": 7.07125,
+      "sem": 0.2805675393424069,
+      "n": 50
+    },
+    "delayed_copy/artifact/omission": {
+      "mean": 0.5343300958300958,
+      "sem": 0.009984684508124326,
+      "n": 50
+    },
+    "delayed_copy/artifact/intrusion": {
+      "mean": 0.07883533156861977,
+      "sem": 0.00323620255964776,
+      "n": 50
+    },
+    "delayed_copy/artifact/total_errors": {
+      "mean": 9.423333333333334,
+      "sem": 0.18334631988636424,
+      "n": 50
+    },
+    "delayed_copy/shared_domain/omission": {
+      "mean": 0.24923382173382172,
+      "sem": 0.01964988329882021,
+      "n": 50
+    },
+    "delayed_copy/shared_domain/intrusion": {
+      "mean": 0.42523809523809525,
+      "sem": 0.01941172882260288,
+      "n": 50
+    },
+    "delayed_copy/shared_category/omission": {
+      "mean": 0.37130208333333337,
+      "sem": 0.012077167252239951,
+      "n": 50
+    },
+    "delayed_copy/shared_category/intrusion": {
+      "mean": 0.2724242424242424,
+      "sem": 0.01610622335741692,
+      "n": 50
+    },
+    "delayed_copy/distinctive/omission": {
+      "mean": 0.5606388888888889,
+      "sem": 0.009430635134304796,
+      "n": 50
+    },
+    "delayed_copy/distinctive/intrusion": {
+      "mean": 0.062146748096090484,
+      "sem": 0.0021675740019691937,
+      "n": 50
+    }
+  },
+  "0.35": {
+    "settle_residual": {
+      "mean": 0.001586766541004181,
+      "sem": 0.0007038091767909674,
+      "n": 50
+    },
+    "settle_ticks": {
+      "mean": 1437.22,
+      "sem": 60.16052193922522,
+      "n": 50
+    },
+    "nonconvergent_inputs": {
+      "mean": 2.32,
+      "sem": 1.1199271113308569,
+      "n": 50
+    },
+    "nonconvergent_visual": {
+      "mean": 0.64,
+      "sem": 0.37662301836077894,
+      "n": 50
+    },
+    "nonconvergent_unique_names": {
+      "mean": 0.56,
+      "sem": 0.26366335988707035,
+      "n": 50
+    },
+    "naming/all/correct": {
+      "mean": 0.16642857142857143,
+      "sem": 0.010184164235035723,
+      "n": 50
+    },
+    "naming/all/superordinate": {
+      "mean": 0.07357142857142857,
+      "sem": 0.013281387426708941,
+      "n": 50
+    },
+    "naming/all/semantic": {
+      "mean": 0.33,
+      "sem": 0.026265551907259054,
+      "n": 50
+    },
+    "naming/all/cross_domain": {
+      "mean": 0.07214285714285713,
+      "sem": 0.01693662391055884,
+      "n": 50
+    },
+    "naming/all/omission": {
+      "mean": 0.3578571428571429,
+      "sem": 0.028725713172193745,
+      "n": 50
+    },
+    "naming/animal/correct": {
+      "mean": 0.26799999999999996,
+      "sem": 0.020291749605216805,
+      "n": 50
+    },
+    "naming/animal/superordinate": {
+      "mean": 0.14,
+      "sem": 0.030639443699324597,
+      "n": 50
+    },
+    "naming/animal/semantic": {
+      "mean": 0.31799999999999995,
+      "sem": 0.03241188998261128,
+      "n": 50
+    },
+    "naming/animal/cross_domain": {
+      "mean": 0.004,
+      "sem": 0.004000000000000001,
+      "n": 50
+    },
+    "naming/animal/omission": {
+      "mean": 0.27,
+      "sem": 0.031200470954059367,
+      "n": 50
+    },
+    "naming/artifact/correct": {
+      "mean": 0.10999999999999999,
+      "sem": 0.012139484955554851,
+      "n": 50
+    },
+    "naming/artifact/superordinate": {
+      "mean": 0.03666666666666667,
+      "sem": 0.010361323124042912,
+      "n": 50
+    },
+    "naming/artifact/semantic": {
+      "mean": 0.3366666666666667,
+      "sem": 0.03804262239475205,
+      "n": 50
+    },
+    "naming/artifact/cross_domain": {
+      "mean": 0.10999999999999999,
+      "sem": 0.026441319200223783,
+      "n": 50
+    },
+    "naming/artifact/omission": {
+      "mean": 0.4066666666666666,
+      "sem": 0.04485187400953045,
+      "n": 50
+    },
+    "sorting/word/animal_artifact/general": {
+      "mean": 0.8835,
+      "sem": 0.020045993034387043,
+      "n": 50
+    },
+    "sorting/word/animal_artifact/specific": {
+      "mean": 0.5355,
+      "sem": 0.011607747237012328,
+      "n": 50
+    },
+    "sorting/word/fruit/general": {
+      "mean": 0.5975,
+      "sem": 0.05582064024669567,
+      "n": 50
+    },
+    "sorting/word/fruit/specific": {
+      "mean": 0.8025,
+      "sem": 0.04151007991673682,
+      "n": 50
+    },
+    "sorting/picture/animal_artifact/general": {
+      "mean": 0.914,
+      "sem": 0.017802201193867533,
+      "n": 50
+    },
+    "sorting/picture/animal_artifact/specific": {
+      "mean": 0.584,
+      "sem": 0.012792695619942255,
+      "n": 50
+    },
+    "sorting/picture/fruit/general": {
+      "mean": 0.63,
+      "sem": 0.05088001091002322,
+      "n": 50
+    },
+    "sorting/picture/fruit/specific": {
+      "mean": 0.8225,
+      "sem": 0.0373021994208472,
+      "n": 50
+    },
+    "matching/close": {
+      "mean": 0.7200833333333334,
+      "sem": 0.009057051298138935,
+      "n": 50
+    },
+    "matching/distant": {
+      "mean": 0.7632619047619049,
+      "sem": 0.009206894929817147,
+      "n": 50
+    },
+    "matching/unrelated": {
+      "mean": 0.9594166666666668,
+      "sem": 0.006468532713830214,
+      "n": 50
+    },
+    "drawing/all/omission": {
+      "mean": 0.5268167741455556,
+      "sem": 0.007737918853042645,
+      "n": 50
+    },
+    "drawing/all/intrusion": {
+      "mean": 0.09157687328198191,
+      "sem": 0.0028326712683850843,
+      "n": 50
+    },
+    "drawing/all/total_errors": {
+      "mean": 10.494285714285713,
+      "sem": 0.18870754430105577,
+      "n": 50
+    },
+    "drawing/animal/omission": {
+      "mean": 0.3708782374488257,
+      "sem": 0.013194001778281613,
+      "n": 50
+    },
+    "drawing/animal/intrusion": {
+      "mean": 0.08503279994129581,
+      "sem": 0.003033723155581036,
+      "n": 50
+    },
+    "drawing/animal/total_errors": {
+      "mean": 9.948,
+      "sem": 0.2846156018498046,
+      "n": 50
+    },
+    "drawing/artifact/omission": {
+      "mean": 0.6134492945326279,
+      "sem": 0.011397511628836102,
+      "n": 50
+    },
+    "drawing/artifact/intrusion": {
+      "mean": 0.09521246958236308,
+      "sem": 0.004160818578662918,
+      "n": 50
+    },
+    "drawing/artifact/total_errors": {
+      "mean": 10.797777777777776,
+      "sem": 0.2651637542698535,
+      "n": 50
+    },
+    "drawing/shared_domain/omission": {
+      "mean": 0.2925132275132275,
+      "sem": 0.02314971925088272,
+      "n": 50
+    },
+    "drawing/shared_domain/intrusion": {
+      "mean": 0.525,
+      "sem": 0.021288414331658224,
+      "n": 50
+    },
+    "drawing/shared_category/omission": {
+      "mean": 0.49206666666666665,
+      "sem": 0.013789871895468205,
+      "n": 50
+    },
+    "drawing/shared_category/intrusion": {
+      "mean": 0.31857142857142856,
+      "sem": 0.018948844965618057,
+      "n": 50
+    },
+    "drawing/distinctive/omission": {
+      "mean": 0.6569883786848074,
+      "sem": 0.01121693423402069,
+      "n": 50
+    },
+    "drawing/distinctive/intrusion": {
+      "mean": 0.08232578292395724,
+      "sem": 0.0028370710105083178,
+      "n": 50
+    },
+    "delayed_copy/all/omission": {
+      "mean": 0.4988688372085431,
+      "sem": 0.007117905312574043,
+      "n": 50
+    },
+    "delayed_copy/all/intrusion": {
+      "mean": 0.08547012055405041,
+      "sem": 0.002279269642526723,
+      "n": 50
+    },
+    "delayed_copy/all/total_errors": {
+      "mean": 10.095499999999998,
+      "sem": 0.14799629407936027,
+      "n": 50
+    },
+    "delayed_copy/animal/omission": {
+      "mean": 0.3475496390864038,
+      "sem": 0.01053965645678758,
+      "n": 50
+    },
+    "delayed_copy/animal/intrusion": {
+      "mean": 0.08077549069412507,
+      "sem": 0.0031396650378812383,
+      "n": 50
+    },
+    "delayed_copy/animal/total_errors": {
+      "mean": 9.42875,
+      "sem": 0.24020353030167513,
+      "n": 50
+    },
+    "delayed_copy/artifact/omission": {
+      "mean": 0.5997483026233027,
+      "sem": 0.011266278420542463,
+      "n": 50
+    },
+    "delayed_copy/artifact/intrusion": {
+      "mean": 0.08859987379400064,
+      "sem": 0.003846346472623999,
+      "n": 50
+    },
+    "delayed_copy/artifact/total_errors": {
+      "mean": 10.54,
+      "sem": 0.2466986098088772,
+      "n": 50
+    },
+    "delayed_copy/shared_domain/omission": {
+      "mean": 0.2648260073260073,
+      "sem": 0.021626733429271298,
+      "n": 50
+    },
+    "delayed_copy/shared_domain/intrusion": {
+      "mean": 0.5516666666666667,
+      "sem": 0.02098010909303496,
+      "n": 50
+    },
+    "delayed_copy/shared_category/omission": {
+      "mean": 0.4626770833333333,
+      "sem": 0.01269048290854039,
+      "n": 50
+    },
+    "delayed_copy/shared_category/intrusion": {
+      "mean": 0.3242424242424243,
+      "sem": 0.018258958189578477,
+      "n": 50
+    },
+    "delayed_copy/distinctive/omission": {
+      "mean": 0.6597154761904761,
+      "sem": 0.0108437828624001,
+      "n": 50
+    },
+    "delayed_copy/distinctive/intrusion": {
+      "mean": 0.07460316260863763,
+      "sem": 0.0022294256478615003,
+      "n": 50
+    }
+  },
+  "0.4": {
+    "settle_residual": {
+      "mean": 0.0024221643805503847,
+      "sem": 0.0009823872191360666,
+      "n": 50
+    },
+    "settle_ticks": {
+      "mean": 1413.18,
+      "sem": 71.48330868397295,
+      "n": 50
+    },
+    "nonconvergent_inputs": {
+      "mean": 6.58,
+      "sem": 2.4191565404799533,
+      "n": 50
+    },
+    "nonconvergent_visual": {
+      "mean": 2.08,
+      "sem": 0.7536794100021736,
+      "n": 50
+    },
+    "nonconvergent_unique_names": {
+      "mean": 1.78,
+      "sem": 0.6775044242644908,
+      "n": 50
+    },
+    "naming/all/correct": {
+      "mean": 0.07642857142857143,
+      "sem": 0.007568237404403533,
+      "n": 50
+    },
+    "naming/all/superordinate": {
+      "mean": 0.10214285714285713,
+      "sem": 0.015775457401500985,
+      "n": 50
+    },
+    "naming/all/semantic": {
+      "mean": 0.29928571428571427,
+      "sem": 0.030982287264095788,
+      "n": 50
+    },
+    "naming/all/cross_domain": {
+      "mean": 0.03642857142857142,
+      "sem": 0.010579324921047161,
+      "n": 50
+    },
+    "naming/all/omission": {
+      "mean": 0.4857142857142857,
+      "sem": 0.037436604750702325,
+      "n": 50
+    },
+    "naming/animal/correct": {
+      "mean": 0.11999999999999998,
+      "sem": 0.015118578920369087,
+      "n": 50
+    },
+    "naming/animal/superordinate": {
+      "mean": 0.21600000000000003,
+      "sem": 0.04013853560876787,
+      "n": 50
+    },
+    "naming/animal/semantic": {
+      "mean": 0.294,
+      "sem": 0.04094894780736878,
+      "n": 50
+    },
+    "naming/animal/cross_domain": {
+      "mean": 0.004,
+      "sem": 0.004000000000000001,
+      "n": 50
+    },
+    "naming/animal/omission": {
+      "mean": 0.3660000000000001,
+      "sem": 0.05155619086323708,
+      "n": 50
+    },
+    "naming/artifact/correct": {
+      "mean": 0.05222222222222221,
+      "sem": 0.00815724771906641,
+      "n": 50
+    },
+    "naming/artifact/superordinate": {
+      "mean": 0.03888888888888888,
+      "sem": 0.012010115833667902,
+      "n": 50
+    },
+    "naming/artifact/semantic": {
+      "mean": 0.3022222222222222,
+      "sem": 0.04478778943123402,
+      "n": 50
+    },
+    "naming/artifact/cross_domain": {
+      "mean": 0.05444444444444445,
+      "sem": 0.01645672765496225,
+      "n": 50
+    },
+    "naming/artifact/omission": {
+      "mean": 0.5522222222222222,
+      "sem": 0.05332034044305669,
+      "n": 50
+    },
+    "sorting/word/animal_artifact/general": {
+      "mean": 0.838,
+      "sem": 0.026623221412281177,
+      "n": 50
+    },
+    "sorting/word/animal_artifact/specific": {
+      "mean": 0.46649999999999997,
+      "sem": 0.014135098882150178,
+      "n": 50
+    },
+    "sorting/word/fruit/general": {
+      "mean": 0.4975,
+      "sem": 0.05938567304716943,
+      "n": 50
+    },
+    "sorting/word/fruit/specific": {
+      "mean": 0.6575,
+      "sem": 0.055880019064172164,
+      "n": 50
+    },
+    "sorting/picture/animal_artifact/general": {
+      "mean": 0.9039999999999999,
+      "sem": 0.024152576234752067,
+      "n": 50
+    },
+    "sorting/picture/animal_artifact/specific": {
+      "mean": 0.5209999999999999,
+      "sem": 0.013041534904031088,
+      "n": 50
+    },
+    "sorting/picture/fruit/general": {
+      "mean": 0.495,
+      "sem": 0.06133714126008143,
+      "n": 50
+    },
+    "sorting/picture/fruit/specific": {
+      "mean": 0.6625,
+      "sem": 0.057946359784242694,
+      "n": 50
+    },
+    "matching/close": {
+      "mean": 0.65009375,
+      "sem": 0.010247226189342096,
+      "n": 50
+    },
+    "matching/distant": {
+      "mean": 0.6965190476190476,
+      "sem": 0.012310628360967696,
+      "n": 50
+    },
+    "matching/unrelated": {
+      "mean": 0.9115277777777777,
+      "sem": 0.012975902258825282,
+      "n": 50
+    },
+    "drawing/all/omission": {
+      "mean": 0.6084802565548364,
+      "sem": 0.010226949329729798,
+      "n": 50
+    },
+    "drawing/all/intrusion": {
+      "mean": 0.09108947769623021,
+      "sem": 0.002967703544243466,
+      "n": 50
+    },
+    "drawing/all/total_errors": {
+      "mean": 11.425,
+      "sem": 0.21643059202936343,
+      "n": 50
+    },
+    "drawing/animal/omission": {
+      "mean": 0.482879422538246,
+      "sem": 0.018655611694732725,
+      "n": 50
+    },
+    "drawing/animal/intrusion": {
+      "mean": 0.09736472303459205,
+      "sem": 0.003790008749803159,
+      "n": 50
+    },
+    "drawing/animal/total_errors": {
+      "mean": 12.28,
+      "sem": 0.3954950398306055,
+      "n": 50
+    },
+    "drawing/artifact/omission": {
+      "mean": 0.6782584976751644,
+      "sem": 0.013736689225486019,
+      "n": 50
+    },
+    "drawing/artifact/intrusion": {
+      "mean": 0.08760323028602922,
+      "sem": 0.004130549715298505,
+      "n": 50
+    },
+    "drawing/artifact/total_errors": {
+      "mean": 10.95,
+      "sem": 0.273745103993097,
+      "n": 50
+    },
+    "drawing/shared_domain/omission": {
+      "mean": 0.3922398589065256,
+      "sem": 0.026061984336213623,
+      "n": 50
+    },
+    "drawing/shared_domain/intrusion": {
+      "mean": 0.5253571428571429,
+      "sem": 0.02461749233329169,
+      "n": 50
+    },
+    "drawing/shared_category/omission": {
+      "mean": 0.5969166666666667,
+      "sem": 0.017886170850960538,
+      "n": 50
+    },
+    "drawing/shared_category/intrusion": {
+      "mean": 0.26785714285714285,
+      "sem": 0.01837443174017256,
+      "n": 50
+    },
+    "drawing/distinctive/omission": {
+      "mean": 0.7244594671201814,
+      "sem": 0.00854960380939129,
+      "n": 50
+    },
+    "drawing/distinctive/intrusion": {
+      "mean": 0.08237847481041292,
+      "sem": 0.003147767025772358,
+      "n": 50
+    },
+    "delayed_copy/all/omission": {
+      "mean": 0.5648897464055552,
+      "sem": 0.00798616781139326,
+      "n": 50
+    },
+    "delayed_copy/all/intrusion": {
+      "mean": 0.08428183222423791,
+      "sem": 0.0027913292415074186,
+      "n": 50
+    },
+    "delayed_copy/all/total_errors": {
+      "mean": 10.773,
+      "sem": 0.18529601249054972,
+      "n": 50
+    },
+    "delayed_copy/animal/omission": {
+      "mean": 0.40408001036953245,
+      "sem": 0.010272735335121307,
+      "n": 50
+    },
+    "delayed_copy/animal/intrusion": {
+      "mean": 0.08647922719744341,
+      "sem": 0.003152523713197089,
+      "n": 50
+    },
+    "delayed_copy/animal/total_errors": {
+      "mean": 10.59875,
+      "sem": 0.20211801020943287,
+      "n": 50
+    },
+    "delayed_copy/artifact/omission": {
+      "mean": 0.6720962370962372,
+      "sem": 0.012660558571870335,
+      "n": 50
+    },
+    "delayed_copy/artifact/intrusion": {
+      "mean": 0.08281690224210093,
+      "sem": 0.004208382142988686,
+      "n": 50
+    },
+    "delayed_copy/artifact/total_errors": {
+      "mean": 10.889166666666668,
+      "sem": 0.27446249779963144,
+      "n": 50
+    },
+    "delayed_copy/shared_domain/omission": {
+      "mean": 0.34819291819291814,
+      "sem": 0.02357859635978821,
+      "n": 50
+    },
+    "delayed_copy/shared_domain/intrusion": {
+      "mean": 0.565952380952381,
+      "sem": 0.022289191168480497,
+      "n": 50
+    },
+    "delayed_copy/shared_category/omission": {
+      "mean": 0.5413958333333333,
+      "sem": 0.015066486544454142,
+      "n": 50
+    },
+    "delayed_copy/shared_category/intrusion": {
+      "mean": 0.3253030303030303,
+      "sem": 0.016579874649669004,
+      "n": 50
+    },
+    "delayed_copy/distinctive/omission": {
+      "mean": 0.710214880952381,
+      "sem": 0.007990581867196606,
+      "n": 50
+    },
+    "delayed_copy/distinctive/intrusion": {
+      "mean": 0.07307940210691542,
+      "sem": 0.00289293036112099,
+      "n": 50
+    }
+  },
+  "0.5": {
+    "settle_residual": {
+      "mean": 0.0019146430492401124,
+      "sem": 0.0008722191772090654,
+      "n": 50
+    },
+    "settle_ticks": {
+      "mean": 1150.56,
+      "sem": 70.97327556832894,
+      "n": 50
+    },
+    "nonconvergent_inputs": {
+      "mean": 3.22,
+      "sem": 1.6814206821031086,
+      "n": 50
+    },
+    "nonconvergent_visual": {
+      "mean": 1.12,
+      "sem": 0.5537552690125699,
+      "n": 50
+    },
+    "nonconvergent_unique_names": {
+      "mean": 0.94,
+      "sem": 0.5623638157140711,
+      "n": 50
+    },
+    "naming/all/correct": {
+      "mean": 0.01714285714285714,
+      "sem": 0.003265306122448979,
+      "n": 50
+    },
+    "naming/all/superordinate": {
+      "mean": 0.06785714285714285,
+      "sem": 0.016366341767699428,
+      "n": 50
+    },
+    "naming/all/semantic": {
+      "mean": 0.19928571428571432,
+      "sem": 0.03378290812377553,
+      "n": 50
+    },
+    "naming/all/cross_domain": {
+      "mean": 0.08214285714285716,
+      "sem": 0.023629665667162063,
+      "n": 50
+    },
+    "naming/all/omission": {
+      "mean": 0.6335714285714285,
+      "sem": 0.04926373786456089,
+      "n": 50
+    },
+    "naming/animal/correct": {
+      "mean": 0.02,
+      "sem": 0.005714285714285714,
+      "n": 50
+    },
+    "naming/animal/superordinate": {
+      "mean": 0.14,
+      "sem": 0.03714285714285714,
+      "n": 50
+    },
+    "naming/animal/semantic": {
+      "mean": 0.188,
+      "sem": 0.0417612260356422,
+      "n": 50
+    },
+    "naming/animal/cross_domain": {
+      "mean": 0.08,
+      "sem": 0.03545621041711674,
+      "n": 50
+    },
+    "naming/animal/omission": {
+      "mean": 0.572,
+      "sem": 0.06389021195514591,
+      "n": 50
+    },
+    "naming/artifact/correct": {
+      "mean": 0.015555555555555555,
+      "sem": 0.0035634832254989915,
+      "n": 50
+    },
+    "naming/artifact/superordinate": {
+      "mean": 0.027777777777777776,
+      "sem": 0.011025749197976034,
+      "n": 50
+    },
+    "naming/artifact/semantic": {
+      "mean": 0.20555555555555555,
+      "sem": 0.04551571732996719,
+      "n": 50
+    },
+    "naming/artifact/cross_domain": {
+      "mean": 0.08333333333333334,
+      "sem": 0.03334278021841271,
+      "n": 50
+    },
+    "naming/artifact/omission": {
+      "mean": 0.6677777777777778,
+      "sem": 0.05686639471667394,
+      "n": 50
+    },
+    "sorting/word/animal_artifact/general": {
+      "mean": 0.65,
+      "sem": 0.02686891839114861,
+      "n": 50
+    },
+    "sorting/word/animal_artifact/specific": {
+      "mean": 0.36950000000000005,
+      "sem": 0.014902574767263458,
+      "n": 50
+    },
+    "sorting/word/fruit/general": {
+      "mean": 0.5175,
+      "sem": 0.056920325626157085,
+      "n": 50
+    },
+    "sorting/word/fruit/specific": {
+      "mean": 0.6025,
+      "sem": 0.06057652438133479,
+      "n": 50
+    },
+    "sorting/picture/animal_artifact/general": {
+      "mean": 0.7390000000000001,
+      "sem": 0.03397297845797631,
+      "n": 50
+    },
+    "sorting/picture/animal_artifact/specific": {
+      "mean": 0.41850000000000004,
+      "sem": 0.009443980914328666,
+      "n": 50
+    },
+    "sorting/picture/fruit/general": {
+      "mean": 0.51,
+      "sem": 0.060063741651885875,
+      "n": 50
+    },
+    "sorting/picture/fruit/specific": {
+      "mean": 0.6225,
+      "sem": 0.06066069063038354,
+      "n": 50
+    },
+    "matching/close": {
+      "mean": 0.5713541666666666,
+      "sem": 0.008069813014324918,
+      "n": 50
+    },
+    "matching/distant": {
+      "mean": 0.601852380952381,
+      "sem": 0.00885901129231298,
+      "n": 50
+    },
+    "matching/unrelated": {
+      "mean": 0.7469722222222223,
+      "sem": 0.018677020145266128,
+      "n": 50
+    },
+    "drawing/all/omission": {
+      "mean": 0.7389623590695021,
+      "sem": 0.011199508904650468,
+      "n": 50
+    },
+    "drawing/all/intrusion": {
+      "mean": 0.10026207478578271,
+      "sem": 0.004122414300527209,
+      "n": 50
+    },
+    "drawing/all/total_errors": {
+      "mean": 13.650714285714285,
+      "sem": 0.25164864556823374,
+      "n": 50
+    },
+    "drawing/animal/omission": {
+      "mean": 0.7416931623931624,
+      "sem": 0.02535795418103615,
+      "n": 50
+    },
+    "drawing/animal/intrusion": {
+      "mean": 0.11194275520611717,
+      "sem": 0.005762997322350347,
+      "n": 50
+    },
+    "drawing/animal/total_errors": {
+      "mean": 16.968000000000004,
+      "sem": 0.5799679090348051,
+      "n": 50
+    },
+    "drawing/artifact/omission": {
+      "mean": 0.7374452461119126,
+      "sem": 0.013792955306004002,
+      "n": 50
+    },
+    "drawing/artifact/intrusion": {
+      "mean": 0.09377280788559691,
+      "sem": 0.004568265999858343,
+      "n": 50
+    },
+    "drawing/artifact/total_errors": {
+      "mean": 11.807777777777776,
+      "sem": 0.29105333417752294,
+      "n": 50
+    },
+    "drawing/shared_domain/omission": {
+      "mean": 0.5649426807760141,
+      "sem": 0.03135338635425886,
+      "n": 50
+    },
+    "drawing/shared_domain/intrusion": {
+      "mean": 0.3460714285714286,
+      "sem": 0.02472721859493904,
+      "n": 50
+    },
+    "drawing/shared_category/omission": {
+      "mean": 0.7459166666666667,
+      "sem": 0.017190134048831036,
+      "n": 50
+    },
+    "drawing/shared_category/intrusion": {
+      "mean": 0.21,
+      "sem": 0.013940433761582093,
+      "n": 50
+    },
+    "drawing/distinctive/omission": {
+      "mean": 0.8240113378684808,
+      "sem": 0.007465461703005352,
+      "n": 50
+    },
+    "drawing/distinctive/intrusion": {
+      "mean": 0.09560047623053239,
+      "sem": 0.004248106471269265,
+      "n": 50
+    },
+    "delayed_copy/all/omission": {
+      "mean": 0.6808568193244662,
+      "sem": 0.011220496700678243,
+      "n": 50
+    },
+    "delayed_copy/all/intrusion": {
+      "mean": 0.09124596388250683,
+      "sem": 0.004009937301233984,
+      "n": 50
+    },
+    "delayed_copy/all/total_errors": {
+      "mean": 12.718499999999999,
+      "sem": 0.2529638697279813,
+      "n": 50
+    },
+    "delayed_copy/animal/omission": {
+      "mean": 0.6117285382101558,
+      "sem": 0.022048303899263415,
+      "n": 50
+    },
+    "delayed_copy/animal/intrusion": {
+      "mean": 0.09442889154585553,
+      "sem": 0.004753641702758719,
+      "n": 50
+    },
+    "delayed_copy/animal/total_errors": {
+      "mean": 14.20625,
+      "sem": 0.4406166322117592,
+      "n": 50
+    },
+    "delayed_copy/artifact/omission": {
+      "mean": 0.7269423400673403,
+      "sem": 0.013831455115804109,
+      "n": 50
+    },
+    "delayed_copy/artifact/intrusion": {
+      "mean": 0.08912401210694104,
+      "sem": 0.00490058747191692,
+      "n": 50
+    },
+    "delayed_copy/artifact/total_errors": {
+      "mean": 11.726666666666665,
+      "sem": 0.3083061212481727,
+      "n": 50
+    },
+    "delayed_copy/shared_domain/omission": {
+      "mean": 0.49221001221001215,
+      "sem": 0.029955342797358654,
+      "n": 50
+    },
+    "delayed_copy/shared_domain/intrusion": {
+      "mean": 0.46095238095238095,
+      "sem": 0.024553582840059783,
+      "n": 50
+    },
+    "delayed_copy/shared_category/omission": {
+      "mean": 0.6815833333333333,
+      "sem": 0.016547871700709108,
+      "n": 50
+    },
+    "delayed_copy/shared_category/intrusion": {
+      "mean": 0.25030303030303025,
+      "sem": 0.015101897731090025,
+      "n": 50
+    },
+    "delayed_copy/distinctive/omission": {
+      "mean": 0.7990609126984125,
+      "sem": 0.008556306982245583,
+      "n": 50
+    },
+    "delayed_copy/distinctive/intrusion": {
+      "mean": 0.08293050509314857,
+      "sem": 0.004121093765384953,
+      "n": 50
+    }
+  }
+}

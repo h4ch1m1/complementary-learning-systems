@@ -1,0 +1,9 @@
+{
+  "trials": 50,
+  "lesion_seed": 1707,
+  "max_settle_ticks": 2000,
+  "tolerance": 1e-05,
+  "stable_updates": 4,
+  "evaluation_source_sha256": "1e4422adb0702f8615cfa7cb855196d7911adbb1919a473eec74809f2d3b2dba",
+  "error_bars": "SEM across lesion masks, not patients or training seeds"
+}

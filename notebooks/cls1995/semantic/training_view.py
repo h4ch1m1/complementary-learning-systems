@@ -13,7 +13,7 @@ class TrainingView:
     def __init__(self, labels, indices):
         self.labels, self.indices = labels, indices
         self.frames = []
-        directory = Path(__file__).resolve().parents[2] / 'assets' / 'photos'
+        directory = Path(__file__).resolve().parents[3] / 'assets' / 'photos'
         credits = json.loads((directory / 'credits.json').read_text(encoding='utf-8'))
         self.photos = {}
         attribution = []

@@ -1,0 +1,24 @@
+[
+  {
+    "additional_epoch": 0,
+    "seconds": 3.619980998337269e-05,
+    "mse": 0.001065567834302783,
+    "within_005": 0.8878366947174072,
+    "bit_accuracy": 1.0,
+    "naming": 1.0,
+    "max_error": 0.254062294960022,
+    "unsettled": 0,
+    "ticks": 267
+  },
+  {
+    "additional_epoch": 50,
+    "seconds": 123.00453509995714,
+    "mse": 0.11515305191278458,
+    "within_005": 0.2160143107175827,
+    "bit_accuracy": 0.853044331073761,
+    "naming": 0.0,
+    "max_error": 0.9846634864807129,
+    "unsettled": 0,
+    "ticks": 56
+  }
+]

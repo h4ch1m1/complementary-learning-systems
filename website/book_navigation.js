@@ -27,12 +27,12 @@
     });
     const notebooks = {semantic:'semantic/semantic_knowledge',rat:'rat/rat_consolidation',monkey:'monkey/monkey_discrimination',equations:'two_system/two_system_model'};
     const download = document.querySelector('.book-toolbar a[download]');
-    if (download) download.href = '../notebooks/' + (notebooks[article.id] || 'semantic/semantic_knowledge') + '.ipynb';
+    if (download) download.href = '../notebooks/cls1995/' + (notebooks[article.id] || 'semantic/semantic_knowledge') + '.ipynb';
     if (notebooks[article.id] && !article.querySelector('.colab-launch')) {
       const launch = document.createElement('div');
       launch.className = 'colab-launch';
       const link = document.createElement('a');
-      link.href = 'https://colab.research.google.com/github/h4ch1m1/complementary-learning-systems/blob/main/notebooks/' + notebooks[article.id] + '.ipynb';
+      link.href = 'https://colab.research.google.com/github/h4ch1m1/complementary-learning-systems/blob/main/notebooks/cls1995/' + notebooks[article.id] + '.ipynb';
       link.target = '_blank';
       link.rel = 'noopener noreferrer';
       link.setAttribute('aria-label', 'Open this notebook in Google Colab');

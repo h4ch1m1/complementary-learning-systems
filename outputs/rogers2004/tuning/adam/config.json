@@ -1,0 +1,10 @@
+{
+  "source": "stable",
+  "optimizer": "Adam",
+  "lr": 0.001,
+  "max_updates": 1000,
+  "ticks": 56,
+  "objective": "mean BCE ticks21..56 + 1e-6 mean squared allowed weights",
+  "general_names": "expected feature targets instead of sampled exemplars; names unchanged",
+  "stopping": "intact max error < .05 and all inputs stable; no lesion selection"
+}

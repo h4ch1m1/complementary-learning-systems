@@ -1,0 +1,57 @@
+[
+  {
+    "additional_epoch": 0,
+    "seconds": 2.1091047001536936,
+    "mse": 0.009617513045668602,
+    "within_005": 0.6935676336288452,
+    "bit_accuracy": 0.9925645589828491,
+    "naming": 0.9791666666666666,
+    "max_error": 0.9996020793914795,
+    "unsettled": 0,
+    "ticks": 1073
+  },
+  {
+    "additional_epoch": 100,
+    "seconds": 110.68196359998547,
+    "mse": 0.0014894414925947785,
+    "within_005": 0.8707211017608643,
+    "bit_accuracy": 0.9999298453330994,
+    "naming": 1.0,
+    "max_error": 0.6332356333732605,
+    "unsettled": 0,
+    "ticks": 426
+  },
+  {
+    "additional_epoch": 200,
+    "seconds": 244.85471129999496,
+    "mse": 0.0023378953337669373,
+    "within_005": 0.9000771641731262,
+    "bit_accuracy": 0.9983866214752197,
+    "naming": 1.0,
+    "max_error": 0.9803991913795471,
+    "unsettled": 0,
+    "ticks": 635
+  },
+  {
+    "additional_epoch": 300,
+    "seconds": 284.6611674001906,
+    "mse": 0.0010844800854101777,
+    "within_005": 0.8839786648750305,
+    "bit_accuracy": 1.0,
+    "naming": 1.0,
+    "max_error": 0.3410806357860565,
+    "unsettled": 0,
+    "ticks": 418
+  },
+  {
+    "additional_epoch": 400,
+    "seconds": 308.55596860009246,
+    "mse": 0.0011932840570807457,
+    "within_005": 0.8735970854759216,
+    "bit_accuracy": 1.0,
+    "naming": 1.0,
+    "max_error": 0.26887017488479614,
+    "unsettled": 0,
+    "ticks": 395
+  }
+]

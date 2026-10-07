@@ -1,0 +1,12 @@
+{
+  "seed": 12345,
+  "data_seed": 2004,
+  "epochs": 400,
+  "lr": 0.005,
+  "gradient_scale": 1.0,
+  "decay_per_update": 6.944444444444445e-06,
+  "torch_version": "2.14.0+cpu",
+  "numpy_version": "2.5.3",
+  "elapsed_seconds": 485.7017338001169,
+  "source_sha256": "649300c7833893d0280685e19ae4d3c32cd5b19c57da7282f0b06bfdcde2c532"
+}

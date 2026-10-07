@@ -1,0 +1,13 @@
+/* Compact controls share the network diagram's pencil outline. Large panels and data cells stay unchanged. */
+:where(select,button,input[type=number],input[type=text],output,[id^=number]).sketch-control{
+ border:5px solid transparent!important;border-image:url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22240%22%20height%3D%2248%22%20viewBox%3D%220%200%20240%2048%22%3E%3Cpath%20d%3D%22M5%203%20Q70%200%20125%203%20T235%202%20Q239%2020%20236%2044%20Q165%2047%20115%2044%20T3%2045%20Q1%2025%205%203Z%22%20fill%3D%22none%22%20stroke%3D%22%2365716d%22%20stroke-width%3D%221.4%22%2F%3E%3Cpath%20d%3D%22M9%205%20Q115%201%20232%204%20M234%208%20Q238%2025%20234%2041%20M229%2043%20Q115%2047%208%2043%22%20fill%3D%22none%22%20stroke%3D%22%2365716d%22%20opacity%3D%22.35%22%20stroke-width%3D%22.7%22%2F%3E%3C%2Fsvg%3E") 8 fill / 5px / 0 stretch!important;
+ border-radius:0!important;background-color:#fff!important;box-shadow:none!important;
+ background-image:repeating-linear-gradient(122deg,transparent 0 5px,rgba(116,164,181,.08) 5px 7px,transparent 7px 10px)!important;
+ color:#323232;min-height:36px;
+}
+.sketch-control:focus-visible{outline:2px solid #3675a8!important;outline-offset:3px}
+.sketch-control:hover{background-color:#f8faf8!important}
+.sketch-control:disabled{opacity:.5}
+
+input[type=range]::-webkit-slider-thumb{border-radius:45% 55% 42% 58% / 55% 43% 57% 45%}
+input[type=range]::-moz-range-thumb{border-radius:45% 55% 42% 58% / 55% 43% 57% 45%}

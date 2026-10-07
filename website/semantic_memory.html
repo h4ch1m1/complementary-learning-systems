@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Structure and Deterioration of Semantic Memory · Rogers et al. (2004)</title>
+<link rel="stylesheet" href="book_theme.css"><link rel="stylesheet" href="semantic_memory.css">
+<script src="paper_navigation.js" defer></script><script src="rogers_results.js" defer></script><script src="semantic_memory.js" defer></script>
+<link rel="stylesheet" href="rogers_explorers.css"><script src="rogers_explorer_data.js" defer></script><script src="rogers_object_images.js?v=20261008-image-sync" defer></script><script src="rogers_explorers.js?v=20261008-image-sync" defer></script><script src="sketch_controls.js" defer></script></head><body class="paper-page" data-paper="rogers-2004">
+<aside><div class="book-title">Structure and Deterioration of Semantic Memory: A Neuropsychological and Computational Investigation</div><nav aria-label="Chapters">
+<a href="#introduction" data-chapter="introduction">Introduction</a><a href="#model" data-chapter="model">Semantic memory network</a></nav></aside>
+<main class="book-main">
+<article class="book-section" id="introduction">
+<h1>Structure and deterioration of semantic memory</h1>
+<p>Semantic memory is our knowledge of concepts, facts, and word meanings. It allows information acquired in different forms to contribute to a coherent understanding of an object. For example, we can recognize a cup by its appearance, refer to it by the word “cup,” and know that it can hold water for drinking. Its appearance, name, and use are connected in our understanding of the same object. Research on semantic memory helps us understand how knowledge is organized in the brain.</p>
+<p>Semantic dementia provides a way to investigate how this knowledge is organized. As the disease progresses, knowledge becomes less specific: a person may recognize that an object is an animal while no longer knowing which animal it is. Drawings may retain features shared by many animals while losing the details that distinguish one from another. The loss is gradual and structured.</p>
+<p>Rogers and colleagues (2004) asked whether these patterns could arise from damage to a shared system that learns associations between visual features, names, and verbal descriptions. Knowledge is distributed across connections. Objects that share features come to evoke related patterns of activity, without assigning a separate hidden unit to each concept.</p>
+<p>To examine this account, the authors implemented the shared system as a recurrent neural network. The network first learns to recover an object's properties from a partial cue. Connections are then removed, and the same damaged network is tested on naming, sorting, word–picture matching, and drawing.</p>
+<p>The model represents names, visual features, and verbal descriptions in separate groups of units, all connected to a shared layer of 64 hidden units. Connections run in both directions between the visible and hidden layers, and hidden units also connect to one another. The model learns these connection weights from associations among the three forms of information.</p>
+<div class="chapter-links"><a href="#model">Semantic memory network →</a><a href="https://web.stanford.edu/~jlmcc/papers/RogersETAL04.pdf" target="_blank" rel="noopener">Paper (PDF) ↗</a><a href="https://doi.org/10.1037/0033-295X.111.1.205">Publication ↗</a></div></article>
+<article class="book-section" id="model" hidden>
+<div class="chapter-links"><a href="#introduction">← Introduction</a><a href="../notebooks/rogers2004/semantic_deterioration.ipynb" download>Original reconstruction notebook</a></div>
+<h1>Semantic memory network</h1>
+<p>The model learns to complete an object's representation. A picture-like feature pattern should recover its name and description; a name should recover its visual and verbal properties. All these mappings pass through the same hidden semantic units.</p>
+<h2>1. Objects, features, and the shared representation</h2>
+<p>The network learns 48 objects represented by names, visual features, and verbal descriptors.</p>
+<section class="teaching-demo" id="feature-demo" aria-label="Object feature comparison">
+<h3>Feature overlap between two objects</h3>
+<p>We compare the features of two objects to examine the similarity present in the training inputs. Changing the object pair or the feature pool shows how this overlap differs between objects and between visual and verbal representations.</p>
+<div class="demo-controls"><label>First object<select id="feature-a"></select></label><label>Second object<select id="feature-b"></select></label><label>Feature pool<select id="feature-pool"><option value="visual">Visual features · 64</option><option value="verbal">Verbal descriptors · 112</option></select></label></div>
+<div class="demo-legend"><span style="--swatch:#3675a8">Active in both</span><span style="--swatch:#d18538">Only first object</span><span style="--swatch:#5b9b83">Only second object</span><span style="--swatch:#eef1f3">Inactive</span></div><div class="demo-pair"><div><strong id="feature-label-a"></strong><div class="feature-reference"><a id="feature-image-link-a" target="_blank" rel="noopener"><img id="feature-image-a" alt="" loading="eager"></a><div id="feature-grid-a"></div></div></div><div><strong id="feature-label-b"></strong><div class="feature-reference"><a id="feature-image-link-b" target="_blank" rel="noopener"><img id="feature-image-b" alt="" loading="eager"></a><div id="feature-grid-b"></div></div></div></div>
+
+<p id="feature-overlap" aria-live="polite"></p>
+</section>
+<figure><svg viewBox="0 0 700 270" role="img" aria-labelledby="network-title network-desc">
+<title id="network-title">Three visible pools share 64 recurrent semantic units</title><desc id="network-desc">Names, verbal descriptors and visual features connect bidirectionally to semantic units. Semantic units also connect to each other.</desc>
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#3675a8"/></marker>
+<filter id="crayon-grain" x="-5%" y="-5%" width="110%" height="110%">
+<feTurbulence type="fractalNoise" baseFrequency=".65" numOctaves="3" seed="12" result="grain"/>
+<feColorMatrix in="grain" type="luminanceToAlpha" result="texture"/>
+<feComposite in="SourceGraphic" in2="texture" operator="in"/>
+</filter>
+<pattern id="crayon-hatching" width="19" height="19" patternUnits="userSpaceOnUse" patternTransform="rotate(32)">
+<path d="M2 -3 Q0 6 2 13 L1 23 M7 -3 Q9 8 7 23 M13 -3 Q11 10 14 23 M18 -3 L17 23" fill="none" stroke="#74a4b5" stroke-width="3.3" stroke-linecap="round" opacity=".43"/>
+<path d="M4 -3 L5 23 M11 -3 L10 23" stroke="#aec9b7" stroke-width="1.5" opacity=".5"/>
+</pattern>
+</defs>
+<g stroke="#3675a8" stroke-width="2" fill="none" marker-start="url(#arrow)" marker-end="url(#arrow)"><path d="M120 88L286 176"/><path d="M350 88V163"/><path d="M580 88L414 176"/><path d="M424 195C515 140 525 261 424 220"/></g>
+<g><path d="M24 21 Q80.0 18 126.0 21 T217 20 Q221 45.6 219 82 Q150.0 86 116.0 84 T22 83 Q18 52.0 24 21 Z" fill="#fff"/><path d="M24 21 Q80.0 18 126.0 21 T217 20 Q221 45.6 219 82 Q150.0 86 116.0 84 T22 83 Q18 52.0 24 21 Z" fill="url(#crayon-hatching)" filter="url(#crayon-grain)"/><path d="M24 21 Q80.0 18 126.0 21 T217 20 Q221 45.6 219 82 Q150.0 86 116.0 84 T22 83 Q18 52.0 24 21 Z" fill="none" stroke="#65716d" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M28 23 Q124.0 19 215 22 M217 27 Q221 58.4 217 80 M211 82 Q120.0 87 27 81" fill="none" stroke="#65716d" stroke-width=".7" opacity=".38" stroke-linecap="round"/></g>
+<g><path d="M254 21 Q310.0 18 356.0 21 T447 20 Q451 45.6 449 82 Q380.0 86 346.0 84 T252 83 Q248 52.0 254 21 Z" fill="#fff"/><path d="M254 21 Q310.0 18 356.0 21 T447 20 Q451 45.6 449 82 Q380.0 86 346.0 84 T252 83 Q248 52.0 254 21 Z" fill="url(#crayon-hatching)" filter="url(#crayon-grain)"/><path d="M254 21 Q310.0 18 356.0 21 T447 20 Q451 45.6 449 82 Q380.0 86 346.0 84 T252 83 Q248 52.0 254 21 Z" fill="none" stroke="#65716d" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M258 23 Q354.0 19 445 22 M447 27 Q451 58.4 447 80 M441 82 Q350.0 87 257 81" fill="none" stroke="#65716d" stroke-width=".7" opacity=".38" stroke-linecap="round"/></g>
+<g><path d="M484 21 Q540.0 18 586.0 21 T677 20 Q681 45.6 679 82 Q610.0 86 576.0 84 T482 83 Q478 52.0 484 21 Z" fill="#fff"/><path d="M484 21 Q540.0 18 586.0 21 T677 20 Q681 45.6 679 82 Q610.0 86 576.0 84 T482 83 Q478 52.0 484 21 Z" fill="url(#crayon-hatching)" filter="url(#crayon-grain)"/><path d="M484 21 Q540.0 18 586.0 21 T677 20 Q681 45.6 679 82 Q610.0 86 576.0 84 T482 83 Q478 52.0 484 21 Z" fill="none" stroke="#65716d" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M488 23 Q584.0 19 675 22 M677 27 Q681 58.4 677 80 M671 82 Q580.0 87 487 81" fill="none" stroke="#65716d" stroke-width=".7" opacity=".38" stroke-linecap="round"/></g>
+<g><path d="M274 171 Q318.0 168 354.8 171 T427 170 Q431 197.2 429 236 Q374.0 240 346.8 238 T272 237 Q268 204.0 274 171 Z" fill="#fff"/><path d="M274 171 Q318.0 168 354.8 171 T427 170 Q431 197.2 429 236 Q374.0 240 346.8 238 T272 237 Q268 204.0 274 171 Z" fill="url(#crayon-hatching)" filter="url(#crayon-grain)"/><path d="M274 171 Q318.0 168 354.8 171 T427 170 Q431 197.2 429 236 Q374.0 240 346.8 238 T272 237 Q268 204.0 274 171 Z" fill="none" stroke="#65716d" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M278 173 Q353.2 169 425 172 M427 177 Q431 210.8 427 234 M421 236 Q350.0 241 277 235" fill="none" stroke="#65716d" stroke-width=".7" opacity=".38" stroke-linecap="round"/></g>
+<g text-anchor="middle" fill="#323232" font-size="17"><text x="120" y="47">Names</text><text x="120" y="70">40 units</text><text x="350" y="47">Verbal descriptors</text><text x="350" y="70">112 units</text><text x="580" y="47">Visual features</text><text x="580" y="70">64 units</text><text x="350" y="196">Semantic units</text><text x="350" y="222">64 units</text></g></svg>
+<figcaption>One shared network, evaluated through several tasks. Each arrow direction has independently learned weights.</figcaption></figure>
+<p>The model connects all three forms of information to the same layer of 64 hidden units.</p>
+<h2>2. Learning to complete a cue</h2>
+<p>One input pool is initially held at its supplied values, a procedure called <em>clamping</em>. The cue is then released and activity continues circulating. The model compares its outputs with the target features and adjusts its connection weights using backpropagation through time to reduce the error.</p>
+<div class="equation">u<sub>t+1</sub> = 0.75u<sub>t</sub> + 0.25(Wa<sub>t</sub> − 2), &nbsp; a<sub>t+1</sub> = σ(u<sub>t+1</sub>)</div>
+<p>Here, <em>u</em> is net input, <em>a</em> is activity, <em>W</em> contains the connection weights, and σ is the logistic function. The update blends previous net input with input from connected units. The fixed bias of −2 favors low activity without excitation.</p>
+<p>The original schedule uses 28 updates per trial: the input is clamped during the first three four-update intervals, and error is scored during the final two intervals. The paper reports 400 epochs. The initial reconstruction follows this schedule; our optimized extension changes the training objective and duration.</p>
+<section class="teaching-demo" id="trace-demo" aria-label="Retrieval activity">
+<h3>Activity following a cue</h3>
+<p>We present a name, a verbal description, or a visual pattern to examine how the network recovers the remaining information. The animation shows the recorded activity at successive updates. The orange outline marks the pool held fixed by the cue. After update 11, the cue is released and subsequent activity depends on the learned connections.</p>
+<div class="demo-object-controls"><a class="object-reference" id="trace-image-link" target="_blank" rel="noopener"><img id="trace-image" alt="" loading="eager"></a><div class="demo-controls"><label>Object<select id="trace-item"></select></label><label>Input cue<select id="trace-cue"><option value="0">Name</option><option value="1">Verbal description</option><option value="2">Visual features</option></select></label></div></div>
+<div class="trace-controls"><button type="button" id="trace-play" aria-label="Play retrieval" title="Play" aria-pressed="false"><svg viewBox="0 0 48 48" width="38" height="38" aria-hidden="true" focusable="false"><g class="play-mark" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M15 9 Q27 16 37 24 Q27 32 15 39 Q13 25 15 9 Z"/><path d="M17 11 Q26 18 34 24 Q27 30 17 36" opacity=".35"/></g><g class="pause-mark" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M17 11 Q16 24 17 37 M30 11 Q32 24 30 37"/></g></svg></button><input type="range" id="trace-step" min="0" max="35" value="0" aria-label="Retrieval progress"></div>
+<div class="demo-pools"><div><strong>Names · 40</strong><div id="trace-names"></div></div><div><strong>Verbal descriptors · 112</strong><div id="trace-verbal"></div></div><div><strong>Visual features · 64</strong><div id="trace-visual"></div></div><div><strong>Semantic units · 64</strong><div id="trace-semantic"></div></div></div>
+
+<p id="trace-readout" aria-live="polite"></p><p id="trace-error"></p>
+</section>
+<h2>3. Why recurrence matters</h2>
+<p>At each update, a unit's activity contributes to the input received by connected units. Their updated activity then contributes to the next update, through connections among hidden units and through the two-way connections between hidden and visible units. The network can therefore continue updating after the external cue is removed. When these updates bring nearby activity patterns toward the same stable pattern, that pattern is called an <em>attractor</em>.</p>
+<h2 id="experiments">4. Measured task performance</h2>
+<div class="table-scroll"><table><thead><tr><th>Task</th><th>Cue and response</th><th>Measure</th></tr></thead><tbody>
+<tr><td>Naming</td><td>Visual features → name</td><td>Strongest name above 0.5; otherwise no response.</td></tr>
+<tr><td>Sorting</td><td>Name or picture → category predicates</td><td>Broad and specific categories; specific sorting is conditional on the true broad group.</td></tr>
+<tr><td>Word–picture matching</td><td>Name and picture → hidden states</td><td>Whether the target is closer than the distractor in semantic space.</td></tr>
+<tr><td>Drawing / delayed copying</td><td>Name or released visual cue → visual features</td><td>Missing and added features relative to the intact response.</td></tr>
+</tbody></table></div>
+<section class="teaching-demo" id="lesion-demo" aria-label="Individual damaged responses">
+<h3>Feature loss in an individual damaged network</h3>
+<p>We compare intact and damaged visual responses to the same cue. A name cue corresponds to drawing from a name; a visual cue followed by its removal corresponds to delayed copying. Different damage samples show how the particular connections removed affect the response at a given damage level.</p>
+<div class="demo-object-controls"><a class="object-reference" id="lesion-image-link" target="_blank" rel="noopener"><img id="lesion-image" alt="" loading="eager"></a><div class="demo-controls"><label>Object<select id="lesion-item"></select></label><label>Task<select id="lesion-cue"><option value="0">Drawing from a name</option><option value="1">Delayed copying</option></select></label><label>Damage sample<select id="lesion-trial"><option value="0">Sample 1</option><option value="1">Sample 2</option><option value="2">Sample 3</option></select></label></div></div>
+<label for="lesion-step">Connections removed: <output id="lesion-level" for="lesion-step">20%</output></label><input type="range" id="lesion-step" min="0" max="5" value="2">
+<div class="demo-legend"><span style="--swatch:#3675a8">Retained</span><span style="--swatch:#d18538">Omitted</span><span style="--swatch:#9470ad">Added</span><span style="--swatch:#eef1f3">Absent in both</span></div><div class="demo-pair"><div><strong>Intact response</strong><div id="lesion-before"></div></div><div><strong>Damaged response</strong><div id="lesion-after"></div></div></div>
+
+<p id="lesion-readout" aria-live="polite"></p>
+
+</section>
+
+<p>We compare performance at ten damage levels to examine how each task changes as more connections are removed. The slider displays the saved results for each level. Nonzero levels average 50 masks applied to one trained network.</p>
+<section class="result-explorer" aria-label="Measured lesion results"><label for="damage">Connections removed: <output id="damage-label" for="damage">20%</output></label><input id="damage" type="range" min="0" max="9" step="1" value="4"><div id="result-bars" aria-live="polite"></div></section>
+<h2>5. Structured errors</h2>
+<figure><a href="../outputs/rogers2004/tuning/lesion_validation.png" target="_blank" rel="noopener"><img src="../outputs/rogers2004/tuning/lesion_validation.png" alt="Measured naming, matching, sorting, feature omissions and convergence across damage levels" loading="lazy"></a><figcaption>Error bars are standard errors across masks. The linked figure is available at full size.</figcaption></figure>
+<p>Matching is harder with a nearby-category distractor than an unrelated one. Broad sorting generally survives longer than specific sorting. In drawing, distinctive properties disappear more readily than domain-shared properties. These trends are consistent with damage reducing access to fine distinctions between related concepts.</p>
+<p>Fruits provide a demanding comparison: their visual properties overlap with artifacts, while verbal descriptions distinguish them. In this run, specific fruit sorting outlasts broad sorting, reversing the usual ordering.</p>
+<div class="table-scroll"><table><thead><tr><th>Measure</th><th>Initial reconstruction</th><th>Optimized extension</th></tr></thead><tbody><tr><td>Naming accuracy</td><td>97.92%</td><td>100%</td></tr><tr><td>Binary feature accuracy</td><td>99.68%</td><td>100%</td></tr><tr><td>Outputs within 0.05 of target</td><td>69.59%</td><td>99.91%</td></tr><tr><td>Updates until all inputs settle</td><td>1073</td><td>388</td></tr></tbody></table></div>
+<div class="chapter-links"><a href="../notebooks/rogers2004/tuning_results.ipynb" download>Results notebook</a><a href="../outputs/rogers2004/tuning/REPORT.md">Experiment report</a><a href="../notes/ROGERS2004_NOTES.md">Settings and reproduction notes</a><a href="../outputs/rogers2004/tuning/adam/lesion_trials.csv" download>Raw lesion results (CSV)</a></div>
+</article></main><div class="page-toc" aria-label="On this page"><h2>On this page</h2><div id="page-headings"></div></div></body></html>

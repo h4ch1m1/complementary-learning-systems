@@ -1,0 +1,233 @@
+[
+  {
+    "additional_epoch": 0,
+    "seconds": 5.789985880255699e-05,
+    "mse": 0.001065567834302783,
+    "within_005": 0.8878366947174072,
+    "bit_accuracy": 1.0,
+    "naming": 1.0,
+    "max_error": 0.254062294960022,
+    "unsettled": 0,
+    "ticks": 267
+  },
+  {
+    "additional_epoch": 50,
+    "seconds": 20.50864849984646,
+    "mse": 0.0007897295872680843,
+    "within_005": 0.912563145160675,
+    "bit_accuracy": 1.0,
+    "naming": 1.0,
+    "max_error": 0.21896034479141235,
+    "unsettled": 0,
+    "ticks": 371
+  },
+  {
+    "additional_epoch": 100,
+    "seconds": 39.14220630005002,
+    "mse": 0.0005869624437764287,
+    "within_005": 0.9333614110946655,
+    "bit_accuracy": 1.0,
+    "naming": 1.0,
+    "max_error": 0.19506454467773438,
+    "unsettled": 0,
+    "ticks": 501
+  },
+  {
+    "additional_epoch": 150,
+    "seconds": 58.160613500047475,
+    "mse": 0.00045190160744823515,
+    "within_005": 0.9480569362640381,
+    "bit_accuracy": 1.0,
+    "naming": 1.0,
+    "max_error": 0.1719610095024109,
+    "unsettled": 0,
+    "ticks": 303
+  },
+  {
+    "additional_epoch": 200,
+    "seconds": 74.9732786999084,
+    "mse": 0.0003553581773303449,
+    "within_005": 0.9618055820465088,
+    "bit_accuracy": 1.0,
+    "naming": 1.0,
+    "max_error": 0.16369861364364624,
+    "unsettled": 0,
+    "ticks": 533
+  },
+  {
+    "additional_epoch": 250,
+    "seconds": 94.05123189999722,
+    "mse": 0.00028802291490137577,
+    "within_005": 0.9707842469215393,
+    "bit_accuracy": 1.0,
+    "naming": 1.0,
+    "max_error": 0.17061913013458252,
+    "unsettled": 0,
+    "ticks": 526
+  },
+  {
+    "additional_epoch": 300,
+    "seconds": 112.6001804000698,
+    "mse": 0.00023697817232459784,
+    "within_005": 0.9780793786048889,
+    "bit_accuracy": 1.0,
+    "naming": 1.0,
+    "max_error": 0.166479229927063,
+    "unsettled": 0,
+    "ticks": 292
+  },
+  {
+    "additional_epoch": 350,
+    "seconds": 131.76694349991158,
+    "mse": 0.0002024130371864885,
+    "within_005": 0.9820075631141663,
+    "bit_accuracy": 1.0,
+    "naming": 1.0,
+    "max_error": 0.1629164218902588,
+    "unsettled": 0,
+    "ticks": 434
+  },
+  {
+    "additional_epoch": 400,
+    "seconds": 149.76460170000792,
+    "mse": 0.00017279124585911632,
+    "within_005": 0.9870581030845642,
+    "bit_accuracy": 1.0,
+    "naming": 1.0,
+    "max_error": 0.16492635011672974,
+    "unsettled": 0,
+    "ticks": 493
+  },
+  {
+    "additional_epoch": 450,
+    "seconds": 168.37109160004184,
+    "mse": 0.00014834311150480062,
+    "within_005": 0.9897937774658203,
+    "bit_accuracy": 1.0,
+    "naming": 1.0,
+    "max_error": 0.15751153230667114,
+    "unsettled": 0,
+    "ticks": 500
+  },
+  {
+    "additional_epoch": 500,
+    "seconds": 186.6102921999991,
+    "mse": 0.00012915497063659132,
+    "within_005": 0.9919332265853882,
+    "bit_accuracy": 1.0,
+    "naming": 1.0,
+    "max_error": 0.15643155574798584,
+    "unsettled": 0,
+    "ticks": 469
+  },
+  {
+    "additional_epoch": 550,
+    "seconds": 205.61523559992202,
+    "mse": 0.00011273231211816892,
+    "within_005": 0.9942830801010132,
+    "bit_accuracy": 1.0,
+    "naming": 1.0,
+    "max_error": 0.1459917426109314,
+    "unsettled": 0,
+    "ticks": 450
+  },
+  {
+    "additional_epoch": 600,
+    "seconds": 223.41990069998428,
+    "mse": 9.962866170099005e-05,
+    "within_005": 0.9959666132926941,
+    "bit_accuracy": 1.0,
+    "naming": 1.0,
+    "max_error": 0.14386707544326782,
+    "unsettled": 0,
+    "ticks": 386
+  },
+  {
+    "additional_epoch": 650,
+    "seconds": 242.7552775000222,
+    "mse": 8.801913645584136e-05,
+    "within_005": 0.996632993221283,
+    "bit_accuracy": 1.0,
+    "naming": 1.0,
+    "max_error": 0.13902372121810913,
+    "unsettled": 0,
+    "ticks": 419
+  },
+  {
+    "additional_epoch": 700,
+    "seconds": 261.39246700005606,
+    "mse": 7.975145126692951e-05,
+    "within_005": 0.9967381954193115,
+    "bit_accuracy": 1.0,
+    "naming": 1.0,
+    "max_error": 0.13786649703979492,
+    "unsettled": 0,
+    "ticks": 434
+  },
+  {
+    "additional_epoch": 750,
+    "seconds": 280.20638770004734,
+    "mse": 7.025953527772799e-05,
+    "within_005": 0.9976851940155029,
+    "bit_accuracy": 1.0,
+    "naming": 1.0,
+    "max_error": 0.1287742257118225,
+    "unsettled": 0,
+    "ticks": 318
+  },
+  {
+    "additional_epoch": 800,
+    "seconds": 299.19887809990905,
+    "mse": 6.287585711106658e-05,
+    "within_005": 0.9982463717460632,
+    "bit_accuracy": 1.0,
+    "naming": 1.0,
+    "max_error": 0.12309849262237549,
+    "unsettled": 0,
+    "ticks": 327
+  },
+  {
+    "additional_epoch": 850,
+    "seconds": 318.48630549991503,
+    "mse": 5.9359932492952794e-05,
+    "within_005": 0.9982112646102905,
+    "bit_accuracy": 1.0,
+    "naming": 1.0,
+    "max_error": 0.12755292654037476,
+    "unsettled": 0,
+    "ticks": 515
+  },
+  {
+    "additional_epoch": 900,
+    "seconds": 337.6067027999088,
+    "mse": 5.2922208851668984e-05,
+    "within_005": 0.998526930809021,
+    "bit_accuracy": 1.0,
+    "naming": 1.0,
+    "max_error": 0.11586230993270874,
+    "unsettled": 0,
+    "ticks": 412
+  },
+  {
+    "additional_epoch": 950,
+    "seconds": 356.8245620999951,
+    "mse": 4.781163079314865e-05,
+    "within_005": 0.9988425970077515,
+    "bit_accuracy": 1.0,
+    "naming": 1.0,
+    "max_error": 0.11186832189559937,
+    "unsettled": 0,
+    "ticks": 390
+  },
+  {
+    "additional_epoch": 1000,
+    "seconds": 374.9110156998504,
+    "mse": 4.343984619481489e-05,
+    "within_005": 0.9991231560707092,
+    "bit_accuracy": 1.0,
+    "naming": 1.0,
+    "max_error": 0.10661321878433228,
+    "unsettled": 0,
+    "ticks": 388
+  }
+]

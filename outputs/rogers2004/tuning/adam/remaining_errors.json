@@ -1,0 +1,152 @@
+[
+  {
+    "cue": "name",
+    "item": "cup",
+    "unit": 92,
+    "error": 0.05364722013473511
+  },
+  {
+    "cue": "description",
+    "item": "bird_2",
+    "unit": 137,
+    "error": 0.08171766996383667
+  },
+  {
+    "cue": "description",
+    "item": "bird_3",
+    "unit": 138,
+    "error": 0.056575287133455276
+  },
+  {
+    "cue": "description",
+    "item": "mammal_2",
+    "unit": 138,
+    "error": 0.05155372619628906
+  },
+  {
+    "cue": "description",
+    "item": "mammal_2",
+    "unit": 142,
+    "error": 0.10661321878433228
+  },
+  {
+    "cue": "description",
+    "item": "vehicle_1",
+    "unit": 142,
+    "error": 0.09659576416015625
+  },
+  {
+    "cue": "description",
+    "item": "vehicle_2",
+    "unit": 76,
+    "error": 0.05857085809111595
+  },
+  {
+    "cue": "description",
+    "item": "vehicle_2",
+    "unit": 134,
+    "error": 0.0511472225189209
+  },
+  {
+    "cue": "description",
+    "item": "vehicle_3",
+    "unit": 215,
+    "error": 0.05480152368545532
+  },
+  {
+    "cue": "description",
+    "item": "cup",
+    "unit": 92,
+    "error": 0.05364722013473511
+  },
+  {
+    "cue": "description",
+    "item": "tool_1",
+    "unit": 89,
+    "error": 0.053213298320770264
+  },
+  {
+    "cue": "description",
+    "item": "tool_2",
+    "unit": 215,
+    "error": 0.057295382022857666
+  },
+  {
+    "cue": "description",
+    "item": "tool_3",
+    "unit": 204,
+    "error": 0.05107051134109497
+  },
+  {
+    "cue": "picture",
+    "item": "bird_2",
+    "unit": 137,
+    "error": 0.08171766996383667
+  },
+  {
+    "cue": "picture",
+    "item": "bird_3",
+    "unit": 138,
+    "error": 0.056575335562229156
+  },
+  {
+    "cue": "picture",
+    "item": "mammal_2",
+    "unit": 138,
+    "error": 0.05155372619628906
+  },
+  {
+    "cue": "picture",
+    "item": "mammal_2",
+    "unit": 142,
+    "error": 0.10661321878433228
+  },
+  {
+    "cue": "picture",
+    "item": "vehicle_1",
+    "unit": 142,
+    "error": 0.09659576416015625
+  },
+  {
+    "cue": "picture",
+    "item": "vehicle_2",
+    "unit": 76,
+    "error": 0.05857085809111595
+  },
+  {
+    "cue": "picture",
+    "item": "vehicle_2",
+    "unit": 134,
+    "error": 0.0511472225189209
+  },
+  {
+    "cue": "picture",
+    "item": "vehicle_3",
+    "unit": 215,
+    "error": 0.05480152368545532
+  },
+  {
+    "cue": "picture",
+    "item": "cup",
+    "unit": 92,
+    "error": 0.05364722013473511
+  },
+  {
+    "cue": "picture",
+    "item": "tool_1",
+    "unit": 89,
+    "error": 0.053213298320770264
+  },
+  {
+    "cue": "picture",
+    "item": "tool_2",
+    "unit": 215,
+    "error": 0.057295382022857666
+  },
+  {
+    "cue": "picture",
+    "item": "tool_3",
+    "unit": 204,
+    "error": 0.05107051134109497
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "source": "stable",
+  "epochs": 800,
+  "lr": 0.005,
+  "ticks": 56,
+  "loss": "hard-target BCE, .01 dead zone, mean over ticks21..56 scaled to original total",
+  "sampling_seed": 64321,
+  "selection": "intact audit only"
+}

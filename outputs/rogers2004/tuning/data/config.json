@@ -1,0 +1,10 @@
+{
+  "variant": "data",
+  "initial_checkpoint": "paper_settings/model.pt",
+  "additional_epochs": 400,
+  "margin": 0.01,
+  "lr_schedule": "0.005 first half, 0.002 second half",
+  "sampling_seed": 54321,
+  "selection": "intact performance only; no lesion scores",
+  "source_sha256": "895a5f58dcd9dd45a27d9a3f24c589f93ce256ddc79854df1dbf92d96f65c1e5"
+}

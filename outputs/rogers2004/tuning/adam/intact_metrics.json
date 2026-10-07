@@ -1,0 +1,11 @@
+{
+  "naming_accuracy": 1.0,
+  "unique_naming_accuracy": 1.0,
+  "feature_bit_accuracy": 1.0,
+  "within_005_fraction": 0.9991231560707092,
+  "max_error": 0.10661321878433228,
+  "mse": 4.343984619481489e-05,
+  "settle_residual": 7.510185241699219e-06,
+  "settle_ticks": 388,
+  "nonconvergent_inputs": 0
+}

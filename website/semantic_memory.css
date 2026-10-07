@@ -1,0 +1,18 @@
+.paper-page .book-main{margin-right:272px;max-width:none}
+.paper-page .book-section[hidden]{display:none}
+.paper-page .book-section h2{font-size:25px;font-weight:400;color:#545454;margin:38px 0 18px;line-height:1.3}
+.paper-page .page-toc{position:fixed;right:0;top:52px;max-height:calc(100vh - 64px);overflow:auto}
+.paper-page .page-toc button{display:block;border:0;background:none;text-align:left;cursor:pointer;width:100%}
+.paper-page figure{margin:28px 0}.paper-page figure img,.paper-page figure svg{display:block;width:100%;height:auto}
+.paper-page figcaption{font-size:13px;color:#666;line-height:1.6;margin-top:10px}
+.paper-page table{border-collapse:collapse;width:100%;font-size:14px;margin:12px 0 26px;text-align:left}
+.paper-page th,.paper-page td{padding:12px 14px;border-bottom:1px solid #ddd;vertical-align:top}.paper-page th{font-weight:600;background:#f7f8f9}
+.table-scroll{overflow-x:auto}.paper-page pre{overflow:auto;padding:18px;background:#f6f7f8;font-size:13px;line-height:1.6}
+.paper-page .code-fold summary{cursor:pointer;color:#3675a8}.paper-page .equation{padding:18px 0;line-height:1.8;font-family:Georgia,serif;text-align:center;font-size:18px}
+.result-explorer{margin:26px 0;padding:0;background:transparent}.result-explorer label{display:block;font-weight:600}.result-explorer input{width:100%;margin:20px 0;accent-color:#3675a8}
+.result-explorer #damage-note,.result-explorer #settling-note{font-size:13px;margin-bottom:12px;color:#666}
+.result-row{display:grid;grid-template-columns:1fr 1.3fr 62px;gap:12px;align-items:center;margin:14px 0;font-size:14px}.result-track{background:#e0e6ea;height:12px}.result-fill{height:100%;background:#3675a8}.result-value{text-align:right;font-variant-numeric:tabular-nums}
+@media(min-width:1600px){.paper-page .book-main{max-width:1048px}.paper-page .page-toc{right:calc((100vw - 1600px)/2)}}
+@media(max-width:1199px){.paper-page .book-main{margin-right:0}}
+@media(max-width:760px){.paper-page .book-main{margin:0}.result-explorer{padding:0}.result-row{grid-template-columns:1.2fr 1fr 52px;gap:8px;font-size:12px}.paper-page h1{overflow-wrap:anywhere}.paper-page .equation{font-size:16px}}
+
