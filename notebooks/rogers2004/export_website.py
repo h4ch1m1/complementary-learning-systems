@@ -13,4 +13,3 @@ for level in summary:
     audit[level]=dict(trials=len(subset),unsettled=sum(int(r['nonconvergent_inputs'])>0 for r in subset))
 data=dict(levels=sorted(map(float,summary)),summary=summary,audit=audit)
 (root/'website/rogers_results.js').write_text('// Generated from tuning/adam; run notebooks/rogers2004/export_website.py to refresh.\nwindow.rogersResults = '+json.dumps(data,separators=(',',':'))+';\n',encoding='utf8')
-

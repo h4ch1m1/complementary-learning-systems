@@ -8,6 +8,7 @@
 <a href="#introduction" data-chapter="introduction">Introduction</a><a href="#model" data-chapter="model">Semantic memory network</a></nav></aside>
 <main class="book-main">
 <article class="book-section" id="introduction">
+<div class="colab-launch"><a href="https://colab.research.google.com/github/h4ch1m1/complementary-learning-systems/blob/main/notebooks/rogers2004/tutorial.ipynb" target="_blank" rel="noopener noreferrer" aria-label="Open the complete paper tutorial in Google Colab"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" width="117" height="20"></a></div>
 <h1>Structure and deterioration of semantic memory</h1>
 <p>Semantic memory is our knowledge of concepts, facts, and word meanings. It allows information acquired in different forms to contribute to a coherent understanding of an object. For example, we can recognize a cup by its appearance, refer to it by the word “cup,” and know that it can hold water for drinking. Its appearance, name, and use are connected in our understanding of the same object. Research on semantic memory helps us understand how knowledge is organized in the brain.</p>
 <p>Semantic dementia provides a way to investigate how this knowledge is organized. As the disease progresses, knowledge becomes less specific: a person may recognize that an object is an animal while no longer knowing which animal it is. Drawings may retain features shared by many animals while losing the details that distinguish one from another. The loss is gradual and structured.</p>
@@ -16,7 +17,8 @@
 <p>The model represents names, visual features, and verbal descriptions in separate groups of units, all connected to a shared layer of 64 hidden units. Connections run in both directions between the visible and hidden layers, and hidden units also connect to one another. The model learns these connection weights from associations among the three forms of information.</p>
 <div class="chapter-links"><a href="#model">Semantic memory network →</a><a href="https://web.stanford.edu/~jlmcc/papers/RogersETAL04.pdf" target="_blank" rel="noopener">Paper (PDF) ↗</a><a href="https://doi.org/10.1037/0033-295X.111.1.205">Publication ↗</a></div></article>
 <article class="book-section" id="model" hidden>
-<div class="chapter-links"><a href="#introduction">← Introduction</a><a href="../notebooks/rogers2004/semantic_deterioration.ipynb" download>Original reconstruction notebook</a></div>
+<div class="chapter-links"><a href="#introduction">← Introduction</a><a href="../notebooks/rogers2004/tutorial.ipynb" download>Full tutorial notebook</a></div>
+<div class="colab-launch"><a href="https://colab.research.google.com/github/h4ch1m1/complementary-learning-systems/blob/main/notebooks/rogers2004/tutorial.ipynb" target="_blank" rel="noopener noreferrer" aria-label="Open the complete paper tutorial in Google Colab"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" width="117" height="20"></a></div>
 <h1>Semantic memory network</h1>
 <p>The model learns to complete an object's representation. A picture-like feature pattern should recover its name and description; a name should recover its visual and verbal properties. All these mappings pass through the same hidden semantic units.</p>
 <h2>1. Objects, features, and the shared representation</h2>

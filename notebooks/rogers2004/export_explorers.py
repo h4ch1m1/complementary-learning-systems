@@ -53,4 +53,3 @@ data=dict(labels=list(map(str,env['item_labels'])),names=list(map(str,env['names
                     source='Optimized extension, one checkpoint; illustrative masks are separate from the aggregate evaluation'))
 (root/'website/rogers_explorer_data.js').write_text('window.rogersExplorerData = '+json.dumps(data,separators=(',',':'))+';\n',encoding='utf8')
 print('Exported teaching data',flush=True)
-
