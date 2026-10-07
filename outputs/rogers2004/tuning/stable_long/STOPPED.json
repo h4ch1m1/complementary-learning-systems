@@ -1,7 +1,0 @@
-{
-  "status": "stopped_early",
-  "reason": "Intact naming collapsed to zero at the recorded 50-epoch audit after increasing learning rate to 0.005.",
-  "requested_epochs": 800,
-  "last_saved_epoch": 50,
-  "checkpoint": "Failed checkpoint retained; not used for subsequent training or lesion validation."
-}

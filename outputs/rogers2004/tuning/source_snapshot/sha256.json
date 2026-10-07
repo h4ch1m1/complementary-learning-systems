@@ -1,8 +1,0 @@
-{
-  "rogers_model.py": "1e4422adb0702f8615cfa7cb855196d7911adbb1919a473eec74809f2d3b2dba",
-  "tune_model.py": "895a5f58dcd9dd45a27d9a3f24c589f93ce256ddc79854df1dbf92d96f65c1e5",
-  "refine_stability.py": "3b7cdda4bb95c66e3b769b4e047db81a7d6cc72371e838055b5753de6417cc9b",
-  "refine_adam.py": "08fe3d851c114d2002cfefd827a0632e743df455ac67185a1e0ef5f6bcb1c960",
-  "validate_tuning.py": "4f18541f9313c9683ac0f8aea186b50364c1df262fcea36f22e742518f3376af",
-  "report_tuning.py": "ec544da4e64ee54982e997ecfcb149cc2ffb921ba4a57ed6557eee5386392379"
-}

@@ -1,9 +1,0 @@
-{
-  "naming_accuracy": 1.0,
-  "unique_naming_accuracy": 1.0,
-  "feature_bit_accuracy": 0.9998246431350708,
-  "within_005_fraction": 0.6975659132003784,
-  "max_error": 0.7141700983047485,
-  "mse": 0.00316805113106966,
-  "settle_residual": 0.04014331102371216
-}

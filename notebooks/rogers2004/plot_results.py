@@ -113,9 +113,7 @@ def plot_results(output):
         *[f'| {a} | {b} | {c} |' for a,b,c in checks], '',
         f'Maximum mean final-tick residual over lesion levels: {max_residual:.6g}. Evaluation allows up to 2000 ticks and stops after four consecutive updates smaller than 1e-5. Raw CSV includes nonconvergent input counts; capped trials must not be described as proven fixed points.', '',
         f'**Convergence limitation:** {unsettled}/{len(raw)} trials reached the cap with at least one unsettled input; {unsettled_visual} had unsettled visual inputs. These trials remain in the plots (not silently discarded), so the curves are finite-time responses where convergence failed. The intact network has {metrics["nonconvergent_inputs"]} unsettled inputs.', '',
-        'Earlier fixed-200-tick summaries are retained in `summary_200ticks.json` for the settling sensitivity check. The original training source is retained as `training_source.py`, matching the training hash in config.json. Final evaluation code has its own hash in evaluation_config.json.', '',
         'Error bands are standard errors over lesion masks for one trained network. They are not patient uncertainty or between-training-seed uncertainty. No patient measurements were fabricated, digitized, or fitted.', '',
-        'See `notes/ROGERS2004_NOTES.md` for every reconstruction choice and known limitations.', '',
         '![Training](training.png)','![Lesions](lesion_results.png)','![Representations](representations.png)']
     (output/'RESULTS.md').write_text('\n'.join(report),encoding='utf8')
 

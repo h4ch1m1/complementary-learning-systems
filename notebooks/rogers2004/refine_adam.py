@@ -1,4 +1,11 @@
-"""Optimization extension: full-batch Adam and expected general-name targets."""
+"""Optimization extension: full-batch Adam and expected general-name targets.
+
+The checkpoints before Adam can be regenerated from the repository root:
+    python notebooks/rogers2004/rogers_model.py --train-only
+    python notebooks/rogers2004/tune_model.py --variant data --epochs 400
+    python notebooks/rogers2004/refine_stability.py --source data --epochs 200
+    python notebooks/rogers2004/refine_adam.py
+"""
 import json,time
 import numpy as np
 import torch

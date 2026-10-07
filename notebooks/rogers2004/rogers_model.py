@@ -1,6 +1,6 @@
 """PyTorch reconstruction of Rogers et al. (2004), not original author code.
 
-See notes/ROGERS2004_NOTES.md for paper settings, missing details and choices.
+The feature environment is reconstructed; the published numerical curves are not fitted.
 All matrices use [receiver, sender]. No lesion rescaling or lesion retraining.
 """
 from __future__ import annotations

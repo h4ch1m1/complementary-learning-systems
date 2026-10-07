@@ -17,3 +17,16 @@ outputs/**/polished_*.png
 outputs/**/minimal_test.png
 outputs/nma_reference.png
 node_modules/
+
+# Local authoring files and regenerable experiment intermediates.
+/notes/
+/notebooks/**/build_*.py
+/outputs/rogers2004/tuning/continue/
+/outputs/rogers2004/tuning/tight/
+/outputs/rogers2004/tuning/data/
+/outputs/rogers2004/tuning/stable/
+/outputs/rogers2004/tuning/stable_long/
+/outputs/rogers2004/tuning/source_snapshot/
+/outputs/rogers2004/tuning/REPORT.md
+/outputs/rogers2004/tuning/training_comparison.png
+/outputs/rogers2004/paper_settings/RESULTS.md
