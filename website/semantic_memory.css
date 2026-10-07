@@ -16,3 +16,5 @@
 @media(max-width:1199px){.paper-page .book-main{margin-right:0}}
 @media(max-width:760px){.paper-page .book-main{margin:0}.result-explorer{padding:0}.result-row{grid-template-columns:1.2fr 1fr 52px;gap:8px;font-size:12px}.paper-page h1{overflow-wrap:anywhere}.paper-page .equation{font-size:16px}}
 
+
+.paper-page #introduction > h1{margin-bottom:36px}
