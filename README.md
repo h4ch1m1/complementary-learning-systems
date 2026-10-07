@@ -1,6 +1,6 @@
 # Papers
 
-Interactive explanations and computational reproductions of papers on learning and memory.
+Interactive explanations and computational models that replicate studies on learning and memory.
 
 ## Complementary learning systems
 
