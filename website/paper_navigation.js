@@ -14,6 +14,12 @@
       citation: 'Rogers et al. · 2004',
 
     },
+    {
+      id: 'tcm-2002',
+      file: 'temporal_context.html',
+      title: 'A Distributed Representation of Temporal Context',
+      citation: 'Howard & Kahana · 2002',
+    },
   ];
   const host = document.querySelector('body > aside .book-title');
   const current = papers.find(paper => paper.id === document.body.dataset.paper);

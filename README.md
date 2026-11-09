@@ -13,3 +13,9 @@ McClelland, McNaughton, and O’Reilly (1995) examine how the brain can learn ne
 Rogers and colleagues (2004) investigate how names, visual features, and verbal descriptions contribute to semantic knowledge. A recurrent network learns associations among these forms of information through a shared semantic representation. Damage to its connections produces patterns of impaired naming, classification, matching, and drawing that can be compared with semantic dementia.
 
 [Read the interactive article](https://h4ch1m1.github.io/complementary-learning-systems/website/semantic_memory.html) · [Paper](https://doi.org/10.1037/0033-295X.111.1.205) · [Open in Colab](https://colab.research.google.com/github/h4ch1m1/complementary-learning-systems/blob/main/notebooks/rogers2004/tutorial.ipynb)
+
+## Temporal context in free recall
+
+Howard and Kahana (2002) explain why free recall begins near the end of a list and why each recalled word tends to be followed by its neighbor, usually the word that came after it. In their temporal context model, each word is associated with a gradually changing state of context, and recalling a word reinstates part of the context in which it was studied. The same mechanism accounts for recency, contiguity, and the forward asymmetry of recall across short and long delays.
+
+[Read the interactive article](https://h4ch1m1.github.io/complementary-learning-systems/website/temporal_context.html) · [Paper](https://doi.org/10.1006/jmps.2001.1388) · [Open in Colab](https://colab.research.google.com/github/h4ch1m1/complementary-learning-systems/blob/main/notebooks/tcm2002/tutorial.ipynb)
