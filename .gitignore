@@ -30,3 +30,12 @@ node_modules/
 /outputs/rogers2004/tuning/REPORT.md
 /outputs/rogers2004/tuning/training_comparison.png
 /outputs/rogers2004/paper_settings/RESULTS.md
+
+# Local audits, figure-review interfaces, and exploratory experiment outputs.
+/outputs/fidelity_audit/
+/outputs/fidelity_audit_updated/
+/outputs/plot_alignment_review/
+/outputs/website_fidelity_review/
+/outputs/integration_review/
+/outputs/improvements/
+/outputs/report_index.html

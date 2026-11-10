@@ -42,6 +42,8 @@ class TrainingView:
         data = {'labels': self.labels, 'frames': self.frames, 'losses': losses, 'photos': self.photos,
                 'maxDistance': max(1.5, float(np.ceil(largest * 2) / 2))}
         template = Path(__file__).with_suffix('.html').read_text(encoding='utf-8')
+        font = Path(__file__).resolve().parents[3] / 'website/fonts/DejaVuSans.woff2'
+        template = template.replace('__PLOT_FONT__', base64.b64encode(font.read_bytes()).decode())
         self.document = template.replace('__TRAINING_DATA__', json.dumps(data)).replace('__PHOTO_CREDITS__', self.credits)
         iframe = '<iframe title="Semantic representation learning" style="width:100%;height:1800px;border:0" srcdoc="{}"></iframe>'
         self.handle.update(HTML(iframe.format(html.escape(self.document, quote=True))))

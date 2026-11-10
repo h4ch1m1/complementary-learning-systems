@@ -106,14 +106,15 @@ function el(name, attrs = {}, parent) {
 function fmt(v, digits = 3) { return Number(v).toFixed(digits); }
 
 function chart(host, opts) {
-  const W = opts.W || 330, H = opts.H || 240, L = 46, R = 12, T = 30, B = 44;
+  const W = opts.W || 360, H = opts.H || 290, L = 60, R = 12, T = 70, B = 44;
   const [x0, x1] = opts.xRange, yMax = opts.yMax;
   const sx = x => L + (x - x0) / (x1 - x0) * (W - L - R);
   const sy = y => H - B - y / yMax * (H - T - B);
   host.replaceChildren();
-  const svg = el('svg', {viewBox: `0 0 ${W} ${H}`, role: 'img', 'aria-label': opts.label || opts.title || ''}, host);
+  const svg = el('svg', {viewBox:`0 0 ${W} ${H}`, role:'img', 'aria-label':opts.label||opts.title||'',
+    'data-plot-top':T, 'data-plot-bottom':H-B, 'data-y-max':yMax}, host);
   if (opts.title) el('text', {x: (L + W - R) / 2, y: 18, 'text-anchor': 'middle', 'font-size': 14, fill: '#323232'}, svg).textContent = opts.title;
-  el('path', {d: `M${L} ${T - 4} Q${L - 1.5} ${(T + H - B) / 2} ${L} ${H - B} Q${(L + W - R) / 2} ${H - B + 1.5} ${W - R} ${H - B}`,
+  el('path', {d: `M${L} ${T - 4}V${H - B}H${W - R}`,
               fill: 'none', stroke: INK, 'stroke-width': 1.3, 'stroke-linecap': 'round'}, svg);
   opts.yTicks.forEach(y => {
     el('line', {x1: L - 4, x2: L, y1: sy(y), y2: sy(y), stroke: INK}, svg);
@@ -125,29 +126,44 @@ function chart(host, opts) {
   });
   if (opts.xLabel) el('text', {x: (L + W - R) / 2, y: H - 6, 'text-anchor': 'middle', 'font-size': 12, fill: '#444'}, svg).textContent = opts.xLabel;
   if (opts.yLabel) el('text', {x: 12, y: (T + H - B) / 2, 'text-anchor': 'middle', 'font-size': 12, fill: '#444', transform: `rotate(-90 12 ${(T + H - B) / 2})`}, svg).textContent = opts.yLabel;
-  opts.series.forEach(s => {
+  opts.series.forEach((s, index) => {
+    if (s.label) {
+      const y = 36 + index * 17;
+      el('circle', {cx:L+5, cy:y-4, r:3.4, fill:s.open?'white':s.color, stroke:s.color}, svg);
+      el('text', {x:L+16, y, 'font-size':11, fill:'#323232'}, svg).textContent=s.label;
+    }
     s.segments.forEach(points => {
       const pts = points.filter(([, y]) => Number.isFinite(y));
-      if (s.line && pts.length > 1) el('polyline', {points: pts.map(([x, y]) => `${sx(x)},${sy(Math.min(y, yMax))}`).join(' '), fill: 'none', stroke: s.color, 'stroke-width': s.width || 2, 'stroke-linejoin': 'round', 'stroke-dasharray': s.dash || ''}, svg);
-      pts.forEach(([x, y]) => {
-        const cx = sx(x), cy = sy(Math.min(y, yMax));
+      if (s.line && pts.length > 1) el('polyline', {points: pts.map(([x, y]) => `${sx(x)},${sy(y)}`).join(' '), fill: 'none', stroke: s.color, 'stroke-width': s.width || 2, 'stroke-linejoin': 'round', 'stroke-dasharray': s.dash || '', class:s.experimental?'experimental-line':'model-line'}, svg);
+      pts.forEach(([x, y, lower, upper]) => {
+        const cx = sx(x), cy = sy(y);
+        if (Number.isFinite(lower) && Number.isFinite(upper)) {
+          el('path', {d:`M${cx} ${sy(lower)}V${sy(upper)}M${cx-3} ${sy(lower)}H${cx+3}M${cx-3} ${sy(upper)}H${cx+3}`,
+                     fill:'none', stroke:s.color, 'stroke-width':1, class:'experimental-ci'}, svg);
+        }
         if (s.marker === 'square') el('rect', {x: cx - 4.5, y: cy - 4.5, width: 9, height: 9, fill: 'none', stroke: s.color, 'stroke-width': 1.6}, svg);
-        else if (s.marker === 'circle') el('circle', {cx, cy, r: 3.4, fill: s.color}, svg);
+        else if (s.marker === 'circle') el('circle', {cx, cy, r:3.4, fill:s.open?'white':s.color, stroke:s.color,
+          class:s.experimental?'experimental-point':'model-point'}, svg);
       });
     });
   });
 }
 const lagSplit = (map, lim = 5) => [[...Array(lim)].map((_, k) => [k - lim, map[k - lim]]), [...Array(lim)].map((_, k) => [k + 1, map[k + 1]])];
 function pfrChart(host, condition, pfr) {
-  const series = [];
-  series.push({segments: [pfr.map((y, i) => [i + 1, y])], color: BLUE, line: true, marker: 'circle'});
-  chart(host, {W: 270, H: 220, title: TITLES[condition], xRange: [.5, 12.5], xTicks: [1, 3, 6, 9, 12], yMax: .85, yTicks: [0, .2, .4, .6, .8],
-               xLabel: 'Serial position', yLabel: 'Probability of first recall', series});
+  const series = [{segments:[pfr.map((y,i)=>[i+1,y])], color:'#0173b2', line:true, marker:'circle', open:true, label:'Tutorial model'}];
+  const observed=window.tcmExperimental?.[condition]?.pfr;
+  if(observed)series.push({segments:[observed],color:'black',line:true,marker:'circle',experimental:true,label:'Experimental (digitized)'});
+  const yMax=Math.max(...pfr)<=.6?.6:1;
+  chart(host, {title:TITLES[condition], xRange:[.5,12.5], xTicks:[1,3,6,9,12], yMax, yTicks:yMax===1?[0,.25,.5,.75,1]:[0,.2,.4,.6],
+               xLabel:'Serial Position', yLabel:'Probability of First Recall', series});
 }
 function crpChart(host, condition, crp) {
-  chart(host, {W: 270, H: 220, title: TITLES[condition], xRange: [-5.6, 5.6], xTicks: [-5, -3, -1, 1, 3, 5], yMax: .45, yTicks: [0, .1, .2, .3, .4],
-               xLabel: 'Lag', yLabel: 'Conditional response probability',
-               series: [{segments: lagSplit(crp), color: BLUE, line: true, marker: 'circle'}]});
+  const segments=lagSplit(crp),series=[{segments,color:'#0173b2',line:true,marker:'circle',open:true,label:'Tutorial model'}];
+  const observed=window.tcmExperimental?.[condition]?.crp;
+  if(observed)series.push({segments:[observed.filter(p=>p[0]<0),observed.filter(p=>p[0]>0)],color:'black',line:true,marker:'circle',experimental:true,label:'Experimental (digitized)'});
+  const yMax=Math.max(...segments.flat().map(p=>p[1]))<=.45?.45:1;
+  chart(host, {title:TITLES[condition], xRange:[-5.6,5.6], xTicks:[-5,-3,-1,1,3,5], yMax, yTicks:yMax===1?[0,.25,.5,.75,1]:[0,.1,.2,.3,.4],
+               xLabel:'Lag', yLabel:'Conditional Response Probability', series});
 }
 
 const chapters = [...document.querySelectorAll('.book-section')];
