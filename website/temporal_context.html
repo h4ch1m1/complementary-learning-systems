@@ -2,7 +2,7 @@
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>A Distributed Representation of Temporal Context · Howard &amp; Kahana (2002)</title>
 <link rel="stylesheet" href="book_theme.css"><link rel="stylesheet" href="semantic_memory.css"><link rel="stylesheet" href="rogers_explorers.css"><link rel="stylesheet" href="temporal_context.css">
-<script src="paper_navigation.js" defer></script><script src="temporal_context.js" defer></script><script src="sketch_controls.js" defer></script></head><body class="paper-page" data-paper="tcm-2002">
+<script src="paper_navigation.js" defer></script><script src="tcm_experimental.js" defer></script><script src="temporal_context.js" defer></script><script src="sketch_controls.js" defer></script></head><body class="paper-page" data-paper="tcm-2002">
 <aside><div class="book-title">A Distributed Representation of Temporal Context</div><nav aria-label="Chapters">
 <a href="#introduction" data-chapter="introduction">Introduction</a><a href="#model" data-chapter="model">Temporal context model</a></nav></aside>
 <main class="book-main">
@@ -120,7 +120,7 @@
 <p>The paper uses two measures of the temporal organization of recall. The <em>probability of first recall</em> describes where the first response appeared in the study list. The <em>conditional response probability</em> (CRP) describes transitions between recalled words, adjusted for the opportunities to make each transition. Their difference in study position is the lag: +1 means the next word in the list, and −1 means the preceding word. Here, CRP includes only the transition from the first to the second response.</p>
 <section class="teaching-demo" id="time-demo" aria-label="Three conditions">
 <h3>Recall across conditions</h3>
-<p>Change the condition or parameters to compare first-recall probabilities (left) and transition probabilities (right).</p>
+<p>Change the condition or parameters to compare first-recall probabilities (left) and transition probabilities (right).</p><p>For delayed recall, filled black points overlay approximately digitized experimental means from Figures 7B and 8A. Their error bars are the paper’s published within-subject 95% confidence intervals (Loftus–Masson method); blue open circles are model expectations. Experimental overlays are available for the delayed condition only. <a href="../data/tcm2002/experimental_delayed.csv" download>Download the figure readings</a>.</p>
 <div class="demo-controls"><label>Condition<select id="time-condition"><option value="immediate">Immediate recall</option><option value="delayed" selected>Delayed recall</option><option value="continuous">Continuous distractor</option></select></label></div>
 <div class="demo-controls slider-row"><label for="time-beta"><span>β = <output id="time-beta-value" for="time-beta">0.402</output></span><input type="range" id="time-beta" min="0.2" max="0.7" step="0.001" value="0.402"></label><label for="time-tau"><span>τ = <output id="time-tau-value" for="time-tau">0.247</output></span><input type="range" id="time-tau" min="0.1" max="0.6" step="0.001" value="0.247"></label><label for="time-d"><span><em>d</em> = <output id="time-d-value" for="time-d">7.24</output></span><input type="range" id="time-d" min="0" max="15" step="0.01" value="7.24"></label></div>
 <div class="demo-pair"><div id="time-pfr" class="demo-chart"></div><div id="time-crp" class="demo-chart"></div></div>

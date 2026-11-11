@@ -25,7 +25,7 @@
       observer.observe(heading);
       buttons[i]?.addEventListener('click', () => mark(i));
     });
-    const notebooks = {semantic:'semantic/semantic_knowledge',rat:'rat/rat_consolidation',monkey:'monkey/monkey_discrimination',equations:'two_system/two_system_model'};
+    const notebooks = {semantic:'semantic/semantic_knowledge',rat:'rat/rat_figure12_reproduction',monkey:'monkey/monkey_discrimination',equations:'two_system/two_system_model'};
     const download = document.querySelector('.book-toolbar a[download]');
     if (download) download.href = '../notebooks/cls1995/' + (notebooks[article.id] || 'semantic/semantic_knowledge') + '.ipynb';
     if (notebooks[article.id] && !article.querySelector('.colab-launch')) {

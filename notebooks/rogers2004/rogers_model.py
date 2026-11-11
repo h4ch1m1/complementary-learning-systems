@@ -18,6 +18,7 @@ from torch import Tensor, nn
 
 ROOT = Path(__file__).resolve().parents[2]
 VISIBLE, HIDDEN, TOTAL = 216, 64, 280
+DEFAULT_MAX_SETTLE_TICKS = 10000
 CATEGORIES = ['bird', 'mammal', 'vehicle', 'household', 'tool', 'fruit']
 GENERAL = {0: [0], 1: [0, 1], 2: [2], 3: [4]}
 
@@ -204,7 +205,7 @@ class SemanticNetwork(nn.Module):
 
 
 @torch.jit.script
-def settle(weight: Tensor, cue: Tensor, clamp: Tensor, max_ticks: int = 2000):
+def settle(weight: Tensor, cue: Tensor, clamp: Tensor, max_ticks: int = 10000):
     """Same dynamics without storing history; stop only after four small updates."""
     n = cue.size(0)
     full_cue = torch.cat((cue, torch.zeros((n, 64), dtype=cue.dtype)), 1)
@@ -266,14 +267,23 @@ def intact_metrics(model: SemanticNetwork, env: dict):
 
 
 @torch.no_grad()
-def settled_probe(model: SemanticNetwork, env: dict):
+def settled_probe(model: SemanticNetwork, env: dict,
+                  max_ticks: int = DEFAULT_MAX_SETTLE_TICKS):
+    """Probe all cues with an explicit settling budget, retaining residual flags.
+
+    A longer budget fixes slowly converging trials; it is not a guarantee that
+    every damaged recurrent network has a fixed point. Use max_ticks=2000 to
+    recover the historical finite-time evaluation.
+    """
+    if max_ticks < 28:
+        raise ValueError('max_ticks must be at least the 28 training updates')
     target = torch.from_numpy(env['targets'])
     cue = target.repeat(3, 1)
     mask = torch.zeros_like(cue, dtype=torch.bool)
     mask[:48, :40] = True
     mask[48:96, 40:152] = True
     mask[96:, 152:] = True
-    out, residual, ticks = settle(model.weight, cue, mask)
+    out, residual, ticks = settle(model.weight, cue, mask, max_ticks)
     return out.reshape(3, 48, TOTAL), residual.reshape(3, 48), ticks
 
 
@@ -401,8 +411,10 @@ def score_tasks(out: np.ndarray, env: dict, baseline: np.ndarray):
 
 
 @torch.no_grad()
-def evaluate(model: SemanticNetwork, env: dict, output: Path, trials: int = 50, lesion_seed: int = 707):
-    baseline, residuals, ticks = settled_probe(model, env)
+def evaluate(model: SemanticNetwork, env: dict, output: Path, trials: int = 50,
+             lesion_seed: int = 707, max_ticks: int = DEFAULT_MAX_SETTLE_TICKS):
+    output.mkdir(parents=True, exist_ok=True)
+    baseline, residuals, ticks = settled_probe(model, env, max_ticks)
     baseline_np = baseline.numpy()
     np.savez_compressed(output / 'intact_activations.npz', outputs=baseline_np)
     intact = intact_metrics(model, env)
@@ -428,7 +440,7 @@ def evaluate(model: SemanticNetwork, env: dict, output: Path, trials: int = 50, 
             for trial in range(1 if severity == 0 else trials):
                 mask = torch.rand(original.shape, generator=rng) >= severity
                 model.weight.copy_(original * mask)
-                out, residuals, ticks = settled_probe(model, env)
+                out, residuals, ticks = settled_probe(model, env, max_ticks)
                 row = dict(lesion=severity, trial=trial, settle_residual=float(residuals.max()),
                            settle_ticks=ticks, nonconvergent_inputs=int((residuals >= 1e-5).sum()),
                            nonconvergent_visual=int((residuals[2] >= 1e-5).sum()),
@@ -452,7 +464,7 @@ def evaluate(model: SemanticNetwork, env: dict, output: Path, trials: int = 50, 
                 sem=float(values.std(ddof=1)/np.sqrt(len(values))) if len(values)>1 else 0., n=len(values))
     (output / 'summary.json').write_text(json.dumps(summary, indent=2), encoding='utf8')
     (output / 'evaluation_config.json').write_text(json.dumps(dict(trials=trials,
-        lesion_seed=lesion_seed, max_settle_ticks=2000, tolerance=1e-5, stable_updates=4,
+        lesion_seed=lesion_seed, max_settle_ticks=max_ticks, tolerance=1e-5, stable_updates=4,
         evaluation_source_sha256=hashlib.sha256(Path(__file__).read_bytes()).hexdigest(),
         error_bars='SEM across lesion masks, not patients or training seeds'), indent=2), encoding='utf8')
     return summary
@@ -466,6 +478,8 @@ def main():
     parser.add_argument('--seed', type=int, default=12345)
     parser.add_argument('--data-seed', type=int, default=2004)
     parser.add_argument('--trials', type=int, default=50)
+    parser.add_argument('--max-settle-ticks', type=int, default=DEFAULT_MAX_SETTLE_TICKS,
+                        help='Evaluation budget; residual flags remain reported (historical: 2000)')
     parser.add_argument('--output', type=Path, default=ROOT/'outputs/rogers2004/paper_settings')
     parser.add_argument('--evaluate-only', action='store_true')
     parser.add_argument('--train-only', action='store_true')
@@ -476,7 +490,8 @@ def main():
         model, env = load(args.output)
     else:
         model, env = train(args.seed, args.data_seed, args.epochs, args.lr, args.gradient_scale, args.output)
-    if not args.train_only: evaluate(model, env, args.output, args.trials)
+    if not args.train_only:
+        evaluate(model, env, args.output, args.trials, max_ticks=args.max_settle_ticks)
 
 
 if __name__ == '__main__':
