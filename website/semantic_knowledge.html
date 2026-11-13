@@ -7811,7 +7811,7 @@ html,body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Helvetica Neu
 <a data-chapter="equations" href="#equations">Simplified two-system model</a>
 </nav></aside>
 <main class="book-main">
-<div class="book-toolbar"><button aria-expanded="true" aria-label="Toggle chapter navigation" id="toggle-navigation" type="button">☰</button><a download="" href="../notebooks/cls1995/semantic/semantic_knowledge.ipynb">Download notebook ↓</a></div>
+<div class="book-toolbar"><a download="" href="../notebooks/cls1995/semantic/semantic_knowledge.ipynb">Download notebook ↓</a></div>
 <article class="book-section" id="introduction">
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=67cfd46e">
 <div class="jp-Cell-inputWrapper" tabindex="0">
@@ -8582,11 +8582,8 @@ state = torch.stack((next_h, next_c))</code></pre></details>
 <div class="page-footer"><a href="#monkey">← Monkey discrimination network</a></div>
 </article>
 </main><div aria-label="On this page" class="page-toc"><h2>On this page</h2><div id="page-headings"></div></div><script>
-function showChapter(){const key=location.hash.slice(1)||'introduction';const valid=['introduction','semantic','rat','monkey','equations'];const current=valid.includes(key)?key:'introduction';document.querySelectorAll('.book-section').forEach(p=>p.hidden=p.id!==current);document.querySelectorAll('[data-chapter]').forEach(a=>{if(a.dataset.chapter===current)a.setAttribute('aria-current','page');else a.removeAttribute('aria-current');});window.scrollTo(0,0);document.title=document.querySelector('#'+current+' h1').textContent+' · CLS';}
+function showChapter(){const key=location.hash.slice(1)||'introduction';const valid=['introduction','semantic','rat','monkey','equations'];const current=valid.includes(key)?key:'introduction';document.querySelectorAll('.book-section').forEach(p=>p.hidden=p.id!==current);document.querySelectorAll('[data-chapter]').forEach(a=>{if(a.dataset.chapter===current)a.setAttribute('aria-current','page');else a.removeAttribute('aria-current');});window.scrollTo(0,0);}
 function updatePage(){showChapter();const article=document.querySelector('.book-section:not([hidden])');const list=document.getElementById('page-headings');list.replaceChildren();article.querySelectorAll('h1,h2,h3').forEach(h=>{const button=document.createElement('button');button.type='button';button.textContent=h.textContent;button.className=h.tagName==='H3'?'subheading':'';button.addEventListener('click',()=>h.scrollIntoView({block:'start'}));list.appendChild(button);});}
-document.getElementById('toggle-navigation').addEventListener('click',e=>{const hidden=document.body.classList.toggle('sidebar-hidden');e.currentTarget.setAttribute('aria-expanded',String(!hidden));});
 window.addEventListener('hashchange',updatePage);updatePage();
-const paperTitle='Why There Are Complementary Learning Systems in the Hippocampus and Neocortex: Insights From the Successes and Failures of Connectionist Models of Learning and Memory';
-document.title=paperTitle;window.addEventListener('hashchange',()=>document.title=paperTitle);
 window.addEventListener('message',event=>{if(event.data?.type!=='cls-figure-height')return;const frame=Array.from(document.querySelectorAll('iframe')).find(f=>f.contentWindow===event.source);const height=Number(event.data.height);if(frame&&Number.isFinite(height)&&height>100&&height<10000)frame.style.height=Math.ceil(height)+'px';});
 </script></body></html>
